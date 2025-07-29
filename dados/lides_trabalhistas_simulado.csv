@@ -1,0 +1,1001 @@
+id_acao,data_ajuizamento,estado,setor,porte_empresa,tipo_contratacao,causa_principal,valor_acao,houve_acordo,resultado_final
+1,2024-01-25,RJ,Comércio,Grande,Terceirizado,Vínculo Empregatício,18477.0,Sim,Arquivada (acordo)
+2,2023-10-31,RJ,Construção,Pequeno,Estágio,Horas Extras,14032.15,Sim,Arquivada (acordo)
+3,2022-12-06,RS,Indústria,Grande,CLT,Equiparação Salarial,19533.82,Sim,Arquivada (acordo)
+4,2023-08-02,CE,Serviços,Pequeno,Estágio,Assédio Sexual,25661.21,Não,Improcedente
+5,2023-01-24,MG,Serviços,Médio,Terceirizado,Verbas Rescisórias,13360.93,Sim,Arquivada (acordo)
+6,2024-05-11,SC,Comércio,Pequeno,Estágio,Assédio Moral,13361.04,Não,Parcialmente procedente
+7,2024-10-23,PR,Comércio,Grande,Estágio,Equiparação Salarial,26054.49,Sim,Arquivada (acordo)
+8,2023-03-12,BA,Comércio,Grande,Terceirizado,FGTS,20372.04,Não,Procedente
+9,2023-08-11,SP,Indústria,Médio,CLT,Vínculo Empregatício,11713.68,Não,Parcialmente procedente
+10,2024-01-16,PE,TI,Pequeno,Terceirizado,FGTS,18797.92,Sim,Arquivada (acordo)
+11,2025-03-09,PR,Comércio,Grande,PJ,Equiparação Salarial,11756.08,Não,Improcedente
+12,2025-01-08,BA,TI,Grande,PJ,FGTS,11739.89,Não,Procedente
+13,2023-09-01,RS,Comércio,Médio,Estágio,Assédio Sexual,16693.74,Sim,Arquivada (acordo)
+14,2024-06-30,DF,TI,Pequeno,Estágio,Férias,1607.04,Não,Procedente
+15,2022-09-12,MG,TI,Pequeno,PJ,Equiparação Salarial,2925.58,Não,Procedente
+16,2023-01-23,BA,Construção,Médio,Terceirizado,Vínculo Empregatício,11063.99,Não,Improcedente
+17,2024-01-01,PE,Comércio,Pequeno,CLT,Verbas Rescisórias,7910.18,Não,Procedente
+18,2023-04-28,BA,Construção,Pequeno,Estágio,Férias,17199.73,Não,Parcialmente procedente
+19,2023-07-18,PR,Construção,Pequeno,CLT,Equiparação Salarial,8643.83,Não,Procedente
+20,2023-10-28,SC,Comércio,Médio,Estágio,Verbas Rescisórias,5113.87,Não,Procedente
+21,2024-06-13,PR,Construção,Pequeno,CLT,Assédio Sexual,25259.54,Não,Parcialmente procedente
+22,2024-09-12,RS,Indústria,Médio,PJ,Equiparação Salarial,13419.57,Não,Procedente
+23,2022-11-26,SP,Construção,Médio,Estágio,Horas Extras,15472.7,Sim,Arquivada (acordo)
+24,2022-11-27,SC,TI,Pequeno,CLT,Vínculo Empregatício,5026.76,Não,Procedente
+25,2023-06-06,RJ,Serviços,Pequeno,PJ,Verbas Rescisórias,11189.32,Não,Procedente
+26,2024-06-15,MG,TI,Grande,Estágio,Vínculo Empregatício,15776.46,Não,Procedente
+27,2025-05-31,RS,TI,Médio,Terceirizado,Multa 40%,6943.04,Não,Parcialmente procedente
+28,2023-08-09,RS,Indústria,Pequeno,Terceirizado,Horas Extras,17629.89,Não,Parcialmente procedente
+29,2023-04-23,RS,Comércio,Pequeno,CLT,Vínculo Empregatício,10795.53,Sim,Arquivada (acordo)
+30,2024-03-31,SP,TI,Pequeno,PJ,Assédio Sexual,12958.14,Não,Parcialmente procedente
+31,2023-11-15,MG,Construção,Grande,Estágio,Vínculo Empregatício,10788.05,Não,Procedente
+32,2024-03-14,RS,Comércio,Pequeno,Estágio,FGTS,27965.95,Não,Parcialmente procedente
+33,2024-06-06,SP,Comércio,Pequeno,Estágio,FGTS,14905.52,Não,Improcedente
+34,2025-02-16,RS,Indústria,Grande,Estágio,Verbas Rescisórias,7596.02,Não,Parcialmente procedente
+35,2024-08-12,RS,Comércio,Médio,CLT,Horas Extras,20757.81,Não,Parcialmente procedente
+36,2023-05-22,SP,Comércio,Pequeno,PJ,Férias,6454.09,Não,Parcialmente procedente
+37,2025-03-05,BA,Comércio,Pequeno,Estágio,Horas Extras,16462.05,Não,Parcialmente procedente
+38,2024-08-18,PE,TI,Médio,Estágio,Verbas Rescisórias,1500.0,Sim,Arquivada (acordo)
+39,2024-12-30,RS,Comércio,Grande,CLT,FGTS,5702.7,Sim,Arquivada (acordo)
+40,2023-03-28,DF,Serviços,Grande,PJ,Horas Extras,16378.03,Não,Improcedente
+41,2024-04-09,MG,Comércio,Grande,CLT,Vínculo Empregatício,20169.27,Não,Procedente
+42,2023-12-26,DF,Indústria,Grande,CLT,Assédio Moral,16199.58,Não,Parcialmente procedente
+43,2024-02-14,CE,TI,Médio,PJ,FGTS,14190.46,Sim,Arquivada (acordo)
+44,2024-08-19,BA,Indústria,Grande,Terceirizado,Multa 40%,12892.27,Não,Procedente
+45,2024-09-01,RJ,Comércio,Médio,CLT,Assédio Moral,4650.35,Não,Parcialmente procedente
+46,2023-06-09,MG,TI,Pequeno,PJ,FGTS,9961.09,Sim,Arquivada (acordo)
+47,2023-05-25,PE,Construção,Grande,Terceirizado,Equiparação Salarial,11775.53,Sim,Arquivada (acordo)
+48,2022-11-23,CE,TI,Grande,CLT,Verbas Rescisórias,22399.86,Sim,Arquivada (acordo)
+49,2024-02-29,RJ,Construção,Pequeno,Terceirizado,Assédio Sexual,17405.33,Não,Procedente
+50,2023-08-04,RS,TI,Grande,Estágio,Assédio Sexual,2658.72,Não,Procedente
+51,2024-12-24,RJ,Serviços,Médio,CLT,Horas Extras,17268.59,Não,Improcedente
+52,2022-11-23,PR,Indústria,Grande,Estágio,Equiparação Salarial,12304.42,Não,Parcialmente procedente
+53,2024-04-20,RJ,Comércio,Grande,PJ,Equiparação Salarial,10261.55,Sim,Arquivada (acordo)
+54,2023-07-11,SC,Construção,Grande,PJ,Férias,19281.73,Sim,Arquivada (acordo)
+55,2024-02-21,PR,TI,Pequeno,Terceirizado,Vínculo Empregatício,22217.0,Não,Procedente
+56,2024-07-18,SC,Construção,Médio,PJ,Vínculo Empregatício,21518.96,Não,Procedente
+57,2024-02-22,MG,Serviços,Pequeno,PJ,FGTS,9125.48,Não,Parcialmente procedente
+58,2024-12-11,RS,TI,Pequeno,CLT,Férias,12835.51,Não,Procedente
+59,2025-07-08,RS,Indústria,Médio,Terceirizado,Assédio Sexual,17318.84,Não,Procedente
+60,2024-04-25,RS,Comércio,Grande,PJ,Férias,21828.82,Não,Procedente
+61,2025-06-29,PR,TI,Grande,Estágio,Equiparação Salarial,11645.78,Não,Improcedente
+62,2024-12-08,PR,Indústria,Grande,Terceirizado,Horas Extras,13700.39,Sim,Arquivada (acordo)
+63,2024-08-25,BA,TI,Grande,Terceirizado,Férias,7255.66,Não,Parcialmente procedente
+64,2025-05-19,BA,Construção,Pequeno,Terceirizado,Horas Extras,6626.55,Não,Improcedente
+65,2023-12-09,CE,Indústria,Médio,Estágio,Assédio Moral,20687.68,Não,Procedente
+66,2024-06-06,DF,TI,Grande,CLT,Assédio Sexual,24493.68,Não,Procedente
+67,2025-04-04,SC,Serviços,Grande,Terceirizado,Equiparação Salarial,14495.93,Sim,Arquivada (acordo)
+68,2023-12-26,BA,Serviços,Grande,PJ,Assédio Sexual,22024.73,Não,Procedente
+69,2023-07-08,PR,TI,Pequeno,Estágio,FGTS,17531.45,Não,Parcialmente procedente
+70,2023-01-25,RS,Construção,Médio,PJ,Assédio Moral,10484.16,Sim,Arquivada (acordo)
+71,2023-09-26,DF,TI,Pequeno,PJ,Assédio Sexual,17529.77,Sim,Arquivada (acordo)
+72,2023-02-16,RS,Indústria,Pequeno,CLT,Vínculo Empregatício,25766.26,Não,Procedente
+73,2024-03-17,RJ,Serviços,Médio,PJ,Férias,14749.22,Não,Parcialmente procedente
+74,2025-07-05,SP,Comércio,Médio,PJ,Verbas Rescisórias,25952.51,Não,Procedente
+75,2023-07-04,PE,Comércio,Grande,PJ,Assédio Moral,1500.0,Não,Procedente
+76,2022-10-07,CE,Construção,Grande,Terceirizado,Multa 40%,20753.32,Não,Procedente
+77,2025-07-22,CE,Serviços,Grande,Estágio,Verbas Rescisórias,15609.33,Não,Parcialmente procedente
+78,2023-02-01,PR,Indústria,Grande,Terceirizado,Equiparação Salarial,12906.95,Não,Parcialmente procedente
+79,2022-08-21,PE,Comércio,Grande,Terceirizado,Vínculo Empregatício,15642.33,Sim,Arquivada (acordo)
+80,2024-03-26,SC,Construção,Pequeno,PJ,Verbas Rescisórias,1500.0,Sim,Arquivada (acordo)
+81,2024-02-10,MG,Indústria,Pequeno,Estágio,Férias,13462.3,Não,Parcialmente procedente
+82,2025-06-16,SP,Indústria,Médio,Estágio,Horas Extras,17499.79,Não,Procedente
+83,2024-10-25,BA,Serviços,Pequeno,Terceirizado,Assédio Sexual,25345.26,Não,Procedente
+84,2023-08-16,BA,Construção,Grande,PJ,Multa 40%,11372.11,Sim,Arquivada (acordo)
+85,2024-03-08,BA,Serviços,Pequeno,Estágio,FGTS,9340.54,Não,Procedente
+86,2023-07-28,MG,Serviços,Pequeno,CLT,Férias,11487.7,Não,Procedente
+87,2024-03-05,RJ,Serviços,Pequeno,Estágio,Verbas Rescisórias,21407.81,Sim,Arquivada (acordo)
+88,2023-02-28,BA,TI,Pequeno,Estágio,FGTS,17301.26,Não,Procedente
+89,2024-03-18,PR,Serviços,Médio,CLT,Multa 40%,11291.68,Sim,Arquivada (acordo)
+90,2024-03-31,CE,Comércio,Médio,PJ,Assédio Moral,18592.87,Não,Procedente
+91,2024-02-03,SP,Indústria,Pequeno,CLT,Verbas Rescisórias,15679.54,Sim,Arquivada (acordo)
+92,2023-09-05,PE,Comércio,Grande,PJ,Multa 40%,21780.51,Não,Procedente
+93,2024-09-02,MG,Construção,Grande,CLT,Verbas Rescisórias,10085.63,Não,Improcedente
+94,2023-11-03,SP,TI,Grande,Estágio,Férias,12706.36,Não,Improcedente
+95,2023-11-08,DF,Indústria,Pequeno,Terceirizado,Assédio Moral,12255.24,Não,Parcialmente procedente
+96,2022-10-27,SP,TI,Grande,Estágio,FGTS,4755.4,Sim,Arquivada (acordo)
+97,2023-02-26,SC,Comércio,Médio,Estágio,Assédio Moral,17072.84,Não,Parcialmente procedente
+98,2024-05-05,PE,Indústria,Médio,PJ,Equiparação Salarial,16827.39,Não,Parcialmente procedente
+99,2023-09-06,CE,Serviços,Médio,Estágio,Assédio Sexual,15035.79,Não,Parcialmente procedente
+100,2024-09-09,RJ,TI,Médio,PJ,Multa 40%,13357.89,Não,Procedente
+101,2023-10-21,SC,Comércio,Médio,Terceirizado,Verbas Rescisórias,5092.4,Não,Parcialmente procedente
+102,2024-09-08,PR,TI,Médio,Terceirizado,Equiparação Salarial,12055.48,Sim,Arquivada (acordo)
+103,2025-02-02,RS,Comércio,Pequeno,Estágio,Multa 40%,12601.0,Não,Parcialmente procedente
+104,2023-05-21,PE,Serviços,Médio,CLT,Assédio Moral,9384.06,Sim,Arquivada (acordo)
+105,2023-10-03,BA,Indústria,Médio,Terceirizado,Multa 40%,13871.0,Não,Parcialmente procedente
+106,2024-02-24,CE,TI,Médio,Estágio,Assédio Sexual,17828.36,Não,Parcialmente procedente
+107,2024-01-10,RS,TI,Pequeno,PJ,Vínculo Empregatício,28203.3,Sim,Arquivada (acordo)
+108,2024-09-08,PE,TI,Grande,Terceirizado,Assédio Moral,16222.04,Não,Parcialmente procedente
+109,2024-03-01,SC,Indústria,Médio,CLT,Equiparação Salarial,16802.85,Sim,Arquivada (acordo)
+110,2025-04-27,SP,Comércio,Grande,Terceirizado,Verbas Rescisórias,14478.88,Não,Procedente
+111,2023-08-11,RJ,Comércio,Grande,Terceirizado,Multa 40%,1568.6,Não,Parcialmente procedente
+112,2025-01-16,SP,TI,Médio,CLT,Assédio Moral,14814.4,Não,Improcedente
+113,2023-07-15,SP,Indústria,Pequeno,Terceirizado,Assédio Moral,15421.61,Não,Improcedente
+114,2025-07-17,BA,Construção,Grande,PJ,Equiparação Salarial,32242.69,Não,Procedente
+115,2022-10-30,PR,Construção,Médio,Terceirizado,Horas Extras,13653.47,Não,Procedente
+116,2023-11-29,RS,Indústria,Médio,CLT,Verbas Rescisórias,17110.83,Sim,Arquivada (acordo)
+117,2024-10-24,CE,Comércio,Pequeno,CLT,Férias,14757.02,Não,Parcialmente procedente
+118,2023-07-26,PR,Comércio,Pequeno,Terceirizado,Assédio Sexual,6819.25,Não,Parcialmente procedente
+119,2024-07-31,RS,TI,Grande,PJ,Férias,22999.76,Sim,Arquivada (acordo)
+120,2025-04-12,RS,Indústria,Médio,PJ,Assédio Moral,20263.53,Sim,Arquivada (acordo)
+121,2022-12-08,PR,Construção,Grande,Terceirizado,Multa 40%,20537.22,Sim,Arquivada (acordo)
+122,2023-02-19,PR,Serviços,Médio,Estágio,Multa 40%,8634.29,Sim,Arquivada (acordo)
+123,2024-05-05,SP,Serviços,Grande,Terceirizado,Assédio Sexual,24819.56,Sim,Arquivada (acordo)
+124,2024-11-03,RS,Construção,Grande,CLT,Assédio Sexual,5187.04,Não,Procedente
+125,2023-08-28,MG,Serviços,Grande,Estágio,Assédio Sexual,19108.0,Sim,Arquivada (acordo)
+126,2024-12-09,DF,Serviços,Grande,Estágio,Assédio Moral,30333.19,Não,Parcialmente procedente
+127,2022-11-06,SC,Comércio,Pequeno,Terceirizado,Férias,8066.25,Não,Parcialmente procedente
+128,2024-05-23,BA,Construção,Pequeno,Estágio,Assédio Moral,11035.92,Não,Parcialmente procedente
+129,2025-06-04,BA,Construção,Pequeno,Estágio,Férias,15697.56,Sim,Arquivada (acordo)
+130,2023-07-11,CE,TI,Grande,Estágio,Multa 40%,11475.67,Não,Parcialmente procedente
+131,2024-02-13,CE,Indústria,Médio,Estágio,Multa 40%,4145.36,Sim,Arquivada (acordo)
+132,2024-03-26,DF,Indústria,Grande,PJ,Assédio Sexual,15479.94,Não,Parcialmente procedente
+133,2022-12-14,RJ,Indústria,Pequeno,Estágio,Assédio Moral,7563.87,Não,Improcedente
+134,2022-12-04,PR,Construção,Grande,Terceirizado,Férias,18315.15,Não,Procedente
+135,2024-06-13,RS,Serviços,Grande,PJ,Férias,8564.03,Sim,Arquivada (acordo)
+136,2023-09-26,DF,Construção,Grande,PJ,Assédio Moral,25849.54,Sim,Arquivada (acordo)
+137,2024-07-01,BA,TI,Grande,Terceirizado,Horas Extras,9517.23,Sim,Arquivada (acordo)
+138,2023-05-11,PR,Construção,Grande,Estágio,Verbas Rescisórias,12745.57,Não,Parcialmente procedente
+139,2023-12-28,SC,Construção,Grande,Estágio,Multa 40%,20694.62,Não,Procedente
+140,2023-09-26,RS,Construção,Médio,PJ,Férias,6383.95,Sim,Arquivada (acordo)
+141,2024-03-11,PE,Serviços,Médio,PJ,Multa 40%,16592.22,Não,Improcedente
+142,2023-10-05,DF,TI,Pequeno,Estágio,Assédio Moral,24150.0,Não,Parcialmente procedente
+143,2023-10-18,MG,Serviços,Grande,PJ,Assédio Moral,3747.62,Não,Procedente
+144,2023-11-20,SC,Construção,Grande,Estágio,Assédio Moral,16292.44,Não,Procedente
+145,2024-12-25,CE,Serviços,Médio,Estágio,Equiparação Salarial,16819.18,Sim,Arquivada (acordo)
+146,2023-10-12,RJ,Indústria,Grande,Terceirizado,Vínculo Empregatício,20472.76,Não,Parcialmente procedente
+147,2024-10-29,RJ,Comércio,Médio,PJ,Assédio Sexual,6341.35,Não,Improcedente
+148,2024-07-10,SP,TI,Médio,Terceirizado,Férias,5756.8,Sim,Arquivada (acordo)
+149,2024-09-15,CE,Serviços,Grande,PJ,Verbas Rescisórias,18653.59,Sim,Arquivada (acordo)
+150,2024-02-18,DF,Serviços,Grande,PJ,Multa 40%,17078.89,Não,Improcedente
+151,2025-03-02,PE,TI,Médio,Terceirizado,Horas Extras,16753.45,Não,Parcialmente procedente
+152,2024-04-23,PR,Construção,Pequeno,CLT,Multa 40%,17425.14,Não,Procedente
+153,2025-06-09,PR,Serviços,Grande,Terceirizado,Multa 40%,10239.83,Não,Improcedente
+154,2024-08-14,BA,Serviços,Pequeno,PJ,Férias,16625.78,Não,Parcialmente procedente
+155,2023-03-04,PR,Comércio,Grande,Estágio,Assédio Sexual,17051.51,Sim,Arquivada (acordo)
+156,2025-02-11,SP,Construção,Grande,Estágio,Assédio Sexual,9999.54,Não,Parcialmente procedente
+157,2022-08-07,SC,Indústria,Grande,PJ,Assédio Sexual,28060.42,Não,Procedente
+158,2023-04-15,MG,Comércio,Grande,CLT,Assédio Sexual,18316.83,Não,Improcedente
+159,2024-05-16,SC,Indústria,Pequeno,Terceirizado,FGTS,6660.88,Não,Improcedente
+160,2025-06-22,MG,Construção,Médio,Terceirizado,Verbas Rescisórias,19595.88,Sim,Arquivada (acordo)
+161,2024-06-30,PE,TI,Grande,Terceirizado,Assédio Moral,8177.23,Não,Improcedente
+162,2023-10-16,RS,Serviços,Grande,Terceirizado,Assédio Moral,20509.59,Não,Improcedente
+163,2023-10-12,CE,Comércio,Médio,Terceirizado,Assédio Sexual,23110.17,Não,Procedente
+164,2025-03-23,SC,Comércio,Grande,PJ,Multa 40%,9255.22,Sim,Arquivada (acordo)
+165,2023-06-19,CE,TI,Grande,PJ,Assédio Moral,21743.63,Não,Parcialmente procedente
+166,2022-09-21,PR,Serviços,Pequeno,PJ,Horas Extras,17889.47,Não,Parcialmente procedente
+167,2022-12-03,PE,Comércio,Pequeno,PJ,Equiparação Salarial,20754.42,Sim,Arquivada (acordo)
+168,2025-03-28,PE,TI,Grande,Estágio,Verbas Rescisórias,28277.55,Não,Procedente
+169,2024-12-03,PE,Construção,Médio,Terceirizado,Horas Extras,13282.28,Não,Parcialmente procedente
+170,2023-01-22,PE,Indústria,Médio,CLT,FGTS,9723.85,Não,Procedente
+171,2023-03-12,SC,Comércio,Médio,Terceirizado,Vínculo Empregatício,8773.4,Não,Procedente
+172,2023-09-08,PE,Comércio,Grande,PJ,Horas Extras,9289.33,Sim,Arquivada (acordo)
+173,2025-02-13,SC,Indústria,Pequeno,PJ,Assédio Moral,14460.29,Não,Parcialmente procedente
+174,2025-04-16,DF,Indústria,Pequeno,Terceirizado,Verbas Rescisórias,17388.06,Não,Parcialmente procedente
+175,2023-01-25,PR,Indústria,Pequeno,Terceirizado,Verbas Rescisórias,16936.84,Sim,Arquivada (acordo)
+176,2025-02-28,SP,Indústria,Pequeno,Terceirizado,Vínculo Empregatício,20790.28,Não,Improcedente
+177,2024-09-11,PR,Comércio,Pequeno,Estágio,Equiparação Salarial,15091.01,Sim,Arquivada (acordo)
+178,2024-10-09,RJ,Serviços,Médio,Terceirizado,Equiparação Salarial,25174.74,Não,Parcialmente procedente
+179,2024-04-19,RS,Construção,Pequeno,Terceirizado,Multa 40%,13147.4,Não,Improcedente
+180,2024-03-03,PE,Serviços,Médio,CLT,Multa 40%,34041.18,Não,Parcialmente procedente
+181,2022-09-22,RJ,TI,Grande,PJ,Assédio Moral,19379.67,Sim,Arquivada (acordo)
+182,2023-07-13,DF,Construção,Grande,Terceirizado,Férias,8999.9,Não,Parcialmente procedente
+183,2023-06-27,PE,Construção,Grande,Estágio,Assédio Moral,7503.75,Não,Improcedente
+184,2023-08-31,CE,Indústria,Médio,Estágio,Vínculo Empregatício,18377.31,Não,Procedente
+185,2022-08-16,BA,Serviços,Grande,CLT,FGTS,13435.76,Não,Procedente
+186,2023-07-19,SC,Indústria,Grande,Estágio,Assédio Moral,19998.0,Sim,Arquivada (acordo)
+187,2024-03-10,RJ,Comércio,Médio,CLT,FGTS,18312.66,Não,Parcialmente procedente
+188,2022-08-20,DF,Construção,Grande,Terceirizado,Assédio Moral,14490.2,Não,Procedente
+189,2025-01-18,BA,Comércio,Médio,Terceirizado,FGTS,9072.44,Sim,Arquivada (acordo)
+190,2024-08-19,CE,Indústria,Pequeno,Estágio,Vínculo Empregatício,4396.07,Não,Parcialmente procedente
+191,2023-11-14,CE,TI,Pequeno,Terceirizado,Vínculo Empregatício,11874.4,Não,Procedente
+192,2023-08-27,DF,Construção,Grande,CLT,Assédio Sexual,20994.79,Sim,Arquivada (acordo)
+193,2024-04-20,PR,TI,Médio,Terceirizado,Horas Extras,16498.66,Sim,Arquivada (acordo)
+194,2022-12-21,MG,Construção,Grande,Estágio,Assédio Moral,6279.83,Sim,Arquivada (acordo)
+195,2023-10-16,SP,Comércio,Grande,PJ,Férias,16212.27,Não,Parcialmente procedente
+196,2024-06-23,SC,TI,Grande,Terceirizado,Assédio Moral,17697.22,Não,Improcedente
+197,2022-09-05,DF,Comércio,Grande,CLT,Assédio Sexual,8813.0,Não,Parcialmente procedente
+198,2024-05-24,DF,Serviços,Médio,Terceirizado,Vínculo Empregatício,16076.08,Não,Improcedente
+199,2024-05-20,BA,Comércio,Médio,Estágio,Equiparação Salarial,15407.46,Não,Improcedente
+200,2023-07-19,BA,Construção,Pequeno,CLT,Vínculo Empregatício,6999.21,Não,Parcialmente procedente
+201,2022-11-12,MG,TI,Médio,Terceirizado,Assédio Moral,17504.51,Sim,Arquivada (acordo)
+202,2025-01-22,BA,Indústria,Pequeno,Estágio,Equiparação Salarial,18925.49,Não,Parcialmente procedente
+203,2025-01-30,SC,Comércio,Médio,CLT,Férias,22581.36,Sim,Arquivada (acordo)
+204,2023-08-29,RJ,TI,Grande,Estágio,Férias,22376.61,Não,Parcialmente procedente
+205,2023-02-07,RJ,Serviços,Pequeno,Terceirizado,Verbas Rescisórias,5356.31,Não,Procedente
+206,2024-04-26,SC,Comércio,Médio,CLT,Vínculo Empregatício,8435.22,Não,Parcialmente procedente
+207,2023-07-31,RJ,Serviços,Médio,Terceirizado,Vínculo Empregatício,18605.25,Não,Improcedente
+208,2025-05-06,CE,Comércio,Grande,PJ,FGTS,18596.5,Não,Procedente
+209,2023-10-13,MG,Indústria,Pequeno,PJ,Assédio Sexual,18605.33,Sim,Arquivada (acordo)
+210,2022-09-18,DF,Indústria,Grande,CLT,Verbas Rescisórias,41969.12,Não,Procedente
+211,2025-05-14,PE,Construção,Grande,Estágio,FGTS,18996.23,Não,Procedente
+212,2024-08-15,MG,Serviços,Pequeno,Estágio,Multa 40%,22948.96,Não,Procedente
+213,2024-12-11,DF,Comércio,Médio,CLT,Assédio Sexual,21678.01,Não,Improcedente
+214,2023-03-21,SC,TI,Pequeno,CLT,Equiparação Salarial,19559.74,Não,Parcialmente procedente
+215,2025-06-19,SP,Serviços,Grande,PJ,FGTS,12793.12,Não,Parcialmente procedente
+216,2025-01-23,SP,Serviços,Pequeno,Terceirizado,Assédio Moral,20312.78,Não,Improcedente
+217,2024-08-31,RS,Serviços,Médio,PJ,FGTS,9590.22,Não,Parcialmente procedente
+218,2023-04-24,BA,TI,Grande,CLT,FGTS,13342.27,Sim,Arquivada (acordo)
+219,2025-02-12,RJ,Construção,Grande,Estágio,Assédio Sexual,11602.46,Sim,Arquivada (acordo)
+220,2024-08-21,DF,Indústria,Médio,CLT,Verbas Rescisórias,15573.12,Não,Parcialmente procedente
+221,2024-07-19,BA,Indústria,Grande,CLT,Assédio Sexual,31202.61,Não,Procedente
+222,2025-02-19,SC,Indústria,Grande,CLT,Férias,1929.14,Não,Improcedente
+223,2024-07-20,PR,Indústria,Pequeno,Terceirizado,Multa 40%,19803.82,Sim,Arquivada (acordo)
+224,2023-03-10,MG,Indústria,Pequeno,Terceirizado,Assédio Moral,3710.99,Não,Parcialmente procedente
+225,2024-07-09,CE,Comércio,Grande,Terceirizado,Verbas Rescisórias,11696.48,Não,Improcedente
+226,2025-06-19,MG,Construção,Pequeno,Estágio,Horas Extras,22622.65,Não,Procedente
+227,2023-05-31,RS,Serviços,Grande,Terceirizado,Multa 40%,15449.96,Sim,Arquivada (acordo)
+228,2025-05-22,RS,TI,Médio,PJ,FGTS,7455.79,Não,Parcialmente procedente
+229,2025-06-22,PE,Serviços,Médio,Estágio,Equiparação Salarial,9992.87,Não,Procedente
+230,2022-10-16,RS,Construção,Pequeno,Terceirizado,Horas Extras,19757.18,Não,Procedente
+231,2023-12-18,CE,Comércio,Grande,CLT,Assédio Sexual,9887.43,Sim,Arquivada (acordo)
+232,2025-04-22,MG,TI,Médio,PJ,Férias,16515.21,Sim,Arquivada (acordo)
+233,2023-07-29,RS,Serviços,Médio,CLT,Férias,15319.0,Sim,Arquivada (acordo)
+234,2023-11-13,CE,TI,Pequeno,Estágio,Assédio Moral,10438.8,Não,Improcedente
+235,2025-04-21,RJ,TI,Pequeno,PJ,Horas Extras,30007.61,Sim,Arquivada (acordo)
+236,2024-01-28,PE,Indústria,Grande,Estágio,Multa 40%,19437.43,Não,Procedente
+237,2023-03-24,SP,TI,Pequeno,PJ,Equiparação Salarial,1500.0,Não,Procedente
+238,2025-07-06,BA,Comércio,Médio,PJ,Assédio Sexual,16305.18,Sim,Arquivada (acordo)
+239,2024-01-13,RS,Serviços,Grande,Estágio,Assédio Moral,10367.49,Sim,Arquivada (acordo)
+240,2025-04-20,PE,Construção,Grande,CLT,Equiparação Salarial,20967.03,Não,Procedente
+241,2024-06-23,PR,Serviços,Pequeno,Terceirizado,Vínculo Empregatício,9452.35,Não,Improcedente
+242,2024-07-25,RJ,Construção,Médio,CLT,Equiparação Salarial,14196.84,Não,Procedente
+243,2024-03-03,CE,Construção,Pequeno,Estágio,Multa 40%,18534.91,Sim,Arquivada (acordo)
+244,2024-08-28,BA,TI,Médio,CLT,FGTS,21060.29,Não,Parcialmente procedente
+245,2025-04-09,RJ,Construção,Grande,Terceirizado,Verbas Rescisórias,6597.93,Sim,Arquivada (acordo)
+246,2022-11-06,CE,TI,Grande,PJ,Multa 40%,12658.49,Não,Parcialmente procedente
+247,2024-01-06,MG,Indústria,Pequeno,Estágio,Horas Extras,11675.38,Sim,Arquivada (acordo)
+248,2023-07-08,SP,Indústria,Pequeno,Terceirizado,Assédio Sexual,10426.7,Não,Procedente
+249,2022-10-31,CE,Serviços,Médio,CLT,Vínculo Empregatício,27358.18,Sim,Arquivada (acordo)
+250,2023-08-10,SP,TI,Médio,CLT,FGTS,17834.87,Não,Parcialmente procedente
+251,2023-02-03,PE,Serviços,Médio,PJ,Multa 40%,6173.81,Não,Parcialmente procedente
+252,2022-08-04,CE,TI,Pequeno,Estágio,Assédio Moral,21425.03,Não,Procedente
+253,2025-05-10,MG,Construção,Médio,Terceirizado,Assédio Moral,29855.09,Sim,Arquivada (acordo)
+254,2024-07-21,PR,TI,Médio,Estágio,Verbas Rescisórias,22227.26,Não,Parcialmente procedente
+255,2024-05-24,SP,TI,Grande,Estágio,Assédio Sexual,4364.41,Não,Procedente
+256,2024-01-25,SP,Comércio,Grande,Estágio,FGTS,11610.36,Não,Procedente
+257,2025-03-25,MG,Comércio,Pequeno,Estágio,Horas Extras,23868.38,Sim,Arquivada (acordo)
+258,2022-09-17,RS,TI,Médio,Estágio,Horas Extras,10046.31,Não,Procedente
+259,2025-05-22,SC,TI,Médio,CLT,Verbas Rescisórias,18106.74,Não,Parcialmente procedente
+260,2024-06-27,PR,Indústria,Pequeno,CLT,Verbas Rescisórias,20422.44,Não,Parcialmente procedente
+261,2024-11-26,CE,Comércio,Médio,Terceirizado,Multa 40%,8511.49,Sim,Arquivada (acordo)
+262,2024-05-04,DF,TI,Grande,Estágio,Vínculo Empregatício,14583.32,Sim,Arquivada (acordo)
+263,2024-04-29,RJ,Serviços,Pequeno,Estágio,Assédio Moral,1500.0,Não,Procedente
+264,2024-03-23,SC,TI,Grande,CLT,Equiparação Salarial,7829.29,Não,Procedente
+265,2023-07-05,MG,Indústria,Médio,PJ,Assédio Moral,13232.02,Não,Procedente
+266,2023-06-03,RS,Serviços,Pequeno,Terceirizado,Equiparação Salarial,6265.52,Não,Parcialmente procedente
+267,2024-04-24,CE,Indústria,Grande,CLT,Assédio Moral,26426.88,Não,Procedente
+268,2022-08-07,PE,Construção,Médio,Estágio,Assédio Moral,4989.01,Sim,Arquivada (acordo)
+269,2024-06-28,SC,Comércio,Médio,Estágio,Equiparação Salarial,11919.69,Não,Procedente
+270,2025-01-26,CE,Construção,Pequeno,PJ,Férias,15915.18,Não,Procedente
+271,2024-10-18,RJ,Construção,Pequeno,Terceirizado,Verbas Rescisórias,25088.91,Sim,Arquivada (acordo)
+272,2024-01-02,RS,TI,Grande,Terceirizado,Assédio Moral,4948.96,Sim,Arquivada (acordo)
+273,2023-01-02,CE,TI,Pequeno,Terceirizado,Equiparação Salarial,23142.15,Sim,Arquivada (acordo)
+274,2022-07-30,MG,Construção,Grande,PJ,Verbas Rescisórias,15071.63,Não,Procedente
+275,2022-11-16,DF,TI,Grande,CLT,Horas Extras,8129.44,Sim,Arquivada (acordo)
+276,2023-11-29,DF,TI,Grande,PJ,Férias,18234.72,Não,Improcedente
+277,2023-06-21,CE,TI,Grande,Terceirizado,Multa 40%,16393.42,Sim,Arquivada (acordo)
+278,2023-02-03,BA,TI,Médio,CLT,Horas Extras,10798.48,Sim,Arquivada (acordo)
+279,2025-04-12,BA,Serviços,Médio,PJ,FGTS,15488.61,Não,Parcialmente procedente
+280,2025-03-20,SC,TI,Médio,PJ,FGTS,12302.8,Não,Improcedente
+281,2024-02-22,RS,Serviços,Pequeno,Terceirizado,Multa 40%,15794.62,Sim,Arquivada (acordo)
+282,2023-03-29,RJ,Comércio,Médio,Estágio,Férias,19634.91,Sim,Arquivada (acordo)
+283,2025-07-22,MG,TI,Grande,Terceirizado,Vínculo Empregatício,26102.12,Não,Parcialmente procedente
+284,2024-07-02,CE,Serviços,Médio,Terceirizado,Multa 40%,6335.29,Sim,Arquivada (acordo)
+285,2023-02-09,BA,Construção,Médio,PJ,Vínculo Empregatício,29931.23,Não,Improcedente
+286,2024-08-01,PR,Serviços,Grande,Estágio,Assédio Sexual,1500.0,Não,Procedente
+287,2022-10-02,BA,Indústria,Médio,Terceirizado,Férias,13937.5,Não,Parcialmente procedente
+288,2022-11-30,DF,Construção,Pequeno,Terceirizado,Equiparação Salarial,19118.22,Sim,Arquivada (acordo)
+289,2024-03-26,BA,Construção,Médio,Terceirizado,Assédio Moral,16966.94,Sim,Arquivada (acordo)
+290,2024-05-16,RJ,Serviços,Médio,Terceirizado,Equiparação Salarial,10641.1,Não,Procedente
+291,2022-09-20,RS,Construção,Grande,Estágio,Equiparação Salarial,13543.14,Sim,Arquivada (acordo)
+292,2023-11-08,SP,Indústria,Grande,Terceirizado,Multa 40%,11548.99,Não,Improcedente
+293,2023-11-02,CE,Indústria,Médio,Terceirizado,Verbas Rescisórias,10874.45,Não,Procedente
+294,2022-11-28,PR,Construção,Médio,Estágio,Assédio Sexual,20947.21,Não,Improcedente
+295,2024-01-11,SC,Comércio,Médio,Terceirizado,Horas Extras,17499.11,Não,Parcialmente procedente
+296,2023-01-15,DF,Construção,Pequeno,CLT,Multa 40%,10149.63,Sim,Arquivada (acordo)
+297,2023-02-15,DF,Serviços,Pequeno,PJ,Horas Extras,21297.2,Não,Procedente
+298,2023-10-15,RS,Comércio,Médio,Terceirizado,Férias,17151.1,Sim,Arquivada (acordo)
+299,2024-06-25,RS,Serviços,Grande,Estágio,Horas Extras,20690.03,Não,Parcialmente procedente
+300,2023-10-12,CE,TI,Grande,Estágio,Equiparação Salarial,19407.4,Não,Procedente
+301,2023-08-15,PE,Construção,Médio,Terceirizado,Assédio Sexual,9197.03,Não,Improcedente
+302,2024-11-19,RS,TI,Grande,Terceirizado,Vínculo Empregatício,11078.73,Não,Procedente
+303,2023-11-21,PR,Indústria,Grande,Estágio,FGTS,20231.06,Não,Parcialmente procedente
+304,2023-04-12,PR,TI,Pequeno,Estágio,Férias,19272.59,Não,Procedente
+305,2024-12-12,MG,TI,Pequeno,Terceirizado,Assédio Moral,14853.69,Não,Parcialmente procedente
+306,2023-10-16,PR,Serviços,Pequeno,PJ,Equiparação Salarial,15821.29,Sim,Arquivada (acordo)
+307,2025-07-05,CE,TI,Pequeno,CLT,Vínculo Empregatício,23943.65,Sim,Arquivada (acordo)
+308,2023-03-19,CE,Indústria,Grande,PJ,Horas Extras,10859.0,Sim,Arquivada (acordo)
+309,2024-05-05,SC,Serviços,Pequeno,PJ,Horas Extras,18829.68,Não,Procedente
+310,2025-04-01,MG,Serviços,Grande,Estágio,Multa 40%,13584.65,Não,Procedente
+311,2024-09-16,PR,TI,Médio,CLT,Assédio Moral,13476.23,Não,Parcialmente procedente
+312,2022-12-08,SP,Indústria,Médio,PJ,Horas Extras,22691.44,Não,Parcialmente procedente
+313,2024-12-17,PE,Indústria,Grande,Terceirizado,Horas Extras,20777.91,Sim,Arquivada (acordo)
+314,2024-01-01,DF,Construção,Pequeno,Terceirizado,Assédio Sexual,20694.57,Não,Procedente
+315,2024-07-07,CE,Serviços,Pequeno,Estágio,Assédio Sexual,24138.35,Sim,Arquivada (acordo)
+316,2024-03-24,RJ,TI,Pequeno,Estágio,Assédio Sexual,15147.03,Não,Improcedente
+317,2024-08-19,SC,TI,Grande,PJ,Verbas Rescisórias,19773.67,Não,Procedente
+318,2022-09-17,BA,Serviços,Grande,Terceirizado,Assédio Moral,12828.13,Não,Improcedente
+319,2022-11-06,MG,Serviços,Médio,PJ,Horas Extras,17269.16,Sim,Arquivada (acordo)
+320,2024-12-01,RS,Serviços,Médio,Terceirizado,Assédio Sexual,14089.0,Não,Parcialmente procedente
+321,2022-09-05,PR,TI,Grande,PJ,Horas Extras,15678.97,Não,Parcialmente procedente
+322,2024-11-11,MG,Serviços,Grande,Terceirizado,Assédio Moral,19166.1,Não,Procedente
+323,2024-01-05,SC,Construção,Pequeno,PJ,Verbas Rescisórias,9272.46,Não,Parcialmente procedente
+324,2024-07-12,DF,TI,Médio,Estágio,Equiparação Salarial,29646.71,Não,Procedente
+325,2024-05-07,RS,Construção,Pequeno,Estágio,Equiparação Salarial,7957.88,Não,Improcedente
+326,2023-10-25,DF,Comércio,Pequeno,PJ,Equiparação Salarial,6500.68,Sim,Arquivada (acordo)
+327,2023-05-14,SC,Construção,Médio,CLT,Vínculo Empregatício,23106.78,Não,Parcialmente procedente
+328,2022-12-28,CE,Serviços,Pequeno,Estágio,Verbas Rescisórias,20541.64,Não,Parcialmente procedente
+329,2024-04-26,SP,Construção,Médio,Terceirizado,Horas Extras,19368.84,Não,Procedente
+330,2025-05-27,RS,Construção,Pequeno,CLT,Férias,19398.42,Não,Improcedente
+331,2023-08-20,SP,Comércio,Médio,CLT,Assédio Sexual,14914.27,Não,Procedente
+332,2025-04-05,BA,TI,Médio,Estágio,Férias,8719.22,Não,Procedente
+333,2024-05-22,CE,Indústria,Grande,Terceirizado,Assédio Moral,15530.63,Sim,Arquivada (acordo)
+334,2023-11-15,CE,Serviços,Grande,PJ,Vínculo Empregatício,10259.87,Não,Procedente
+335,2023-11-17,PR,Serviços,Grande,Estágio,Equiparação Salarial,21825.84,Não,Parcialmente procedente
+336,2023-03-26,PE,TI,Pequeno,Terceirizado,Vínculo Empregatício,13970.6,Não,Procedente
+337,2024-04-24,RJ,Comércio,Grande,Estágio,Horas Extras,9221.52,Sim,Arquivada (acordo)
+338,2023-05-04,RJ,Comércio,Grande,CLT,Multa 40%,12750.3,Não,Procedente
+339,2023-10-05,SP,Indústria,Grande,CLT,Férias,17890.52,Não,Parcialmente procedente
+340,2024-06-20,SP,Indústria,Grande,Terceirizado,Vínculo Empregatício,11053.93,Não,Procedente
+341,2024-08-19,SC,Construção,Grande,Terceirizado,Vínculo Empregatício,9244.46,Não,Improcedente
+342,2024-03-23,CE,Indústria,Médio,Terceirizado,Assédio Sexual,16705.81,Sim,Arquivada (acordo)
+343,2024-08-10,DF,Indústria,Grande,Estágio,Equiparação Salarial,16714.77,Não,Procedente
+344,2024-01-03,BA,Construção,Médio,Estágio,Férias,11451.4,Sim,Arquivada (acordo)
+345,2025-04-29,BA,Indústria,Grande,Estágio,Vínculo Empregatício,11702.73,Não,Parcialmente procedente
+346,2024-07-10,MG,Serviços,Pequeno,Estágio,Férias,16624.35,Não,Improcedente
+347,2022-08-07,RS,TI,Pequeno,Terceirizado,Assédio Moral,4863.41,Não,Procedente
+348,2025-06-22,RJ,Construção,Grande,PJ,Horas Extras,5147.75,Sim,Arquivada (acordo)
+349,2022-11-29,DF,Construção,Pequeno,CLT,Vínculo Empregatício,9970.89,Não,Parcialmente procedente
+350,2022-08-29,CE,Indústria,Médio,PJ,FGTS,13505.87,Não,Procedente
+351,2023-06-24,RS,Indústria,Grande,CLT,Multa 40%,17176.35,Não,Procedente
+352,2024-11-25,RS,Serviços,Pequeno,Terceirizado,Assédio Sexual,25327.49,Não,Parcialmente procedente
+353,2024-10-30,SC,TI,Médio,Terceirizado,Equiparação Salarial,21003.62,Não,Parcialmente procedente
+354,2024-08-05,PE,TI,Pequeno,Terceirizado,FGTS,13880.43,Não,Parcialmente procedente
+355,2023-06-18,RS,Indústria,Pequeno,Terceirizado,Equiparação Salarial,14866.89,Não,Parcialmente procedente
+356,2023-05-21,BA,TI,Pequeno,PJ,FGTS,7982.29,Sim,Arquivada (acordo)
+357,2024-05-23,DF,Indústria,Médio,Terceirizado,Assédio Sexual,14870.41,Não,Parcialmente procedente
+358,2023-01-20,PE,Serviços,Pequeno,Terceirizado,Verbas Rescisórias,12979.39,Sim,Arquivada (acordo)
+359,2022-09-25,CE,Serviços,Pequeno,CLT,Equiparação Salarial,17259.03,Sim,Arquivada (acordo)
+360,2023-01-30,RJ,Comércio,Pequeno,Estágio,Verbas Rescisórias,9209.38,Não,Parcialmente procedente
+361,2025-01-12,MG,Comércio,Pequeno,Estágio,FGTS,18635.43,Sim,Arquivada (acordo)
+362,2024-07-23,DF,Serviços,Grande,Estágio,Horas Extras,25729.17,Sim,Arquivada (acordo)
+363,2022-08-21,CE,Serviços,Pequeno,CLT,Equiparação Salarial,14238.68,Não,Parcialmente procedente
+364,2022-12-18,PR,Comércio,Grande,Estágio,Verbas Rescisórias,17811.98,Sim,Arquivada (acordo)
+365,2024-07-04,RJ,Construção,Pequeno,PJ,Vínculo Empregatício,19831.01,Não,Parcialmente procedente
+366,2024-04-27,SC,TI,Médio,CLT,FGTS,12191.46,Não,Parcialmente procedente
+367,2024-09-01,RS,Indústria,Médio,CLT,Horas Extras,16568.65,Sim,Arquivada (acordo)
+368,2023-09-11,BA,Serviços,Grande,Estágio,Horas Extras,15088.15,Não,Procedente
+369,2023-05-02,RJ,Serviços,Médio,Terceirizado,Assédio Moral,15683.73,Não,Procedente
+370,2022-08-02,RS,Indústria,Grande,Estágio,Assédio Sexual,9588.93,Sim,Arquivada (acordo)
+371,2024-02-26,RJ,TI,Grande,CLT,Verbas Rescisórias,15171.57,Não,Parcialmente procedente
+372,2023-03-29,RS,Construção,Pequeno,Estágio,Assédio Moral,18485.99,Sim,Arquivada (acordo)
+373,2024-07-09,DF,Indústria,Grande,Estágio,Equiparação Salarial,25158.01,Não,Procedente
+374,2023-01-02,MG,Comércio,Grande,Terceirizado,Horas Extras,21714.9,Sim,Arquivada (acordo)
+375,2023-12-02,RS,Comércio,Médio,Estágio,FGTS,30072.28,Sim,Arquivada (acordo)
+376,2025-01-13,PR,Serviços,Médio,PJ,FGTS,9628.57,Não,Parcialmente procedente
+377,2023-07-28,MG,Construção,Grande,Estágio,Assédio Moral,21106.24,Não,Parcialmente procedente
+378,2025-02-17,RS,Comércio,Pequeno,Terceirizado,Verbas Rescisórias,16283.39,Não,Procedente
+379,2024-12-23,MG,Serviços,Médio,Terceirizado,Assédio Moral,30328.62,Sim,Arquivada (acordo)
+380,2025-01-07,PR,Serviços,Médio,Terceirizado,Assédio Moral,9341.91,Sim,Arquivada (acordo)
+381,2025-05-09,MG,Serviços,Médio,Estágio,Assédio Moral,9121.95,Sim,Arquivada (acordo)
+382,2024-08-01,SC,Construção,Pequeno,Terceirizado,Férias,10804.25,Sim,Arquivada (acordo)
+383,2023-04-18,BA,Serviços,Pequeno,PJ,Equiparação Salarial,1500.0,Sim,Arquivada (acordo)
+384,2024-06-30,BA,Indústria,Pequeno,Terceirizado,Assédio Sexual,11319.71,Sim,Arquivada (acordo)
+385,2023-04-18,MG,Comércio,Pequeno,Estágio,Assédio Sexual,9686.07,Não,Parcialmente procedente
+386,2023-12-24,RJ,TI,Médio,PJ,Multa 40%,16052.76,Não,Improcedente
+387,2023-10-19,RJ,Indústria,Médio,CLT,Férias,17392.29,Não,Procedente
+388,2023-06-25,SC,Serviços,Médio,Estágio,Verbas Rescisórias,28133.2,Não,Procedente
+389,2024-03-28,RS,Serviços,Médio,PJ,Férias,21652.97,Não,Parcialmente procedente
+390,2024-08-19,PE,Construção,Pequeno,Terceirizado,Férias,10961.67,Sim,Arquivada (acordo)
+391,2023-07-18,BA,TI,Pequeno,PJ,Equiparação Salarial,8711.1,Sim,Arquivada (acordo)
+392,2023-05-03,CE,Comércio,Grande,Estágio,Vínculo Empregatício,18443.43,Não,Parcialmente procedente
+393,2023-07-09,RJ,Serviços,Grande,Estágio,Verbas Rescisórias,5758.37,Não,Parcialmente procedente
+394,2025-04-27,MG,Serviços,Médio,CLT,Multa 40%,27820.21,Não,Parcialmente procedente
+395,2023-03-23,BA,Construção,Grande,Estágio,Equiparação Salarial,23256.08,Sim,Arquivada (acordo)
+396,2024-08-06,SC,Construção,Grande,CLT,Assédio Moral,11715.77,Não,Procedente
+397,2024-03-10,SC,Indústria,Grande,CLT,Férias,3008.06,Não,Parcialmente procedente
+398,2025-07-13,BA,Comércio,Pequeno,CLT,Assédio Sexual,24477.11,Sim,Arquivada (acordo)
+399,2025-01-01,CE,Construção,Grande,PJ,Multa 40%,14198.22,Não,Parcialmente procedente
+400,2024-08-09,DF,Construção,Pequeno,Terceirizado,Horas Extras,23664.71,Não,Parcialmente procedente
+401,2025-05-16,RJ,Comércio,Grande,PJ,FGTS,3839.01,Não,Parcialmente procedente
+402,2022-10-06,RS,Construção,Médio,Terceirizado,Multa 40%,10804.37,Sim,Arquivada (acordo)
+403,2025-02-07,PE,TI,Pequeno,Terceirizado,Horas Extras,15036.71,Não,Improcedente
+404,2024-07-07,SC,Comércio,Grande,PJ,Vínculo Empregatício,15328.86,Não,Parcialmente procedente
+405,2022-12-03,SC,Construção,Médio,Estágio,Vínculo Empregatício,11849.54,Não,Procedente
+406,2023-04-12,MG,Serviços,Médio,CLT,Vínculo Empregatício,19359.95,Não,Parcialmente procedente
+407,2023-12-20,SP,Indústria,Pequeno,Terceirizado,Assédio Moral,7526.66,Não,Procedente
+408,2023-01-03,CE,Indústria,Médio,Terceirizado,Vínculo Empregatício,14003.34,Não,Parcialmente procedente
+409,2022-08-16,PE,Construção,Grande,Terceirizado,Férias,15842.07,Não,Parcialmente procedente
+410,2024-12-17,SC,TI,Médio,PJ,Assédio Sexual,18601.07,Não,Parcialmente procedente
+411,2023-08-06,MG,TI,Pequeno,PJ,Assédio Sexual,19981.3,Sim,Arquivada (acordo)
+412,2023-07-05,SC,Indústria,Grande,Estágio,Férias,7127.51,Não,Parcialmente procedente
+413,2024-10-22,BA,Indústria,Médio,PJ,Equiparação Salarial,4261.2,Sim,Arquivada (acordo)
+414,2024-03-08,PR,Indústria,Pequeno,Terceirizado,Multa 40%,23943.74,Não,Procedente
+415,2023-07-04,SP,Serviços,Pequeno,PJ,Férias,17326.2,Não,Parcialmente procedente
+416,2023-12-26,PE,Serviços,Grande,Estágio,Férias,9760.59,Não,Parcialmente procedente
+417,2024-10-31,MG,Comércio,Grande,CLT,Vínculo Empregatício,25858.06,Sim,Arquivada (acordo)
+418,2024-08-20,PR,Indústria,Grande,Terceirizado,Verbas Rescisórias,15809.72,Não,Parcialmente procedente
+419,2024-02-28,PE,Construção,Grande,CLT,Assédio Moral,23255.08,Sim,Arquivada (acordo)
+420,2024-05-18,CE,TI,Grande,CLT,Multa 40%,15472.63,Não,Procedente
+421,2022-10-18,RJ,Indústria,Médio,CLT,Multa 40%,29425.24,Sim,Arquivada (acordo)
+422,2022-11-25,RJ,Serviços,Pequeno,PJ,Vínculo Empregatício,27287.39,Não,Parcialmente procedente
+423,2023-11-13,SC,Construção,Grande,Estágio,Verbas Rescisórias,13257.25,Não,Procedente
+424,2023-06-08,RS,Comércio,Grande,Terceirizado,Equiparação Salarial,21801.0,Sim,Arquivada (acordo)
+425,2023-07-09,CE,Indústria,Médio,Terceirizado,Assédio Sexual,19517.63,Não,Procedente
+426,2024-07-29,CE,Comércio,Pequeno,Estágio,Horas Extras,24580.42,Não,Procedente
+427,2025-04-14,MG,Indústria,Pequeno,PJ,FGTS,8245.54,Não,Procedente
+428,2025-02-06,BA,Serviços,Pequeno,Terceirizado,Férias,19802.36,Não,Improcedente
+429,2025-03-13,RJ,Serviços,Grande,Terceirizado,FGTS,22408.97,Não,Parcialmente procedente
+430,2024-04-12,DF,Comércio,Grande,CLT,Multa 40%,2688.82,Não,Procedente
+431,2024-11-22,RJ,Construção,Médio,PJ,Férias,6717.19,Não,Parcialmente procedente
+432,2024-12-15,SC,TI,Médio,PJ,Multa 40%,1500.0,Não,Procedente
+433,2024-11-13,SP,Comércio,Pequeno,Estágio,Horas Extras,13114.15,Sim,Arquivada (acordo)
+434,2024-11-14,MG,Serviços,Médio,CLT,Férias,20022.8,Sim,Arquivada (acordo)
+435,2024-01-10,MG,TI,Pequeno,Terceirizado,Assédio Moral,25516.5,Não,Parcialmente procedente
+436,2022-11-13,SC,Indústria,Pequeno,Estágio,Assédio Sexual,15518.66,Não,Procedente
+437,2025-05-01,BA,Comércio,Grande,CLT,Horas Extras,26400.31,Sim,Arquivada (acordo)
+438,2023-03-31,RJ,Indústria,Grande,PJ,Equiparação Salarial,5339.29,Não,Improcedente
+439,2024-03-22,SC,Comércio,Médio,PJ,Multa 40%,3076.32,Sim,Arquivada (acordo)
+440,2025-01-19,BA,Comércio,Grande,CLT,Assédio Moral,14611.17,Não,Procedente
+441,2024-03-15,MG,Serviços,Pequeno,PJ,Assédio Moral,17688.46,Não,Improcedente
+442,2025-07-19,MG,Serviços,Médio,PJ,Verbas Rescisórias,14771.14,Não,Procedente
+443,2022-09-21,PE,Indústria,Pequeno,CLT,Verbas Rescisórias,1500.0,Não,Parcialmente procedente
+444,2023-02-11,BA,TI,Médio,Terceirizado,Verbas Rescisórias,14376.16,Sim,Arquivada (acordo)
+445,2023-07-27,RJ,Indústria,Grande,Terceirizado,Horas Extras,5868.71,Não,Procedente
+446,2024-10-26,PR,Indústria,Grande,PJ,Férias,19687.71,Sim,Arquivada (acordo)
+447,2024-04-17,SP,Indústria,Médio,Estágio,Assédio Moral,17566.19,Sim,Arquivada (acordo)
+448,2025-07-09,DF,Comércio,Grande,CLT,FGTS,8420.84,Não,Improcedente
+449,2025-04-28,DF,Serviços,Médio,PJ,Multa 40%,11402.93,Não,Procedente
+450,2024-07-02,SP,Construção,Pequeno,CLT,Assédio Sexual,7585.51,Sim,Arquivada (acordo)
+451,2025-06-23,SP,Serviços,Grande,Terceirizado,Equiparação Salarial,14561.25,Não,Parcialmente procedente
+452,2022-09-21,BA,Comércio,Grande,PJ,Assédio Sexual,21686.0,Sim,Arquivada (acordo)
+453,2024-12-12,RJ,Construção,Pequeno,PJ,Equiparação Salarial,8099.92,Não,Parcialmente procedente
+454,2024-02-22,RJ,TI,Grande,Estágio,Vínculo Empregatício,18528.33,Sim,Arquivada (acordo)
+455,2022-09-15,RJ,Serviços,Pequeno,Estágio,Horas Extras,11288.2,Não,Procedente
+456,2024-04-25,MG,Comércio,Pequeno,PJ,Horas Extras,9449.89,Sim,Arquivada (acordo)
+457,2025-02-05,SC,Construção,Grande,Terceirizado,Verbas Rescisórias,14250.79,Não,Procedente
+458,2024-01-21,PR,Comércio,Pequeno,Terceirizado,Férias,7753.3,Sim,Arquivada (acordo)
+459,2024-06-20,RJ,TI,Grande,CLT,Multa 40%,11124.45,Não,Parcialmente procedente
+460,2024-04-29,PE,Construção,Pequeno,Terceirizado,Verbas Rescisórias,6614.85,Sim,Arquivada (acordo)
+461,2023-09-21,RJ,Construção,Grande,CLT,Vínculo Empregatício,28753.08,Não,Improcedente
+462,2022-11-15,SP,Indústria,Pequeno,Estágio,FGTS,15246.84,Não,Improcedente
+463,2023-04-28,SP,Construção,Grande,Estágio,Vínculo Empregatício,10101.92,Não,Parcialmente procedente
+464,2025-03-19,SC,TI,Pequeno,Terceirizado,Assédio Moral,16497.86,Não,Procedente
+465,2023-06-15,MG,Indústria,Grande,CLT,Férias,14213.7,Sim,Arquivada (acordo)
+466,2023-01-29,PE,TI,Médio,Terceirizado,Assédio Moral,13453.21,Não,Improcedente
+467,2024-05-21,RS,TI,Grande,Terceirizado,Vínculo Empregatício,19299.17,Não,Parcialmente procedente
+468,2024-01-13,PE,Indústria,Grande,PJ,Verbas Rescisórias,20302.55,Sim,Arquivada (acordo)
+469,2024-05-18,BA,Comércio,Pequeno,Terceirizado,Horas Extras,11286.49,Não,Improcedente
+470,2022-10-15,BA,TI,Pequeno,PJ,Equiparação Salarial,10969.27,Não,Parcialmente procedente
+471,2022-07-29,SP,Indústria,Grande,Terceirizado,Assédio Moral,13074.64,Sim,Arquivada (acordo)
+472,2023-11-04,RS,Construção,Médio,Terceirizado,Multa 40%,1500.0,Não,Improcedente
+473,2024-05-28,RJ,Construção,Pequeno,Estágio,Assédio Moral,4393.66,Não,Improcedente
+474,2023-07-27,MG,Indústria,Médio,Terceirizado,FGTS,24568.12,Não,Parcialmente procedente
+475,2023-11-30,SC,TI,Médio,Terceirizado,Vínculo Empregatício,26514.77,Sim,Arquivada (acordo)
+476,2022-08-30,RS,Indústria,Grande,CLT,Verbas Rescisórias,13256.75,Sim,Arquivada (acordo)
+477,2025-04-26,PE,Serviços,Médio,Estágio,Assédio Moral,19035.9,Não,Procedente
+478,2024-06-02,RS,Serviços,Médio,Estágio,Assédio Sexual,17178.75,Não,Improcedente
+479,2023-10-20,PR,Construção,Pequeno,PJ,FGTS,36552.17,Sim,Arquivada (acordo)
+480,2023-06-17,RS,TI,Médio,CLT,Assédio Sexual,22837.02,Sim,Arquivada (acordo)
+481,2024-12-10,MG,Comércio,Médio,Estágio,Equiparação Salarial,14104.58,Não,Parcialmente procedente
+482,2024-04-17,PE,Comércio,Pequeno,CLT,Horas Extras,8311.22,Sim,Arquivada (acordo)
+483,2024-06-19,RS,Indústria,Pequeno,Estágio,FGTS,3754.88,Não,Procedente
+484,2023-08-06,RJ,Construção,Grande,Terceirizado,Assédio Moral,16424.25,Sim,Arquivada (acordo)
+485,2023-12-12,RJ,Indústria,Grande,Estágio,Verbas Rescisórias,9705.54,Sim,Arquivada (acordo)
+486,2023-09-08,SC,Comércio,Pequeno,Estágio,Horas Extras,5044.22,Sim,Arquivada (acordo)
+487,2022-10-20,DF,Serviços,Grande,Estágio,Multa 40%,10473.99,Sim,Arquivada (acordo)
+488,2024-04-06,BA,Indústria,Médio,PJ,Verbas Rescisórias,7429.16,Sim,Arquivada (acordo)
+489,2023-02-09,PE,Indústria,Pequeno,PJ,Assédio Sexual,26809.99,Não,Procedente
+490,2024-11-19,PE,Comércio,Pequeno,Terceirizado,Férias,21171.48,Sim,Arquivada (acordo)
+491,2025-06-04,RS,Construção,Pequeno,CLT,Férias,14944.19,Não,Parcialmente procedente
+492,2022-11-09,CE,Serviços,Médio,Terceirizado,Férias,25359.61,Sim,Arquivada (acordo)
+493,2023-02-12,SP,TI,Grande,PJ,Horas Extras,15541.58,Não,Procedente
+494,2023-02-24,SP,Serviços,Grande,Terceirizado,Vínculo Empregatício,8971.01,Não,Improcedente
+495,2025-03-25,RS,TI,Grande,CLT,Vínculo Empregatício,25661.87,Não,Procedente
+496,2023-04-03,BA,TI,Pequeno,PJ,Vínculo Empregatício,18772.37,Não,Procedente
+497,2024-07-10,SC,Construção,Pequeno,Terceirizado,Verbas Rescisórias,7739.28,Não,Improcedente
+498,2024-07-23,PE,Construção,Médio,PJ,Multa 40%,13667.63,Sim,Arquivada (acordo)
+499,2023-09-13,SP,Indústria,Grande,PJ,Horas Extras,8870.67,Não,Improcedente
+500,2023-09-07,DF,Indústria,Pequeno,Terceirizado,Verbas Rescisórias,5320.4,Não,Procedente
+501,2024-05-22,SC,Comércio,Pequeno,PJ,Verbas Rescisórias,21483.24,Não,Procedente
+502,2023-03-29,SC,Comércio,Médio,Estágio,Assédio Moral,28365.92,Não,Parcialmente procedente
+503,2024-10-21,MG,Serviços,Grande,Estágio,FGTS,5210.03,Sim,Arquivada (acordo)
+504,2022-11-26,CE,Construção,Médio,PJ,Verbas Rescisórias,18940.78,Não,Procedente
+505,2024-11-29,PR,Indústria,Pequeno,CLT,Férias,10445.5,Não,Procedente
+506,2025-06-06,DF,Comércio,Pequeno,Terceirizado,Vínculo Empregatício,11590.12,Não,Improcedente
+507,2024-10-08,PE,Indústria,Médio,CLT,Vínculo Empregatício,10853.24,Não,Parcialmente procedente
+508,2024-04-19,RJ,TI,Médio,CLT,Assédio Sexual,8952.06,Sim,Arquivada (acordo)
+509,2024-04-05,RJ,TI,Médio,CLT,Horas Extras,15339.65,Sim,Arquivada (acordo)
+510,2025-07-23,PE,Serviços,Pequeno,Estágio,Multa 40%,9183.35,Não,Parcialmente procedente
+511,2025-06-30,BA,Comércio,Médio,PJ,Verbas Rescisórias,16893.2,Não,Procedente
+512,2025-04-23,SP,TI,Pequeno,Terceirizado,Assédio Sexual,14648.33,Não,Improcedente
+513,2022-11-10,MG,Serviços,Pequeno,CLT,Equiparação Salarial,13327.36,Não,Procedente
+514,2025-06-24,SC,Construção,Grande,Estágio,Horas Extras,8647.05,Não,Procedente
+515,2024-10-16,DF,Serviços,Pequeno,CLT,Assédio Moral,10962.6,Não,Procedente
+516,2023-12-08,BA,Construção,Grande,Terceirizado,Assédio Sexual,20287.74,Sim,Arquivada (acordo)
+517,2023-11-11,RJ,Comércio,Médio,Estágio,Verbas Rescisórias,18506.42,Sim,Arquivada (acordo)
+518,2023-06-30,SP,Serviços,Pequeno,Terceirizado,Multa 40%,8157.11,Sim,Arquivada (acordo)
+519,2024-05-19,SP,Indústria,Pequeno,Terceirizado,Assédio Moral,15695.33,Não,Improcedente
+520,2025-07-02,BA,Serviços,Médio,Terceirizado,Assédio Moral,20259.71,Não,Parcialmente procedente
+521,2025-06-19,SC,Serviços,Médio,PJ,Multa 40%,3314.16,Sim,Arquivada (acordo)
+522,2025-07-16,PE,Serviços,Médio,PJ,Assédio Sexual,18803.52,Não,Improcedente
+523,2023-02-05,RJ,Comércio,Grande,Terceirizado,Equiparação Salarial,10361.63,Não,Procedente
+524,2025-01-25,RS,Construção,Pequeno,Estágio,Equiparação Salarial,18994.19,Não,Parcialmente procedente
+525,2022-11-19,PE,Construção,Pequeno,Estágio,Assédio Sexual,9657.19,Sim,Arquivada (acordo)
+526,2023-03-06,SP,Construção,Grande,PJ,Assédio Moral,2365.83,Não,Parcialmente procedente
+527,2023-07-06,MG,Indústria,Pequeno,PJ,Horas Extras,3607.2,Não,Procedente
+528,2023-09-23,BA,Indústria,Grande,PJ,Assédio Sexual,15336.59,Não,Procedente
+529,2024-04-05,RJ,Comércio,Médio,Estágio,Equiparação Salarial,16818.06,Não,Parcialmente procedente
+530,2023-08-17,PE,Comércio,Grande,Estágio,Assédio Moral,8669.78,Não,Improcedente
+531,2024-03-10,DF,Construção,Pequeno,CLT,Assédio Moral,19470.15,Não,Procedente
+532,2023-11-08,SC,Serviços,Médio,Estágio,Multa 40%,3369.36,Não,Parcialmente procedente
+533,2025-07-23,MG,TI,Médio,PJ,Férias,14537.44,Sim,Arquivada (acordo)
+534,2024-10-21,SC,Indústria,Pequeno,Estágio,Assédio Sexual,6522.89,Não,Improcedente
+535,2023-09-23,PR,TI,Médio,Estágio,Assédio Moral,10437.15,Não,Parcialmente procedente
+536,2022-12-03,PR,Serviços,Médio,Terceirizado,Férias,15331.79,Não,Improcedente
+537,2023-01-01,PE,Indústria,Médio,Estágio,Equiparação Salarial,8977.11,Não,Procedente
+538,2023-08-08,CE,Indústria,Pequeno,Terceirizado,Equiparação Salarial,12308.11,Não,Procedente
+539,2025-07-20,CE,Construção,Pequeno,PJ,Vínculo Empregatício,22044.05,Não,Parcialmente procedente
+540,2022-12-04,SP,Indústria,Pequeno,Estágio,Horas Extras,10961.76,Não,Procedente
+541,2023-02-14,PR,TI,Médio,Estágio,Assédio Moral,20849.84,Não,Parcialmente procedente
+542,2023-04-15,PE,Construção,Médio,PJ,Multa 40%,7092.05,Não,Parcialmente procedente
+543,2024-11-15,MG,TI,Grande,CLT,Assédio Sexual,18708.63,Sim,Arquivada (acordo)
+544,2023-05-01,SP,Indústria,Grande,PJ,Vínculo Empregatício,25090.98,Não,Procedente
+545,2022-08-13,PR,Serviços,Grande,CLT,Horas Extras,1500.0,Não,Improcedente
+546,2022-10-27,MG,Construção,Pequeno,PJ,Assédio Sexual,9421.73,Não,Procedente
+547,2024-06-06,PR,Serviços,Médio,Terceirizado,Multa 40%,19039.5,Sim,Arquivada (acordo)
+548,2024-04-15,PE,TI,Grande,Estágio,Assédio Moral,13578.68,Sim,Arquivada (acordo)
+549,2024-10-01,SC,Construção,Grande,Terceirizado,Assédio Sexual,17598.02,Não,Parcialmente procedente
+550,2025-07-21,SC,TI,Grande,Terceirizado,Assédio Sexual,10772.1,Sim,Arquivada (acordo)
+551,2023-01-29,PR,Indústria,Pequeno,PJ,Horas Extras,15606.13,Não,Procedente
+552,2024-06-12,DF,Serviços,Grande,Terceirizado,Verbas Rescisórias,13910.26,Não,Procedente
+553,2025-05-25,PR,TI,Médio,Estágio,Férias,23174.47,Não,Parcialmente procedente
+554,2024-08-27,DF,Indústria,Médio,PJ,Equiparação Salarial,16780.95,Não,Parcialmente procedente
+555,2024-02-12,SC,Construção,Médio,PJ,Equiparação Salarial,17363.22,Sim,Arquivada (acordo)
+556,2024-11-16,RJ,Serviços,Pequeno,Terceirizado,Equiparação Salarial,12116.86,Não,Improcedente
+557,2024-12-14,SC,Comércio,Pequeno,Terceirizado,Vínculo Empregatício,11586.76,Não,Parcialmente procedente
+558,2025-02-09,SC,TI,Médio,Terceirizado,Multa 40%,11972.09,Não,Parcialmente procedente
+559,2023-01-05,DF,Construção,Grande,CLT,Multa 40%,17761.16,Não,Parcialmente procedente
+560,2024-12-08,BA,Construção,Médio,Estágio,Horas Extras,12053.11,Não,Improcedente
+561,2022-12-02,RS,TI,Médio,Estágio,Verbas Rescisórias,17028.42,Não,Procedente
+562,2022-10-06,RJ,Serviços,Médio,PJ,FGTS,29527.81,Não,Improcedente
+563,2022-09-29,PR,Indústria,Pequeno,PJ,Multa 40%,21097.87,Não,Procedente
+564,2023-08-21,MG,Construção,Médio,Estágio,Férias,12717.84,Não,Parcialmente procedente
+565,2023-08-28,SP,Comércio,Grande,PJ,FGTS,23408.5,Não,Procedente
+566,2022-09-16,CE,Indústria,Pequeno,CLT,Vínculo Empregatício,12143.47,Sim,Arquivada (acordo)
+567,2023-07-14,SC,TI,Pequeno,CLT,Férias,1500.0,Não,Parcialmente procedente
+568,2024-03-26,RJ,Comércio,Médio,Terceirizado,Multa 40%,7943.4,Não,Parcialmente procedente
+569,2024-05-30,SC,Serviços,Grande,PJ,FGTS,1904.46,Não,Parcialmente procedente
+570,2024-05-09,RS,Indústria,Médio,CLT,Vínculo Empregatício,12539.41,Sim,Arquivada (acordo)
+571,2023-06-21,MG,Indústria,Grande,CLT,Equiparação Salarial,15128.93,Sim,Arquivada (acordo)
+572,2023-02-05,SC,Comércio,Médio,Terceirizado,Equiparação Salarial,26735.06,Não,Parcialmente procedente
+573,2024-07-06,SP,Comércio,Grande,CLT,Horas Extras,17288.49,Não,Parcialmente procedente
+574,2023-07-05,BA,Comércio,Grande,Terceirizado,Multa 40%,13466.3,Não,Parcialmente procedente
+575,2024-01-01,SP,TI,Médio,CLT,Equiparação Salarial,20805.84,Sim,Arquivada (acordo)
+576,2022-10-10,DF,Indústria,Médio,CLT,Equiparação Salarial,1500.0,Não,Improcedente
+577,2024-01-09,RJ,Comércio,Médio,PJ,Vínculo Empregatício,16649.3,Não,Procedente
+578,2024-12-20,RS,TI,Grande,Estágio,Assédio Sexual,20396.06,Sim,Arquivada (acordo)
+579,2025-05-22,CE,Serviços,Pequeno,Estágio,FGTS,4649.9,Sim,Arquivada (acordo)
+580,2025-03-08,SP,Comércio,Pequeno,Estágio,Verbas Rescisórias,23006.28,Não,Procedente
+581,2022-11-07,RJ,Comércio,Médio,PJ,Multa 40%,17369.47,Não,Parcialmente procedente
+582,2024-03-26,PE,Comércio,Pequeno,PJ,Horas Extras,12092.98,Não,Parcialmente procedente
+583,2024-09-18,SC,Serviços,Grande,CLT,Assédio Moral,19429.47,Não,Procedente
+584,2025-07-16,SP,Indústria,Grande,PJ,FGTS,30894.85,Não,Parcialmente procedente
+585,2022-12-29,DF,TI,Grande,CLT,FGTS,16273.06,Não,Improcedente
+586,2025-01-01,BA,Serviços,Médio,Terceirizado,Férias,16737.54,Não,Parcialmente procedente
+587,2023-11-18,BA,Indústria,Pequeno,PJ,Horas Extras,11784.47,Não,Procedente
+588,2025-07-11,RJ,Serviços,Grande,Estágio,Multa 40%,9051.09,Sim,Arquivada (acordo)
+589,2024-09-13,BA,TI,Grande,CLT,Verbas Rescisórias,20812.35,Não,Parcialmente procedente
+590,2022-10-01,BA,Serviços,Pequeno,CLT,Assédio Sexual,9007.41,Não,Improcedente
+591,2024-09-09,CE,Construção,Grande,PJ,FGTS,15500.96,Não,Procedente
+592,2025-05-07,DF,Comércio,Médio,PJ,Multa 40%,11656.4,Não,Procedente
+593,2024-01-29,BA,Indústria,Grande,CLT,Horas Extras,18352.86,Não,Improcedente
+594,2024-01-07,PE,Serviços,Pequeno,CLT,Multa 40%,17335.63,Não,Parcialmente procedente
+595,2022-08-19,PR,Comércio,Grande,PJ,Equiparação Salarial,22262.78,Não,Parcialmente procedente
+596,2023-04-29,RS,Comércio,Médio,Estágio,Multa 40%,11429.89,Sim,Arquivada (acordo)
+597,2022-11-26,PE,Serviços,Médio,CLT,Multa 40%,13110.88,Não,Improcedente
+598,2025-07-23,BA,Serviços,Pequeno,CLT,Assédio Moral,8148.65,Não,Procedente
+599,2022-08-02,PR,Construção,Grande,PJ,Multa 40%,11889.95,Não,Parcialmente procedente
+600,2022-12-27,SP,Indústria,Médio,Terceirizado,Equiparação Salarial,17641.1,Não,Parcialmente procedente
+601,2025-04-13,SC,Serviços,Pequeno,CLT,Vínculo Empregatício,20298.92,Sim,Arquivada (acordo)
+602,2025-07-25,SC,TI,Grande,Terceirizado,Assédio Moral,8544.84,Sim,Arquivada (acordo)
+603,2023-09-05,MG,Serviços,Pequeno,Estágio,Assédio Moral,21087.24,Sim,Arquivada (acordo)
+604,2024-01-11,RS,Indústria,Pequeno,Estágio,Vínculo Empregatício,24489.47,Não,Procedente
+605,2023-05-04,SC,Comércio,Médio,CLT,Assédio Moral,17894.04,Não,Parcialmente procedente
+606,2023-11-29,DF,Construção,Pequeno,Estágio,Horas Extras,28137.57,Não,Improcedente
+607,2024-02-01,BA,Construção,Médio,PJ,Verbas Rescisórias,9583.48,Não,Improcedente
+608,2023-04-08,BA,Construção,Grande,Terceirizado,Equiparação Salarial,6287.42,Não,Parcialmente procedente
+609,2024-06-27,DF,Indústria,Médio,Estágio,FGTS,2548.96,Não,Parcialmente procedente
+610,2025-04-29,MG,Indústria,Médio,Terceirizado,Equiparação Salarial,25472.31,Não,Procedente
+611,2024-05-02,CE,Indústria,Pequeno,PJ,Assédio Sexual,19580.56,Não,Procedente
+612,2024-02-20,MG,Indústria,Grande,Terceirizado,Assédio Moral,14610.91,Não,Parcialmente procedente
+613,2022-09-01,DF,Construção,Grande,Estágio,Equiparação Salarial,16959.78,Sim,Arquivada (acordo)
+614,2023-11-02,BA,Comércio,Grande,CLT,Horas Extras,7121.58,Não,Improcedente
+615,2023-01-24,SP,Indústria,Médio,PJ,Assédio Sexual,32120.26,Não,Improcedente
+616,2023-11-15,SP,TI,Pequeno,CLT,FGTS,15904.55,Não,Improcedente
+617,2024-12-16,CE,Indústria,Grande,Estágio,Vínculo Empregatício,15765.76,Não,Procedente
+618,2023-07-12,PR,Comércio,Médio,Estágio,Férias,20080.37,Não,Procedente
+619,2024-11-07,SC,Construção,Pequeno,CLT,Assédio Sexual,18367.06,Sim,Arquivada (acordo)
+620,2023-06-23,PE,Indústria,Grande,Terceirizado,Equiparação Salarial,16567.19,Não,Improcedente
+621,2023-04-04,RS,TI,Médio,PJ,Assédio Moral,9466.68,Sim,Arquivada (acordo)
+622,2025-02-03,MG,Construção,Pequeno,Estágio,Horas Extras,18300.28,Não,Parcialmente procedente
+623,2024-12-30,MG,Indústria,Grande,Terceirizado,Horas Extras,28174.17,Não,Procedente
+624,2024-08-08,MG,Comércio,Pequeno,Terceirizado,Horas Extras,24417.94,Não,Procedente
+625,2024-01-08,PR,Serviços,Grande,Terceirizado,Assédio Moral,26152.31,Não,Parcialmente procedente
+626,2022-12-25,RS,Indústria,Grande,CLT,Equiparação Salarial,11421.49,Sim,Arquivada (acordo)
+627,2023-06-28,CE,Construção,Médio,CLT,FGTS,8072.77,Sim,Arquivada (acordo)
+628,2023-01-16,RS,TI,Médio,Terceirizado,Assédio Sexual,14119.49,Sim,Arquivada (acordo)
+629,2023-02-12,DF,Construção,Médio,CLT,Assédio Moral,15390.07,Não,Parcialmente procedente
+630,2023-11-08,DF,Construção,Pequeno,CLT,FGTS,22659.34,Não,Procedente
+631,2023-05-17,RJ,Serviços,Médio,Terceirizado,Horas Extras,3152.75,Não,Procedente
+632,2024-06-22,SC,Construção,Grande,Estágio,Multa 40%,25706.85,Sim,Arquivada (acordo)
+633,2024-02-04,RS,TI,Grande,CLT,Assédio Moral,13893.94,Sim,Arquivada (acordo)
+634,2022-08-20,CE,Construção,Pequeno,CLT,Vínculo Empregatício,12011.83,Não,Procedente
+635,2024-01-27,BA,Comércio,Pequeno,Estágio,Assédio Moral,7915.27,Não,Improcedente
+636,2025-06-17,PE,TI,Pequeno,CLT,Assédio Moral,3416.0,Sim,Arquivada (acordo)
+637,2023-01-14,PR,Construção,Pequeno,PJ,Assédio Sexual,20762.19,Não,Parcialmente procedente
+638,2023-07-26,BA,Serviços,Médio,CLT,Férias,15513.23,Não,Parcialmente procedente
+639,2024-07-01,DF,Comércio,Grande,CLT,Assédio Moral,5970.27,Não,Parcialmente procedente
+640,2025-04-27,PR,TI,Grande,CLT,Assédio Sexual,5934.45,Não,Parcialmente procedente
+641,2023-07-04,BA,Comércio,Médio,PJ,Equiparação Salarial,12649.51,Sim,Arquivada (acordo)
+642,2023-09-27,BA,Construção,Médio,PJ,Assédio Sexual,26683.15,Não,Procedente
+643,2023-02-18,SC,Comércio,Grande,PJ,Assédio Moral,13182.86,Sim,Arquivada (acordo)
+644,2023-06-24,DF,Construção,Médio,CLT,Assédio Sexual,4478.0,Sim,Arquivada (acordo)
+645,2024-08-03,SC,Indústria,Médio,PJ,Verbas Rescisórias,13279.8,Sim,Arquivada (acordo)
+646,2024-05-25,DF,TI,Pequeno,CLT,Verbas Rescisórias,13090.94,Não,Parcialmente procedente
+647,2025-04-18,SP,Construção,Médio,CLT,Assédio Sexual,1500.0,Não,Parcialmente procedente
+648,2025-05-09,RS,Construção,Médio,Terceirizado,FGTS,14619.94,Sim,Arquivada (acordo)
+649,2024-06-25,RS,Comércio,Médio,CLT,Vínculo Empregatício,13383.46,Não,Parcialmente procedente
+650,2025-01-17,DF,TI,Grande,PJ,FGTS,19873.44,Não,Procedente
+651,2025-03-30,MG,Comércio,Médio,PJ,Vínculo Empregatício,27942.69,Não,Procedente
+652,2023-06-25,PR,TI,Pequeno,Terceirizado,Multa 40%,22885.96,Não,Parcialmente procedente
+653,2024-10-14,PR,Serviços,Grande,CLT,Verbas Rescisórias,13117.78,Não,Improcedente
+654,2023-07-01,PR,Indústria,Grande,PJ,Assédio Sexual,7254.32,Não,Procedente
+655,2024-02-11,RJ,Comércio,Grande,CLT,Férias,33013.52,Não,Parcialmente procedente
+656,2025-07-13,SP,Construção,Médio,Estágio,Verbas Rescisórias,15414.53,Não,Parcialmente procedente
+657,2025-06-09,DF,TI,Pequeno,Estágio,Equiparação Salarial,15097.51,Não,Parcialmente procedente
+658,2025-02-25,CE,Comércio,Grande,PJ,Verbas Rescisórias,14831.12,Não,Improcedente
+659,2022-11-19,MG,Indústria,Grande,PJ,Multa 40%,16386.59,Não,Improcedente
+660,2025-06-26,PE,Indústria,Pequeno,Terceirizado,FGTS,13989.48,Sim,Arquivada (acordo)
+661,2024-12-30,RS,Construção,Médio,Estágio,Multa 40%,10984.37,Não,Procedente
+662,2025-04-24,SP,TI,Pequeno,Terceirizado,Assédio Sexual,11171.99,Não,Parcialmente procedente
+663,2025-03-02,BA,Serviços,Médio,CLT,Equiparação Salarial,14770.73,Sim,Arquivada (acordo)
+664,2023-03-18,RS,Construção,Médio,Terceirizado,FGTS,11196.03,Não,Parcialmente procedente
+665,2023-04-06,DF,Comércio,Grande,PJ,Multa 40%,10010.08,Sim,Arquivada (acordo)
+666,2022-08-10,RJ,Construção,Grande,Terceirizado,Vínculo Empregatício,15745.01,Sim,Arquivada (acordo)
+667,2023-09-11,MG,TI,Grande,CLT,Vínculo Empregatício,13215.16,Não,Parcialmente procedente
+668,2024-11-23,RJ,Serviços,Grande,Estágio,Multa 40%,25527.95,Sim,Arquivada (acordo)
+669,2024-12-18,MG,Serviços,Pequeno,PJ,Horas Extras,1500.0,Sim,Arquivada (acordo)
+670,2022-11-30,DF,Indústria,Pequeno,CLT,Verbas Rescisórias,22640.55,Sim,Arquivada (acordo)
+671,2023-03-18,PR,Indústria,Grande,Estágio,Horas Extras,23722.6,Não,Procedente
+672,2024-03-25,PR,Comércio,Pequeno,Estágio,Multa 40%,1500.0,Não,Improcedente
+673,2022-11-18,BA,Construção,Pequeno,PJ,Equiparação Salarial,12601.19,Sim,Arquivada (acordo)
+674,2024-10-12,SC,Serviços,Grande,CLT,Vínculo Empregatício,12399.91,Não,Improcedente
+675,2023-06-12,SP,Indústria,Grande,Estágio,Verbas Rescisórias,5147.42,Não,Improcedente
+676,2023-10-03,DF,Construção,Pequeno,CLT,Assédio Moral,9555.28,Não,Improcedente
+677,2022-10-13,DF,Construção,Pequeno,Estágio,Equiparação Salarial,7225.97,Não,Procedente
+678,2025-05-25,CE,Serviços,Pequeno,Estágio,Férias,27265.89,Não,Procedente
+679,2023-04-14,DF,Comércio,Médio,PJ,Assédio Sexual,21549.75,Não,Parcialmente procedente
+680,2023-03-10,RJ,TI,Grande,Estágio,Assédio Sexual,23900.89,Sim,Arquivada (acordo)
+681,2024-11-19,SP,Construção,Grande,CLT,Equiparação Salarial,20051.7,Sim,Arquivada (acordo)
+682,2025-04-15,RS,TI,Médio,Terceirizado,Assédio Moral,7096.64,Sim,Arquivada (acordo)
+683,2025-07-01,DF,TI,Médio,Estágio,FGTS,11328.36,Não,Procedente
+684,2025-07-05,BA,Indústria,Médio,Estágio,Verbas Rescisórias,18425.62,Não,Parcialmente procedente
+685,2025-04-14,PR,TI,Grande,Terceirizado,Férias,6445.11,Não,Procedente
+686,2025-03-22,RJ,Indústria,Médio,PJ,Assédio Moral,19990.99,Sim,Arquivada (acordo)
+687,2025-07-26,BA,TI,Grande,CLT,Verbas Rescisórias,13317.72,Não,Procedente
+688,2023-06-14,RJ,Indústria,Médio,Estágio,Assédio Moral,12376.25,Sim,Arquivada (acordo)
+689,2023-09-01,RS,TI,Pequeno,CLT,Férias,19976.72,Não,Parcialmente procedente
+690,2022-11-19,CE,TI,Grande,CLT,Verbas Rescisórias,18109.84,Não,Parcialmente procedente
+691,2024-07-26,RS,Construção,Médio,PJ,Horas Extras,12473.24,Não,Parcialmente procedente
+692,2023-02-25,RS,Construção,Pequeno,CLT,FGTS,23115.31,Sim,Arquivada (acordo)
+693,2023-10-21,SP,Indústria,Pequeno,Terceirizado,Férias,7432.56,Não,Parcialmente procedente
+694,2025-07-24,DF,Indústria,Grande,CLT,Assédio Moral,19311.55,Não,Parcialmente procedente
+695,2025-01-11,CE,Construção,Médio,Terceirizado,Assédio Sexual,19151.71,Sim,Arquivada (acordo)
+696,2023-11-30,RS,Serviços,Médio,CLT,Assédio Sexual,12833.17,Sim,Arquivada (acordo)
+697,2023-09-14,CE,Comércio,Grande,CLT,Equiparação Salarial,17282.93,Sim,Arquivada (acordo)
+698,2024-02-06,RJ,Construção,Médio,Terceirizado,Multa 40%,6242.2,Não,Parcialmente procedente
+699,2023-01-28,RS,TI,Médio,Estágio,Horas Extras,21468.19,Não,Parcialmente procedente
+700,2023-05-05,BA,Indústria,Grande,PJ,FGTS,13705.69,Não,Parcialmente procedente
+701,2022-08-13,CE,Comércio,Grande,Terceirizado,Vínculo Empregatício,11340.94,Sim,Arquivada (acordo)
+702,2024-04-23,BA,TI,Pequeno,PJ,Multa 40%,22343.06,Não,Parcialmente procedente
+703,2023-08-11,DF,TI,Pequeno,PJ,Multa 40%,10069.59,Não,Parcialmente procedente
+704,2024-10-07,RS,TI,Pequeno,PJ,Vínculo Empregatício,5140.77,Não,Procedente
+705,2025-02-03,SC,Indústria,Pequeno,CLT,Assédio Moral,4103.6,Não,Procedente
+706,2025-07-27,DF,Comércio,Grande,CLT,Multa 40%,19242.07,Não,Parcialmente procedente
+707,2024-06-08,DF,TI,Médio,PJ,Equiparação Salarial,6036.99,Sim,Arquivada (acordo)
+708,2022-11-09,RS,Construção,Pequeno,CLT,Equiparação Salarial,27283.56,Não,Parcialmente procedente
+709,2023-01-24,CE,Comércio,Grande,Terceirizado,Férias,1500.0,Não,Procedente
+710,2024-09-20,PE,Comércio,Grande,Estágio,FGTS,26875.19,Não,Improcedente
+711,2024-03-14,RS,Serviços,Grande,CLT,FGTS,16477.12,Não,Procedente
+712,2024-07-18,MG,Construção,Médio,PJ,Assédio Sexual,14323.01,Não,Procedente
+713,2022-08-17,SC,Indústria,Médio,Estágio,Vínculo Empregatício,11185.57,Não,Procedente
+714,2022-08-30,SC,Serviços,Médio,Estágio,Verbas Rescisórias,17793.95,Não,Procedente
+715,2023-12-20,RS,Comércio,Grande,Terceirizado,Vínculo Empregatício,14736.56,Não,Procedente
+716,2024-10-23,RS,Indústria,Grande,PJ,Multa 40%,22723.11,Não,Improcedente
+717,2022-09-22,PE,Indústria,Grande,Terceirizado,Multa 40%,15799.59,Não,Parcialmente procedente
+718,2025-02-12,DF,Comércio,Médio,CLT,Verbas Rescisórias,16052.11,Sim,Arquivada (acordo)
+719,2023-05-25,PR,Serviços,Grande,CLT,Multa 40%,12454.71,Não,Parcialmente procedente
+720,2025-02-10,SC,Construção,Grande,Terceirizado,FGTS,14601.38,Sim,Arquivada (acordo)
+721,2024-06-20,RJ,TI,Grande,PJ,Equiparação Salarial,17154.61,Sim,Arquivada (acordo)
+722,2024-10-10,PR,TI,Médio,Estágio,Multa 40%,3028.82,Não,Parcialmente procedente
+723,2023-06-05,PR,Serviços,Grande,PJ,Verbas Rescisórias,5562.7,Não,Procedente
+724,2022-12-26,BA,Construção,Grande,Estágio,Assédio Moral,20202.85,Sim,Arquivada (acordo)
+725,2024-05-12,SC,Indústria,Médio,Terceirizado,Assédio Sexual,16196.06,Não,Procedente
+726,2024-09-27,BA,TI,Médio,Terceirizado,Equiparação Salarial,13712.12,Não,Parcialmente procedente
+727,2023-11-09,MG,Comércio,Pequeno,PJ,Assédio Sexual,15129.04,Não,Procedente
+728,2022-11-08,RJ,Indústria,Pequeno,Estágio,Assédio Moral,17433.07,Sim,Arquivada (acordo)
+729,2024-03-03,PE,Construção,Pequeno,CLT,Férias,11221.68,Não,Procedente
+730,2022-12-27,RJ,TI,Grande,PJ,Assédio Moral,9551.87,Não,Procedente
+731,2022-09-11,PR,Indústria,Pequeno,Terceirizado,Multa 40%,16370.92,Não,Improcedente
+732,2023-11-16,MG,Comércio,Pequeno,Terceirizado,FGTS,8151.39,Não,Parcialmente procedente
+733,2024-06-03,CE,TI,Grande,Estágio,Verbas Rescisórias,17857.77,Não,Procedente
+734,2025-04-05,MG,Construção,Grande,Estágio,Férias,3081.91,Não,Procedente
+735,2023-04-23,PR,TI,Médio,PJ,Assédio Moral,22204.09,Não,Parcialmente procedente
+736,2022-12-17,PR,Indústria,Médio,CLT,Horas Extras,18308.18,Não,Procedente
+737,2025-03-18,MG,TI,Médio,Estágio,Equiparação Salarial,16792.21,Sim,Arquivada (acordo)
+738,2024-11-01,PE,Serviços,Médio,CLT,Férias,21878.84,Não,Parcialmente procedente
+739,2023-07-01,SP,Construção,Médio,PJ,Férias,26658.32,Não,Parcialmente procedente
+740,2025-03-30,RS,Indústria,Grande,Estágio,Férias,22100.59,Sim,Arquivada (acordo)
+741,2023-12-09,RJ,Serviços,Grande,PJ,Equiparação Salarial,2113.88,Não,Procedente
+742,2022-11-22,PR,TI,Grande,Terceirizado,Férias,6042.96,Sim,Arquivada (acordo)
+743,2024-05-03,RJ,Indústria,Pequeno,Terceirizado,Assédio Moral,10626.27,Não,Procedente
+744,2024-07-12,PR,Construção,Médio,PJ,FGTS,15182.64,Sim,Arquivada (acordo)
+745,2024-07-22,SP,Construção,Pequeno,PJ,Assédio Moral,18623.61,Sim,Arquivada (acordo)
+746,2024-09-05,MG,Serviços,Grande,CLT,Vínculo Empregatício,9919.79,Sim,Arquivada (acordo)
+747,2023-02-03,SP,Serviços,Pequeno,Terceirizado,Férias,16307.37,Não,Procedente
+748,2024-04-24,SC,Serviços,Grande,CLT,FGTS,9712.32,Sim,Arquivada (acordo)
+749,2024-02-15,MG,Comércio,Médio,Estágio,Assédio Moral,10719.38,Não,Improcedente
+750,2023-03-27,PR,Serviços,Pequeno,CLT,Vínculo Empregatício,5153.37,Não,Procedente
+751,2024-01-02,RS,Comércio,Pequeno,Estágio,Assédio Moral,8537.37,Não,Procedente
+752,2024-08-04,PE,Serviços,Grande,Terceirizado,FGTS,5538.21,Sim,Arquivada (acordo)
+753,2023-07-16,SP,Construção,Grande,CLT,Assédio Sexual,8168.89,Não,Parcialmente procedente
+754,2023-05-25,SC,Comércio,Grande,PJ,Assédio Moral,22375.49,Sim,Arquivada (acordo)
+755,2023-12-03,BA,TI,Pequeno,PJ,Assédio Sexual,8354.21,Não,Parcialmente procedente
+756,2023-09-08,RS,Comércio,Pequeno,Estágio,Verbas Rescisórias,33426.67,Não,Improcedente
+757,2023-10-25,MG,Serviços,Pequeno,Terceirizado,Horas Extras,18453.23,Sim,Arquivada (acordo)
+758,2023-08-20,MG,Construção,Pequeno,PJ,Multa 40%,16293.85,Sim,Arquivada (acordo)
+759,2024-05-17,CE,TI,Médio,PJ,Horas Extras,8991.5,Não,Parcialmente procedente
+760,2024-10-25,MG,TI,Pequeno,Estágio,Multa 40%,19902.17,Não,Parcialmente procedente
+761,2024-02-17,PE,Indústria,Grande,PJ,Equiparação Salarial,10970.54,Não,Procedente
+762,2024-10-04,PR,Construção,Grande,PJ,Assédio Moral,15854.07,Não,Parcialmente procedente
+763,2024-02-12,PR,Construção,Médio,Estágio,Horas Extras,32920.59,Não,Parcialmente procedente
+764,2024-04-11,MG,Comércio,Grande,Terceirizado,Vínculo Empregatício,14327.58,Não,Improcedente
+765,2022-12-13,CE,Serviços,Pequeno,Estágio,Equiparação Salarial,23044.91,Sim,Arquivada (acordo)
+766,2022-10-30,PR,TI,Médio,Terceirizado,Assédio Moral,10077.77,Sim,Arquivada (acordo)
+767,2023-08-31,RJ,Comércio,Pequeno,PJ,Horas Extras,14755.08,Sim,Arquivada (acordo)
+768,2022-10-28,PE,Indústria,Pequeno,CLT,Férias,27395.6,Não,Parcialmente procedente
+769,2025-06-23,DF,TI,Pequeno,Terceirizado,Vínculo Empregatício,10611.23,Não,Improcedente
+770,2024-10-09,RS,Serviços,Pequeno,Estágio,Horas Extras,27687.14,Não,Procedente
+771,2023-07-09,BA,TI,Grande,CLT,Assédio Sexual,19954.26,Não,Procedente
+772,2023-03-13,PR,Comércio,Pequeno,CLT,Assédio Moral,11062.73,Não,Parcialmente procedente
+773,2024-09-10,RS,Indústria,Grande,PJ,Verbas Rescisórias,19426.85,Não,Parcialmente procedente
+774,2023-09-07,RJ,Construção,Médio,Estágio,Férias,21807.88,Não,Improcedente
+775,2024-03-04,MG,Construção,Médio,Terceirizado,Verbas Rescisórias,19352.67,Não,Parcialmente procedente
+776,2024-10-20,SC,TI,Grande,Terceirizado,FGTS,4008.43,Não,Procedente
+777,2023-12-13,SC,Construção,Pequeno,PJ,Férias,9910.04,Não,Procedente
+778,2022-08-05,PR,TI,Médio,Estágio,Férias,13267.37,Sim,Arquivada (acordo)
+779,2023-05-09,SP,TI,Grande,CLT,Equiparação Salarial,14478.97,Sim,Arquivada (acordo)
+780,2024-07-01,PR,Comércio,Médio,PJ,Vínculo Empregatício,19344.7,Não,Improcedente
+781,2023-06-21,PR,Construção,Grande,PJ,Assédio Moral,16243.91,Sim,Arquivada (acordo)
+782,2023-03-02,SC,Indústria,Pequeno,Terceirizado,FGTS,5652.59,Não,Parcialmente procedente
+783,2023-06-28,PR,TI,Pequeno,Estágio,Vínculo Empregatício,17661.38,Não,Procedente
+784,2022-07-31,PE,Indústria,Médio,CLT,Assédio Sexual,19274.1,Sim,Arquivada (acordo)
+785,2025-06-26,DF,Serviços,Pequeno,CLT,FGTS,18918.53,Não,Procedente
+786,2024-09-07,BA,Comércio,Pequeno,CLT,Férias,22565.47,Sim,Arquivada (acordo)
+787,2023-03-24,CE,Comércio,Médio,PJ,FGTS,20837.46,Não,Parcialmente procedente
+788,2023-04-26,SP,Serviços,Médio,CLT,Vínculo Empregatício,18214.26,Não,Procedente
+789,2025-03-16,MG,Indústria,Médio,CLT,Multa 40%,14508.84,Não,Improcedente
+790,2024-11-04,BA,TI,Pequeno,Estágio,Equiparação Salarial,3373.27,Não,Procedente
+791,2024-03-24,MG,Serviços,Grande,PJ,Multa 40%,18007.33,Não,Parcialmente procedente
+792,2023-09-13,CE,Construção,Grande,PJ,Vínculo Empregatício,16453.81,Sim,Arquivada (acordo)
+793,2023-04-20,BA,TI,Grande,CLT,Assédio Moral,16901.05,Não,Parcialmente procedente
+794,2023-05-20,SC,Indústria,Médio,Terceirizado,Horas Extras,6062.76,Não,Improcedente
+795,2024-09-12,SC,Construção,Médio,PJ,Multa 40%,7432.6,Sim,Arquivada (acordo)
+796,2025-03-26,RS,Indústria,Grande,Terceirizado,Verbas Rescisórias,22372.07,Não,Procedente
+797,2024-02-24,RJ,Comércio,Pequeno,PJ,Assédio Sexual,14723.11,Sim,Arquivada (acordo)
+798,2023-02-14,RJ,TI,Médio,Estágio,Horas Extras,19770.5,Não,Procedente
+799,2024-07-16,RS,Indústria,Grande,Terceirizado,Equiparação Salarial,15198.23,Não,Procedente
+800,2023-07-10,MG,Comércio,Médio,CLT,Assédio Sexual,15208.29,Sim,Arquivada (acordo)
+801,2024-09-02,PR,Indústria,Grande,Terceirizado,Horas Extras,21567.99,Não,Procedente
+802,2023-04-20,RJ,Serviços,Grande,Terceirizado,FGTS,11387.69,Não,Improcedente
+803,2025-02-24,BA,Indústria,Médio,CLT,FGTS,15672.85,Não,Parcialmente procedente
+804,2024-10-05,RJ,Indústria,Pequeno,Estágio,Equiparação Salarial,11764.07,Não,Improcedente
+805,2025-07-27,RS,Construção,Médio,Terceirizado,Multa 40%,11958.53,Não,Improcedente
+806,2022-10-18,SC,TI,Médio,Terceirizado,Vínculo Empregatício,12835.8,Não,Procedente
+807,2024-11-02,PR,Comércio,Grande,Terceirizado,Férias,16554.94,Não,Procedente
+808,2022-12-24,SP,Construção,Médio,PJ,Verbas Rescisórias,11648.76,Não,Parcialmente procedente
+809,2023-03-25,MG,Comércio,Grande,Estágio,Equiparação Salarial,23790.29,Não,Procedente
+810,2023-03-18,RS,Serviços,Pequeno,PJ,Férias,8737.75,Não,Procedente
+811,2023-12-24,SC,Serviços,Grande,PJ,Vínculo Empregatício,13691.9,Não,Parcialmente procedente
+812,2022-08-03,RS,Indústria,Médio,PJ,Férias,11921.88,Não,Procedente
+813,2022-08-10,MG,Construção,Pequeno,Terceirizado,Assédio Moral,25128.85,Não,Procedente
+814,2024-07-16,RJ,Indústria,Médio,PJ,Horas Extras,16375.88,Não,Procedente
+815,2023-06-03,BA,Serviços,Médio,Estágio,Assédio Sexual,22222.91,Sim,Arquivada (acordo)
+816,2025-06-16,RS,Comércio,Pequeno,PJ,Horas Extras,4601.08,Não,Procedente
+817,2023-06-04,PR,Construção,Grande,PJ,Vínculo Empregatício,16869.35,Sim,Arquivada (acordo)
+818,2025-07-11,SP,TI,Pequeno,Estágio,Verbas Rescisórias,21227.42,Não,Procedente
+819,2023-05-05,SC,Indústria,Médio,Estágio,Multa 40%,15575.99,Sim,Arquivada (acordo)
+820,2023-07-25,RS,Indústria,Pequeno,Estágio,Horas Extras,22458.36,Não,Procedente
+821,2024-10-06,RS,Indústria,Pequeno,CLT,Verbas Rescisórias,11378.98,Não,Procedente
+822,2025-05-28,DF,Serviços,Grande,Terceirizado,Multa 40%,24865.43,Não,Parcialmente procedente
+823,2023-04-16,SP,Construção,Grande,Estágio,FGTS,31092.29,Não,Procedente
+824,2022-08-24,DF,Construção,Grande,CLT,Equiparação Salarial,12460.13,Sim,Arquivada (acordo)
+825,2024-01-27,PE,Comércio,Pequeno,Estágio,Horas Extras,11881.48,Não,Parcialmente procedente
+826,2022-11-15,SP,Indústria,Médio,Estágio,Férias,25173.69,Não,Procedente
+827,2023-05-20,PR,Serviços,Pequeno,Estágio,Assédio Sexual,26057.01,Não,Improcedente
+828,2023-08-23,CE,Indústria,Médio,Estágio,Assédio Moral,11339.98,Não,Improcedente
+829,2024-10-26,DF,Construção,Pequeno,Estágio,Férias,12058.69,Não,Improcedente
+830,2025-03-09,PE,Construção,Grande,PJ,Multa 40%,13027.51,Sim,Arquivada (acordo)
+831,2022-12-04,SC,Indústria,Grande,CLT,Assédio Moral,5588.85,Sim,Arquivada (acordo)
+832,2024-10-21,PE,TI,Pequeno,Estágio,Equiparação Salarial,8569.44,Não,Improcedente
+833,2025-06-19,CE,Serviços,Pequeno,PJ,FGTS,7971.01,Não,Procedente
+834,2025-07-04,MG,Indústria,Pequeno,PJ,Horas Extras,9625.42,Não,Parcialmente procedente
+835,2024-09-16,PE,TI,Grande,PJ,Assédio Moral,14757.21,Não,Procedente
+836,2025-02-27,SP,Construção,Médio,CLT,Multa 40%,16639.5,Não,Parcialmente procedente
+837,2023-10-10,SP,Construção,Médio,PJ,Vínculo Empregatício,25853.5,Não,Parcialmente procedente
+838,2022-11-22,BA,Serviços,Pequeno,CLT,Vínculo Empregatício,8011.52,Não,Parcialmente procedente
+839,2024-11-17,CE,Indústria,Pequeno,PJ,Verbas Rescisórias,21890.26,Sim,Arquivada (acordo)
+840,2023-10-28,SC,Comércio,Pequeno,CLT,Assédio Sexual,13502.08,Não,Improcedente
+841,2024-07-13,RJ,Serviços,Pequeno,PJ,Assédio Sexual,14653.75,Não,Procedente
+842,2024-07-02,DF,Construção,Grande,PJ,Multa 40%,19723.74,Não,Parcialmente procedente
+843,2022-09-08,SP,Comércio,Médio,Terceirizado,FGTS,7140.95,Não,Procedente
+844,2025-06-15,BA,Construção,Pequeno,Terceirizado,Multa 40%,17676.87,Sim,Arquivada (acordo)
+845,2022-11-22,PR,TI,Grande,Estágio,Equiparação Salarial,16165.17,Sim,Arquivada (acordo)
+846,2023-09-30,RS,Construção,Pequeno,CLT,Equiparação Salarial,18447.16,Não,Parcialmente procedente
+847,2024-05-07,DF,TI,Médio,Terceirizado,Assédio Sexual,17024.18,Não,Procedente
+848,2023-07-10,SC,Indústria,Grande,Estágio,Equiparação Salarial,32187.1,Não,Parcialmente procedente
+849,2024-02-11,MG,Construção,Pequeno,Terceirizado,Vínculo Empregatício,10535.82,Sim,Arquivada (acordo)
+850,2022-10-05,SP,Serviços,Grande,CLT,Vínculo Empregatício,11283.02,Não,Procedente
+851,2023-05-08,BA,Comércio,Médio,Terceirizado,Equiparação Salarial,10638.02,Não,Parcialmente procedente
+852,2023-06-30,RS,TI,Médio,CLT,Assédio Sexual,11111.66,Não,Parcialmente procedente
+853,2025-04-02,SP,Comércio,Grande,Terceirizado,FGTS,10538.29,Não,Parcialmente procedente
+854,2025-07-27,SP,Indústria,Pequeno,Terceirizado,FGTS,23323.12,Não,Parcialmente procedente
+855,2024-02-20,PE,Comércio,Grande,PJ,Multa 40%,24943.53,Sim,Arquivada (acordo)
+856,2024-05-18,PE,Construção,Médio,Estágio,Férias,11004.78,Não,Improcedente
+857,2024-09-11,CE,TI,Grande,Terceirizado,Equiparação Salarial,9173.51,Não,Parcialmente procedente
+858,2025-04-18,SC,TI,Pequeno,PJ,Assédio Sexual,18299.91,Não,Parcialmente procedente
+859,2025-03-28,BA,Construção,Pequeno,Estágio,Verbas Rescisórias,11134.44,Não,Procedente
+860,2024-06-02,PR,TI,Grande,CLT,Assédio Sexual,19430.52,Não,Parcialmente procedente
+861,2023-02-25,RS,TI,Médio,Terceirizado,Vínculo Empregatício,16420.46,Não,Improcedente
+862,2024-05-08,SC,Comércio,Pequeno,CLT,Multa 40%,4389.79,Não,Procedente
+863,2022-11-06,CE,Indústria,Pequeno,Terceirizado,Multa 40%,25832.54,Não,Parcialmente procedente
+864,2023-06-13,SC,Indústria,Pequeno,PJ,Vínculo Empregatício,27571.14,Não,Parcialmente procedente
+865,2023-08-07,CE,Comércio,Pequeno,Terceirizado,Horas Extras,10710.48,Não,Parcialmente procedente
+866,2025-05-19,RJ,TI,Médio,CLT,Assédio Moral,12286.09,Não,Procedente
+867,2024-01-05,PR,Comércio,Grande,Terceirizado,Vínculo Empregatício,17001.06,Não,Improcedente
+868,2024-11-08,PR,Construção,Médio,Estágio,Assédio Moral,17341.2,Sim,Arquivada (acordo)
+869,2024-04-21,MG,TI,Pequeno,CLT,Equiparação Salarial,19609.81,Não,Parcialmente procedente
+870,2024-09-23,SC,Construção,Médio,Terceirizado,Verbas Rescisórias,29071.43,Não,Procedente
+871,2024-09-01,DF,Indústria,Pequeno,CLT,Assédio Sexual,13761.37,Não,Parcialmente procedente
+872,2024-10-19,PE,Comércio,Pequeno,CLT,Multa 40%,9411.92,Não,Improcedente
+873,2023-04-12,BA,Comércio,Pequeno,Estágio,Férias,5344.77,Sim,Arquivada (acordo)
+874,2025-05-24,DF,Construção,Grande,Estágio,FGTS,9883.49,Não,Procedente
+875,2025-06-03,CE,Comércio,Médio,PJ,Assédio Moral,14768.11,Não,Procedente
+876,2023-07-05,PE,Comércio,Médio,Terceirizado,Multa 40%,27561.91,Não,Procedente
+877,2024-04-26,MG,Construção,Médio,Terceirizado,Férias,11376.72,Sim,Arquivada (acordo)
+878,2024-09-18,SC,TI,Médio,Estágio,Horas Extras,16566.52,Sim,Arquivada (acordo)
+879,2023-10-31,RJ,TI,Médio,Estágio,Verbas Rescisórias,14885.04,Sim,Arquivada (acordo)
+880,2023-10-07,SC,Construção,Grande,PJ,Equiparação Salarial,23318.75,Sim,Arquivada (acordo)
+881,2023-11-23,RJ,TI,Grande,CLT,Assédio Sexual,32688.53,Não,Parcialmente procedente
+882,2024-03-03,BA,Indústria,Grande,PJ,Equiparação Salarial,11283.92,Sim,Arquivada (acordo)
+883,2025-07-16,PE,Serviços,Pequeno,Terceirizado,Vínculo Empregatício,11573.92,Não,Parcialmente procedente
+884,2024-06-27,BA,Construção,Médio,PJ,Verbas Rescisórias,22309.13,Não,Improcedente
+885,2022-09-21,DF,Serviços,Pequeno,Estágio,FGTS,19773.24,Não,Procedente
+886,2023-11-30,MG,TI,Médio,CLT,Assédio Moral,27926.95,Não,Parcialmente procedente
+887,2023-07-30,BA,TI,Médio,CLT,Assédio Moral,19087.5,Sim,Arquivada (acordo)
+888,2023-07-29,MG,Construção,Grande,CLT,Verbas Rescisórias,12484.96,Não,Parcialmente procedente
+889,2025-04-26,PR,Serviços,Grande,Estágio,Vínculo Empregatício,19134.58,Sim,Arquivada (acordo)
+890,2023-10-04,SC,TI,Grande,Terceirizado,Férias,22760.93,Não,Procedente
+891,2024-12-22,RJ,Construção,Pequeno,Estágio,Verbas Rescisórias,20743.38,Não,Improcedente
+892,2024-06-14,CE,Comércio,Pequeno,Terceirizado,Assédio Moral,18550.92,Não,Procedente
+893,2024-02-07,RS,Serviços,Grande,Estágio,FGTS,22466.72,Não,Parcialmente procedente
+894,2024-01-22,BA,Construção,Pequeno,PJ,Multa 40%,23185.07,Sim,Arquivada (acordo)
+895,2023-05-01,CE,Serviços,Médio,Estágio,Verbas Rescisórias,24675.11,Sim,Arquivada (acordo)
+896,2023-07-10,MG,Indústria,Pequeno,CLT,Horas Extras,19540.97,Sim,Arquivada (acordo)
+897,2023-01-27,PE,Serviços,Pequeno,CLT,Verbas Rescisórias,13830.17,Não,Parcialmente procedente
+898,2025-05-28,PE,Construção,Médio,PJ,Multa 40%,16027.0,Não,Parcialmente procedente
+899,2024-05-04,PE,Serviços,Médio,PJ,Verbas Rescisórias,23445.56,Não,Improcedente
+900,2023-12-12,PE,Indústria,Grande,Terceirizado,Férias,9281.45,Não,Parcialmente procedente
+901,2024-04-11,SP,Comércio,Grande,Estágio,FGTS,17580.71,Sim,Arquivada (acordo)
+902,2023-10-19,PE,Comércio,Pequeno,Terceirizado,Multa 40%,12246.63,Não,Parcialmente procedente
+903,2024-09-28,DF,Comércio,Pequeno,Estágio,Assédio Moral,15201.21,Não,Parcialmente procedente
+904,2025-01-19,DF,TI,Grande,CLT,FGTS,23949.16,Não,Improcedente
+905,2023-09-15,PE,Construção,Médio,Terceirizado,Férias,16337.69,Não,Procedente
+906,2024-08-15,PR,TI,Pequeno,CLT,Assédio Sexual,15325.06,Não,Parcialmente procedente
+907,2023-05-25,SP,Serviços,Grande,PJ,Horas Extras,5481.01,Não,Parcialmente procedente
+908,2023-11-28,DF,Comércio,Médio,Estágio,Assédio Moral,20223.77,Sim,Arquivada (acordo)
+909,2023-04-27,RJ,TI,Médio,PJ,Assédio Sexual,19518.39,Sim,Arquivada (acordo)
+910,2023-12-23,PR,Comércio,Grande,CLT,Verbas Rescisórias,30142.78,Não,Procedente
+911,2024-06-05,PE,TI,Pequeno,Terceirizado,Vínculo Empregatício,12845.55,Não,Procedente
+912,2024-11-13,SP,TI,Pequeno,PJ,Verbas Rescisórias,16534.05,Não,Procedente
+913,2024-09-08,BA,Serviços,Pequeno,Estágio,Verbas Rescisórias,16745.69,Sim,Arquivada (acordo)
+914,2024-01-11,SC,Comércio,Grande,Terceirizado,Assédio Moral,26042.17,Sim,Arquivada (acordo)
+915,2025-06-23,PE,Serviços,Médio,Terceirizado,Multa 40%,14332.93,Não,Procedente
+916,2023-10-03,CE,Indústria,Médio,Estágio,Multa 40%,16953.15,Sim,Arquivada (acordo)
+917,2022-09-29,CE,Serviços,Pequeno,Terceirizado,Multa 40%,19255.28,Não,Parcialmente procedente
+918,2025-05-16,CE,Comércio,Pequeno,Terceirizado,Férias,16306.26,Não,Procedente
+919,2023-04-07,PR,TI,Médio,Terceirizado,Assédio Moral,11874.96,Sim,Arquivada (acordo)
+920,2023-08-16,DF,Serviços,Médio,PJ,Vínculo Empregatício,16358.63,Não,Procedente
+921,2023-07-09,MG,TI,Grande,CLT,Horas Extras,22515.42,Não,Improcedente
+922,2023-11-06,RJ,Construção,Pequeno,Estágio,FGTS,7814.39,Sim,Arquivada (acordo)
+923,2025-06-23,PR,TI,Pequeno,CLT,Horas Extras,15930.79,Não,Improcedente
+924,2025-03-15,DF,Indústria,Grande,CLT,Assédio Moral,10099.15,Sim,Arquivada (acordo)
+925,2022-08-31,DF,Indústria,Médio,PJ,Assédio Moral,23365.33,Não,Parcialmente procedente
+926,2024-01-23,PE,Comércio,Grande,Estágio,Assédio Sexual,4337.69,Não,Procedente
+927,2022-11-03,SC,TI,Pequeno,CLT,Assédio Sexual,11087.55,Não,Parcialmente procedente
+928,2024-07-07,SC,Comércio,Médio,Terceirizado,Verbas Rescisórias,17640.48,Não,Parcialmente procedente
+929,2022-10-01,RS,Construção,Médio,PJ,Multa 40%,25958.67,Sim,Arquivada (acordo)
+930,2024-11-17,CE,Serviços,Pequeno,CLT,Multa 40%,14539.75,Não,Improcedente
+931,2023-03-13,RJ,Comércio,Grande,Terceirizado,Multa 40%,11113.6,Sim,Arquivada (acordo)
+932,2023-06-27,PE,Indústria,Grande,CLT,Horas Extras,28168.1,Não,Parcialmente procedente
+933,2022-09-01,SC,Serviços,Grande,CLT,Equiparação Salarial,4863.9,Não,Procedente
+934,2024-03-24,PE,Serviços,Médio,CLT,Equiparação Salarial,1500.0,Sim,Arquivada (acordo)
+935,2025-03-09,BA,Serviços,Pequeno,Terceirizado,FGTS,18080.1,Não,Parcialmente procedente
+936,2025-06-08,RJ,TI,Grande,Terceirizado,Assédio Moral,11485.62,Não,Procedente
+937,2023-02-24,PR,Indústria,Pequeno,CLT,Férias,7851.37,Não,Parcialmente procedente
+938,2024-09-10,BA,Comércio,Grande,Terceirizado,Multa 40%,19958.5,Sim,Arquivada (acordo)
+939,2025-07-23,PE,Indústria,Pequeno,CLT,Vínculo Empregatício,16706.6,Sim,Arquivada (acordo)
+940,2023-06-19,DF,Indústria,Médio,Estágio,Assédio Moral,11051.45,Não,Procedente
+941,2023-03-03,PE,Construção,Médio,CLT,Horas Extras,6037.87,Não,Parcialmente procedente
+942,2024-11-12,SP,Serviços,Pequeno,PJ,Equiparação Salarial,21107.2,Não,Procedente
+943,2024-11-08,CE,Indústria,Grande,PJ,Assédio Moral,19551.41,Sim,Arquivada (acordo)
+944,2024-02-17,MG,Serviços,Grande,CLT,Multa 40%,14305.77,Não,Procedente
+945,2022-10-30,RS,Indústria,Pequeno,PJ,Horas Extras,27926.46,Não,Procedente
+946,2023-12-07,RJ,Serviços,Grande,PJ,Assédio Moral,7509.41,Não,Improcedente
+947,2023-04-02,PE,Construção,Grande,PJ,Assédio Moral,4321.32,Não,Parcialmente procedente
+948,2025-01-04,BA,TI,Pequeno,PJ,FGTS,10156.64,Não,Procedente
+949,2023-11-04,SP,Construção,Pequeno,Terceirizado,Assédio Moral,14680.9,Sim,Arquivada (acordo)
+950,2024-08-23,MG,Serviços,Pequeno,Terceirizado,Equiparação Salarial,16703.38,Sim,Arquivada (acordo)
+951,2024-01-20,RS,Construção,Pequeno,PJ,Assédio Moral,13311.35,Não,Procedente
+952,2022-09-21,BA,Indústria,Pequeno,Estágio,Assédio Moral,17464.39,Sim,Arquivada (acordo)
+953,2024-07-15,MG,Comércio,Grande,Terceirizado,Férias,6239.22,Não,Procedente
+954,2023-09-23,PE,Indústria,Pequeno,PJ,Assédio Sexual,25106.35,Não,Parcialmente procedente
+955,2025-03-02,MG,Construção,Grande,CLT,Verbas Rescisórias,14424.94,Não,Procedente
+956,2023-02-27,RJ,TI,Médio,Estágio,Horas Extras,22821.07,Não,Improcedente
+957,2023-07-29,CE,Comércio,Grande,Terceirizado,Equiparação Salarial,17399.08,Não,Parcialmente procedente
+958,2023-11-22,RS,TI,Pequeno,PJ,Assédio Moral,18197.27,Não,Procedente
+959,2024-08-16,PE,Serviços,Pequeno,PJ,Horas Extras,18988.37,Sim,Arquivada (acordo)
+960,2022-10-28,SC,TI,Pequeno,Estágio,Assédio Sexual,18133.96,Não,Procedente
+961,2024-08-23,PE,Comércio,Pequeno,CLT,Equiparação Salarial,19499.06,Sim,Arquivada (acordo)
+962,2023-02-14,SP,Serviços,Grande,CLT,Assédio Moral,24304.07,Não,Procedente
+963,2022-11-18,DF,Construção,Médio,Estágio,Vínculo Empregatício,16375.65,Não,Procedente
+964,2024-02-10,RS,Comércio,Médio,PJ,Assédio Moral,19963.03,Sim,Arquivada (acordo)
+965,2024-01-12,BA,Indústria,Médio,PJ,Assédio Moral,14371.85,Não,Parcialmente procedente
+966,2022-09-26,BA,Indústria,Pequeno,Estágio,Verbas Rescisórias,25080.82,Não,Improcedente
+967,2023-06-13,RS,TI,Médio,PJ,FGTS,10265.25,Sim,Arquivada (acordo)
+968,2023-11-09,DF,Comércio,Médio,PJ,Assédio Moral,27606.58,Não,Parcialmente procedente
+969,2022-09-29,MG,TI,Pequeno,Terceirizado,Verbas Rescisórias,14718.89,Não,Procedente
+970,2024-07-06,DF,Indústria,Grande,PJ,Assédio Moral,4984.57,Não,Parcialmente procedente
+971,2023-12-21,RS,Construção,Médio,Estágio,Assédio Sexual,15896.73,Sim,Arquivada (acordo)
+972,2024-10-13,BA,Indústria,Pequeno,Terceirizado,Férias,10232.64,Não,Procedente
+973,2022-07-31,DF,Indústria,Grande,CLT,Férias,20884.5,Não,Improcedente
+974,2025-04-23,PE,Construção,Pequeno,Estágio,Equiparação Salarial,10431.63,Não,Procedente
+975,2025-06-08,RJ,Serviços,Médio,PJ,Assédio Moral,11876.72,Não,Improcedente
+976,2024-10-29,BA,Indústria,Pequeno,Terceirizado,Assédio Sexual,1773.21,Sim,Arquivada (acordo)
+977,2023-08-03,RJ,Comércio,Médio,Terceirizado,Verbas Rescisórias,11833.86,Não,Procedente
+978,2023-10-29,DF,Comércio,Médio,Estágio,Verbas Rescisórias,1500.0,Não,Parcialmente procedente
+979,2023-03-27,SC,Serviços,Grande,CLT,Assédio Moral,3912.68,Não,Procedente
+980,2023-05-02,CE,Comércio,Médio,Estágio,Assédio Sexual,20322.9,Não,Procedente
+981,2024-12-01,DF,Indústria,Grande,CLT,FGTS,20500.6,Não,Improcedente
+982,2023-04-24,SC,Comércio,Pequeno,Estágio,FGTS,17978.2,Não,Improcedente
+983,2023-10-29,SC,Indústria,Grande,CLT,Equiparação Salarial,8231.17,Não,Parcialmente procedente
+984,2024-11-22,SC,Indústria,Grande,CLT,Multa 40%,14666.02,Não,Procedente
+985,2025-04-28,RS,Indústria,Médio,Terceirizado,Assédio Sexual,14974.78,Não,Parcialmente procedente
+986,2024-07-25,SP,Comércio,Médio,Terceirizado,Multa 40%,6891.45,Não,Parcialmente procedente
+987,2023-06-15,RJ,Serviços,Grande,Terceirizado,Multa 40%,25523.79,Não,Procedente
+988,2022-12-24,RJ,Indústria,Médio,CLT,Assédio Moral,21141.54,Não,Improcedente
+989,2023-05-20,RJ,Comércio,Pequeno,Terceirizado,Assédio Moral,13453.25,Não,Parcialmente procedente
+990,2024-02-08,RS,Construção,Grande,CLT,Assédio Sexual,15188.2,Não,Procedente
+991,2024-07-10,MG,Serviços,Médio,Estágio,Multa 40%,16458.68,Não,Improcedente
+992,2022-11-03,RS,Comércio,Pequeno,PJ,Equiparação Salarial,1500.0,Não,Parcialmente procedente
+993,2025-03-23,SC,TI,Médio,Estágio,Multa 40%,13269.76,Não,Improcedente
+994,2022-08-27,PR,Indústria,Médio,PJ,Multa 40%,10226.11,Não,Parcialmente procedente
+995,2023-03-26,SP,Indústria,Médio,Terceirizado,Multa 40%,7988.66,Não,Procedente
+996,2022-11-06,MG,Construção,Médio,PJ,Verbas Rescisórias,13032.3,Não,Procedente
+997,2023-12-23,MG,Indústria,Pequeno,CLT,Horas Extras,27583.81,Não,Parcialmente procedente
+998,2025-01-05,PE,TI,Médio,PJ,Vínculo Empregatício,19485.9,Não,Improcedente
+999,2023-04-12,SC,TI,Pequeno,Terceirizado,Multa 40%,11001.75,Não,Improcedente
+1000,2024-09-19,PR,Comércio,Pequeno,Estágio,Multa 40%,19008.08,Não,Procedente
