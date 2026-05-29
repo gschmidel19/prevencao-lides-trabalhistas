@@ -1,7 +1,7 @@
 pandas
+plotly
+streamlit
+faker
 numpy
 matplotlib
 seaborn
-plotly
-streamlit
-

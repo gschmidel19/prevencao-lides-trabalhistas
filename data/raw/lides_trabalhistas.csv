@@ -1,0 +1,1001 @@
+id_acao,empresa_id,data_ajuizamento,tipo_contratacao,causa_principal,valor_acao,houve_acordo,resultado_final,tempo_empresa_colaborador,afastamento_previo
+1,18,2024-12-07,Estágio,FGTS,10896.07,Sim,Arquivada (acordo),7.2,Não
+2,71,2026-02-20,Estágio,Assédio Sexual,13522.05,Sim,Improcedente,2.1,Sim
+3,54,2023-12-10,PJ,Assédio Moral,43377.07,Sim,Arquivada (acordo),13.3,Não
+4,43,2025-05-18,PJ,Assédio Moral,8802.63,Sim,Improcedente,12.4,Não
+5,84,2026-02-16,CLT,Acidente de Trabalho,32553.04,Sim,Procedente,14.5,Não
+6,36,2025-06-10,CLT,Assédio Sexual,25677.54,Sim,Arquivada (acordo),12.0,Não
+7,50,2024-02-10,Estágio,Assédio Moral,19902.5,Sim,Parcialmente procedente,12.1,Sim
+8,49,2023-12-07,CLT,Equiparação Salarial,48233.68,Sim,Procedente,14.8,Sim
+9,100,2025-06-15,Terceirizado,Vínculo Empregatício,38006.57,Sim,Arquivada (acordo),4.5,Sim
+10,15,2024-09-19,Estágio,Assédio Moral,16877.02,Sim,Procedente,3.4,Não
+11,80,2024-09-28,Estágio,Horas Extras,29603.72,Não,Procedente,9.3,Sim
+12,60,2025-07-02,Terceirizado,Assédio Sexual,37005.61,Sim,Parcialmente procedente,0.9,Não
+13,58,2024-03-23,CLT,Assédio Moral,26656.11,Sim,Parcialmente procedente,0.7,Sim
+14,97,2023-06-05,Estágio,Vínculo Empregatício,71067.07,Não,Arquivada (acordo),3.4,Não
+15,82,2024-08-29,CLT,Acidente de Trabalho,36905.52,Não,Parcialmente procedente,12.9,Sim
+16,52,2025-01-25,Estágio,Vínculo Empregatício,41591.18,Sim,Improcedente,3.2,Não
+17,19,2025-08-17,Terceirizado,Horas Extras,38175.18,Sim,Procedente,10.3,Não
+18,78,2025-08-18,CLT,Assédio Sexual,18374.57,Sim,Parcialmente procedente,2.7,Não
+19,95,2024-04-01,Terceirizado,Assédio Moral,24786.47,Sim,Arquivada (acordo),13.9,Sim
+20,56,2024-03-03,Estágio,Horas Extras,35953.92,Sim,Procedente,9.4,Sim
+21,50,2023-06-27,CLT,Verbas Rescisórias,41146.76,Sim,Improcedente,12.4,Não
+22,19,2023-12-06,CLT,Assédio Moral,13410.04,Não,Procedente,6.6,Sim
+23,40,2025-08-27,Terceirizado,Equiparação Salarial,46135.59,Sim,Parcialmente procedente,13.4,Sim
+24,27,2023-11-27,PJ,Assédio Moral,8352.35,Sim,Parcialmente procedente,8.6,Sim
+25,76,2025-04-23,CLT,Assédio Moral,7515.96,Sim,Arquivada (acordo),4.1,Sim
+26,45,2025-07-13,Terceirizado,Equiparação Salarial,66154.32,Sim,Arquivada (acordo),14.9,Sim
+27,26,2024-10-26,Terceirizado,Assédio Sexual,68504.84,Sim,Parcialmente procedente,2.9,Sim
+28,23,2024-01-22,PJ,Assédio Moral,54782.26,Não,Parcialmente procedente,4.5,Sim
+29,73,2023-07-14,CLT,Assédio Moral,52759.17,Sim,Arquivada (acordo),10.8,Não
+30,69,2026-05-15,Estágio,Verbas Rescisórias,31824.41,Sim,Improcedente,5.6,Sim
+31,91,2023-09-20,CLT,Verbas Rescisórias,43325.67,Não,Procedente,12.0,Não
+32,59,2024-06-04,Terceirizado,FGTS,59127.42,Não,Parcialmente procedente,9.9,Sim
+33,11,2023-10-13,PJ,Verbas Rescisórias,42808.87,Sim,Improcedente,1.4,Não
+34,14,2025-12-23,CLT,FGTS,57946.42,Não,Improcedente,3.1,Não
+35,96,2025-05-31,PJ,Verbas Rescisórias,70218.32,Sim,Arquivada (acordo),12.9,Sim
+36,75,2024-06-28,CLT,Acidente de Trabalho,59148.44,Não,Procedente,2.7,Não
+37,32,2024-01-21,PJ,Assédio Moral,38954.43,Não,Procedente,8.0,Sim
+38,44,2023-08-04,Estágio,Assédio Moral,13987.4,Sim,Improcedente,10.6,Não
+39,57,2024-04-30,CLT,Assédio Moral,16317.57,Sim,Improcedente,6.7,Sim
+40,39,2024-11-02,CLT,Vínculo Empregatício,75460.12,Não,Parcialmente procedente,3.9,Não
+41,16,2024-11-28,Terceirizado,Vínculo Empregatício,52858.46,Sim,Parcialmente procedente,14.0,Sim
+42,94,2025-08-23,Terceirizado,Verbas Rescisórias,33234.84,Sim,Improcedente,5.8,Não
+43,57,2025-01-17,Estágio,Horas Extras,13709.6,Sim,Improcedente,14.9,Sim
+44,55,2024-09-25,CLT,Horas Extras,7275.97,Sim,Procedente,0.6,Não
+45,30,2024-07-18,Terceirizado,Verbas Rescisórias,69268.76,Não,Improcedente,10.4,Sim
+46,3,2023-06-29,Estágio,Acidente de Trabalho,36831.82,Sim,Improcedente,6.5,Não
+47,97,2025-12-01,CLT,Verbas Rescisórias,9433.11,Sim,Improcedente,7.6,Não
+48,56,2026-02-12,Terceirizado,Verbas Rescisórias,74104.46,Sim,Arquivada (acordo),13.6,Sim
+49,31,2025-12-10,Estágio,Horas Extras,79628.4,Sim,Parcialmente procedente,1.2,Sim
+50,52,2026-04-01,Terceirizado,Acidente de Trabalho,49351.12,Não,Improcedente,1.5,Não
+51,89,2026-02-27,Terceirizado,Equiparação Salarial,67733.69,Sim,Arquivada (acordo),2.3,Sim
+52,69,2023-06-10,Terceirizado,Assédio Moral,26432.63,Não,Improcedente,6.2,Não
+53,71,2025-06-23,Terceirizado,Equiparação Salarial,39395.34,Sim,Procedente,8.9,Não
+54,42,2025-04-11,PJ,Horas Extras,38715.83,Sim,Procedente,3.0,Sim
+55,33,2023-10-21,Terceirizado,FGTS,79089.59,Não,Arquivada (acordo),2.6,Sim
+56,22,2025-11-12,PJ,Vínculo Empregatício,54024.8,Sim,Arquivada (acordo),2.3,Sim
+57,95,2025-01-08,PJ,Assédio Sexual,19015.94,Não,Improcedente,7.1,Não
+58,45,2023-07-08,Terceirizado,Assédio Sexual,67350.1,Sim,Parcialmente procedente,7.1,Não
+59,43,2025-06-15,Terceirizado,Horas Extras,68817.45,Não,Improcedente,1.5,Sim
+60,65,2024-11-02,Estágio,Assédio Sexual,26000.76,Sim,Parcialmente procedente,2.7,Sim
+61,1,2023-10-21,PJ,Assédio Moral,50383.29,Sim,Procedente,3.9,Sim
+62,83,2026-04-03,Estágio,Assédio Moral,47352.26,Não,Parcialmente procedente,13.4,Não
+63,3,2024-01-23,CLT,Horas Extras,18110.71,Não,Parcialmente procedente,4.3,Não
+64,44,2025-10-07,Estágio,Horas Extras,25148.17,Sim,Procedente,1.9,Não
+65,24,2024-09-08,Estágio,Assédio Sexual,47852.26,Sim,Parcialmente procedente,5.1,Sim
+66,93,2025-11-28,Estágio,Horas Extras,38711.17,Não,Improcedente,0.9,Sim
+67,17,2024-05-16,PJ,Horas Extras,9375.87,Sim,Parcialmente procedente,14.1,Sim
+68,10,2023-11-19,Estágio,Horas Extras,73437.72,Sim,Arquivada (acordo),8.2,Não
+69,19,2025-10-09,Estágio,Assédio Sexual,24976.02,Sim,Procedente,14.0,Sim
+70,93,2025-12-02,CLT,Equiparação Salarial,16522.68,Sim,Procedente,6.7,Sim
+71,49,2024-07-01,Estágio,Assédio Moral,79984.69,Não,Procedente,2.1,Não
+72,28,2025-01-23,Terceirizado,Verbas Rescisórias,46630.94,Não,Procedente,5.3,Não
+73,31,2024-12-19,Estágio,Vínculo Empregatício,34919.97,Não,Procedente,5.1,Não
+74,91,2026-05-22,CLT,Equiparação Salarial,35365.85,Sim,Parcialmente procedente,6.8,Sim
+75,23,2026-01-02,CLT,Assédio Moral,19838.25,Sim,Parcialmente procedente,13.7,Sim
+76,27,2025-10-23,CLT,Horas Extras,23977.39,Sim,Parcialmente procedente,6.2,Não
+77,70,2025-03-12,PJ,Verbas Rescisórias,7281.68,Não,Procedente,9.7,Não
+78,73,2024-02-18,CLT,Assédio Sexual,25116.46,Sim,Arquivada (acordo),5.0,Não
+79,41,2025-08-06,PJ,Assédio Sexual,21322.12,Sim,Improcedente,14.7,Sim
+80,65,2026-02-18,Terceirizado,Verbas Rescisórias,30589.88,Sim,Arquivada (acordo),6.3,Não
+81,47,2023-12-18,PJ,Horas Extras,79361.33,Não,Improcedente,12.8,Sim
+82,5,2025-11-26,Estágio,Assédio Sexual,53271.62,Sim,Parcialmente procedente,13.5,Sim
+83,77,2025-08-24,CLT,FGTS,76281.44,Sim,Procedente,9.2,Não
+84,32,2025-05-09,CLT,Assédio Moral,62109.04,Não,Procedente,9.0,Não
+85,40,2024-06-12,Terceirizado,Horas Extras,53999.2,Sim,Procedente,10.5,Sim
+86,2,2025-06-28,Terceirizado,Horas Extras,7135.74,Sim,Improcedente,3.3,Sim
+87,66,2025-02-16,PJ,Equiparação Salarial,65674.33,Não,Parcialmente procedente,14.4,Sim
+88,9,2025-04-29,CLT,Verbas Rescisórias,38565.23,Não,Procedente,1.4,Sim
+89,65,2024-09-08,Estágio,FGTS,31524.78,Sim,Improcedente,7.1,Sim
+90,52,2023-10-03,PJ,Assédio Sexual,73379.35,Sim,Improcedente,9.5,Não
+91,94,2025-11-01,CLT,Assédio Sexual,75947.17,Não,Procedente,8.2,Sim
+92,54,2023-12-30,Terceirizado,Horas Extras,20793.11,Sim,Parcialmente procedente,14.6,Não
+93,63,2023-06-03,PJ,Verbas Rescisórias,21570.98,Não,Improcedente,4.6,Sim
+94,91,2026-02-10,PJ,FGTS,77368.63,Sim,Parcialmente procedente,13.6,Sim
+95,90,2025-02-07,Terceirizado,Horas Extras,54030.01,Não,Arquivada (acordo),9.6,Não
+96,80,2025-02-27,Terceirizado,Horas Extras,37026.77,Não,Procedente,14.5,Sim
+97,97,2023-10-08,CLT,Acidente de Trabalho,72341.98,Não,Improcedente,9.5,Sim
+98,25,2023-12-02,Terceirizado,Assédio Moral,50985.51,Sim,Improcedente,2.3,Não
+99,59,2026-04-07,CLT,Assédio Moral,10926.19,Não,Arquivada (acordo),2.2,Não
+100,93,2023-08-16,Terceirizado,Equiparação Salarial,51735.09,Não,Improcedente,5.2,Não
+101,15,2023-11-29,CLT,Horas Extras,54590.84,Não,Parcialmente procedente,14.6,Sim
+102,57,2025-09-23,CLT,Assédio Sexual,23651.0,Sim,Procedente,11.5,Sim
+103,88,2025-01-29,CLT,Assédio Sexual,33456.51,Não,Parcialmente procedente,12.2,Não
+104,19,2026-04-15,Estágio,Assédio Moral,74199.53,Não,Arquivada (acordo),12.9,Não
+105,44,2025-04-12,Terceirizado,Verbas Rescisórias,36732.42,Não,Parcialmente procedente,6.0,Não
+106,68,2025-05-02,PJ,FGTS,62434.96,Não,Arquivada (acordo),1.7,Não
+107,27,2023-11-11,CLT,Assédio Sexual,46810.34,Sim,Improcedente,4.3,Sim
+108,36,2024-03-30,CLT,Horas Extras,22371.15,Sim,Procedente,2.7,Sim
+109,8,2024-12-13,Estágio,Acidente de Trabalho,53831.06,Sim,Parcialmente procedente,14.5,Sim
+110,92,2024-06-27,Estágio,Assédio Moral,19433.58,Sim,Improcedente,12.6,Sim
+111,89,2026-01-18,PJ,Assédio Moral,18729.31,Sim,Parcialmente procedente,5.3,Não
+112,59,2023-12-18,Estágio,Assédio Sexual,9426.96,Não,Procedente,13.0,Sim
+113,41,2023-11-11,CLT,Assédio Moral,52501.08,Não,Arquivada (acordo),4.0,Não
+114,54,2024-02-11,Terceirizado,FGTS,12580.68,Sim,Procedente,13.4,Não
+115,67,2025-02-17,Estágio,Verbas Rescisórias,61606.26,Sim,Improcedente,12.7,Sim
+116,16,2024-05-28,CLT,FGTS,29821.76,Sim,Improcedente,8.6,Não
+117,2,2025-05-07,Terceirizado,Assédio Sexual,39684.88,Não,Procedente,14.8,Não
+118,100,2025-11-03,CLT,Assédio Moral,32185.29,Sim,Procedente,8.2,Não
+119,16,2025-09-05,Estágio,Horas Extras,17780.5,Sim,Improcedente,7.1,Não
+120,53,2023-08-09,Estágio,Assédio Sexual,60736.72,Sim,Improcedente,10.1,Não
+121,22,2024-10-12,PJ,Assédio Moral,50774.44,Não,Parcialmente procedente,9.2,Sim
+122,29,2023-12-21,Estágio,Horas Extras,32565.13,Sim,Improcedente,2.0,Não
+123,36,2023-06-26,Terceirizado,Assédio Sexual,67091.63,Sim,Procedente,13.9,Não
+124,19,2024-06-24,PJ,Vínculo Empregatício,26694.04,Sim,Parcialmente procedente,12.2,Não
+125,99,2025-01-14,PJ,Assédio Moral,53231.46,Sim,Procedente,0.5,Sim
+126,88,2024-03-09,CLT,Assédio Sexual,76151.3,Sim,Procedente,7.4,Sim
+127,77,2026-03-18,PJ,Assédio Sexual,63478.63,Sim,Improcedente,1.7,Sim
+128,17,2025-06-23,PJ,Assédio Moral,64455.05,Sim,Parcialmente procedente,4.7,Não
+129,82,2026-01-08,Terceirizado,Equiparação Salarial,75028.46,Sim,Procedente,5.4,Não
+130,75,2025-08-19,Estágio,Equiparação Salarial,77816.51,Não,Improcedente,14.7,Sim
+131,56,2026-02-27,Estágio,Horas Extras,77580.82,Sim,Parcialmente procedente,12.6,Não
+132,27,2026-02-21,Estágio,Vínculo Empregatício,57691.27,Sim,Procedente,13.2,Sim
+133,32,2024-01-27,Estágio,Vínculo Empregatício,24857.33,Sim,Parcialmente procedente,5.8,Sim
+134,35,2025-12-07,Terceirizado,Assédio Sexual,59088.62,Sim,Arquivada (acordo),0.9,Não
+135,29,2023-12-28,Terceirizado,Horas Extras,50198.84,Sim,Procedente,8.3,Não
+136,25,2024-10-06,CLT,FGTS,52252.5,Sim,Parcialmente procedente,10.0,Não
+137,6,2025-12-31,PJ,Horas Extras,49875.93,Não,Procedente,13.5,Sim
+138,15,2024-03-17,Estágio,Vínculo Empregatício,35962.81,Não,Improcedente,5.2,Não
+139,79,2026-04-15,CLT,Horas Extras,63373.27,Não,Parcialmente procedente,11.1,Não
+140,32,2024-07-19,CLT,Equiparação Salarial,31276.94,Sim,Improcedente,5.6,Sim
+141,33,2023-11-30,CLT,Assédio Moral,34194.98,Não,Parcialmente procedente,6.8,Não
+142,83,2025-11-23,CLT,Assédio Moral,72444.85,Sim,Parcialmente procedente,7.4,Sim
+143,87,2023-12-14,Estágio,Verbas Rescisórias,59140.6,Não,Arquivada (acordo),6.9,Sim
+144,46,2025-05-05,Estágio,FGTS,23147.03,Não,Parcialmente procedente,1.7,Sim
+145,14,2025-06-06,CLT,FGTS,6426.4,Não,Improcedente,11.5,Não
+146,6,2024-09-08,Terceirizado,Assédio Sexual,50469.69,Sim,Procedente,1.7,Sim
+147,40,2026-04-29,Terceirizado,FGTS,72280.85,Sim,Improcedente,10.5,Sim
+148,92,2025-06-20,PJ,Horas Extras,76520.42,Sim,Procedente,9.7,Não
+149,82,2024-12-02,PJ,Equiparação Salarial,47929.8,Sim,Parcialmente procedente,9.1,Não
+150,43,2024-03-16,CLT,Verbas Rescisórias,67808.06,Sim,Parcialmente procedente,8.5,Não
+151,67,2024-09-08,Terceirizado,Horas Extras,35621.22,Não,Arquivada (acordo),10.9,Sim
+152,10,2024-04-17,PJ,Assédio Moral,46728.03,Sim,Procedente,12.0,Não
+153,29,2026-03-10,PJ,Assédio Moral,60583.15,Sim,Arquivada (acordo),6.7,Não
+154,65,2024-06-22,Estágio,Acidente de Trabalho,48742.15,Sim,Arquivada (acordo),2.9,Não
+155,41,2024-11-22,Estágio,Verbas Rescisórias,63466.35,Sim,Parcialmente procedente,14.6,Sim
+156,46,2024-04-08,PJ,FGTS,57904.21,Sim,Procedente,7.8,Sim
+157,13,2024-10-03,PJ,Assédio Moral,49271.07,Sim,Parcialmente procedente,4.3,Não
+158,26,2024-01-30,PJ,Acidente de Trabalho,39925.66,Sim,Arquivada (acordo),6.4,Não
+159,15,2025-01-17,Terceirizado,Acidente de Trabalho,8323.2,Sim,Arquivada (acordo),9.8,Não
+160,62,2024-04-21,PJ,Verbas Rescisórias,50314.64,Sim,Parcialmente procedente,6.5,Sim
+161,66,2025-11-14,PJ,Vínculo Empregatício,65584.06,Não,Improcedente,11.3,Não
+162,87,2023-08-09,CLT,Equiparação Salarial,20349.28,Não,Parcialmente procedente,11.4,Sim
+163,9,2025-06-21,Terceirizado,Assédio Sexual,66478.69,Não,Improcedente,7.1,Sim
+164,86,2026-04-05,PJ,Assédio Moral,43660.56,Sim,Arquivada (acordo),10.8,Sim
+165,43,2024-09-21,CLT,Acidente de Trabalho,76924.61,Sim,Improcedente,11.9,Sim
+166,59,2023-05-30,CLT,Assédio Sexual,18492.44,Sim,Parcialmente procedente,7.5,Sim
+167,17,2024-01-03,Estágio,Equiparação Salarial,74579.35,Sim,Parcialmente procedente,10.5,Sim
+168,66,2025-03-30,PJ,FGTS,53875.2,Sim,Parcialmente procedente,11.8,Sim
+169,72,2026-05-27,Estágio,Verbas Rescisórias,73548.73,Sim,Improcedente,11.8,Sim
+170,27,2025-05-20,Estágio,Horas Extras,50573.38,Sim,Parcialmente procedente,14.9,Sim
+171,60,2024-05-08,Estágio,Vínculo Empregatício,45692.96,Não,Parcialmente procedente,12.7,Sim
+172,12,2025-04-25,CLT,Assédio Moral,64971.37,Não,Arquivada (acordo),8.0,Não
+173,66,2025-06-23,CLT,Verbas Rescisórias,66474.59,Sim,Parcialmente procedente,11.4,Sim
+174,54,2024-10-25,Estágio,Assédio Sexual,8226.15,Sim,Procedente,6.7,Sim
+175,56,2025-02-10,Estágio,Acidente de Trabalho,75454.14,Sim,Parcialmente procedente,0.6,Sim
+176,78,2026-02-25,CLT,Assédio Sexual,17428.93,Não,Parcialmente procedente,12.9,Não
+177,7,2024-09-03,Estágio,FGTS,7115.37,Sim,Improcedente,12.4,Não
+178,77,2024-07-15,Estágio,Acidente de Trabalho,65229.63,Sim,Procedente,13.9,Sim
+179,78,2025-08-13,Terceirizado,FGTS,20804.54,Sim,Improcedente,4.9,Sim
+180,96,2023-06-11,PJ,Assédio Sexual,30349.81,Sim,Parcialmente procedente,7.3,Sim
+181,97,2024-09-22,Estágio,Assédio Moral,40094.77,Sim,Arquivada (acordo),1.9,Sim
+182,89,2024-06-27,Estágio,Assédio Moral,33074.17,Sim,Parcialmente procedente,4.0,Não
+183,98,2024-11-03,CLT,Assédio Sexual,12061.47,Sim,Parcialmente procedente,14.7,Não
+184,50,2025-09-30,CLT,Vínculo Empregatício,9523.8,Sim,Arquivada (acordo),5.2,Sim
+185,60,2024-04-20,Terceirizado,Acidente de Trabalho,61511.9,Sim,Parcialmente procedente,7.1,Sim
+186,94,2023-11-11,Terceirizado,Horas Extras,11059.77,Não,Parcialmente procedente,8.8,Não
+187,53,2025-05-06,Terceirizado,FGTS,42629.64,Não,Parcialmente procedente,4.0,Sim
+188,6,2026-02-13,Terceirizado,FGTS,21867.82,Sim,Parcialmente procedente,13.0,Não
+189,57,2023-10-08,CLT,Acidente de Trabalho,76082.74,Sim,Parcialmente procedente,4.7,Sim
+190,66,2023-12-24,CLT,Assédio Moral,25506.47,Sim,Parcialmente procedente,12.2,Sim
+191,10,2025-04-24,Estágio,Horas Extras,70405.82,Sim,Improcedente,6.8,Sim
+192,24,2024-02-24,CLT,Acidente de Trabalho,17444.37,Sim,Parcialmente procedente,3.0,Não
+193,13,2024-08-29,PJ,Assédio Moral,54548.93,Sim,Improcedente,7.8,Não
+194,95,2024-10-25,PJ,Assédio Moral,41996.4,Não,Parcialmente procedente,14.0,Não
+195,1,2024-01-02,Estágio,Assédio Moral,35717.68,Sim,Parcialmente procedente,5.3,Não
+196,53,2025-06-21,Estágio,Acidente de Trabalho,72701.88,Sim,Arquivada (acordo),5.2,Não
+197,86,2023-12-14,CLT,Vínculo Empregatício,38496.37,Não,Parcialmente procedente,14.2,Sim
+198,16,2025-12-02,Terceirizado,Assédio Sexual,16429.56,Sim,Arquivada (acordo),10.4,Sim
+199,11,2024-07-29,Terceirizado,Assédio Moral,77914.15,Não,Arquivada (acordo),11.9,Não
+200,80,2026-02-21,PJ,Horas Extras,19887.44,Não,Parcialmente procedente,5.3,Sim
+201,71,2024-09-21,Estágio,Assédio Sexual,46376.09,Sim,Parcialmente procedente,0.9,Sim
+202,87,2025-11-30,Terceirizado,Acidente de Trabalho,67284.87,Sim,Arquivada (acordo),4.9,Não
+203,62,2025-10-11,Terceirizado,Acidente de Trabalho,38986.9,Sim,Parcialmente procedente,8.8,Sim
+204,20,2026-01-20,CLT,Verbas Rescisórias,22230.33,Sim,Improcedente,3.3,Sim
+205,78,2025-07-18,PJ,Equiparação Salarial,30593.89,Sim,Procedente,14.8,Não
+206,7,2023-09-25,PJ,Assédio Sexual,33273.26,Sim,Arquivada (acordo),0.6,Não
+207,31,2025-06-11,Terceirizado,Acidente de Trabalho,61581.26,Sim,Parcialmente procedente,3.7,Não
+208,68,2025-11-03,Terceirizado,Verbas Rescisórias,71528.41,Sim,Procedente,6.9,Sim
+209,93,2025-10-16,Terceirizado,Equiparação Salarial,6732.26,Não,Improcedente,9.1,Não
+210,62,2025-05-01,PJ,Assédio Sexual,8116.1,Não,Improcedente,3.4,Sim
+211,47,2025-07-04,CLT,Acidente de Trabalho,72508.2,Sim,Arquivada (acordo),2.4,Sim
+212,14,2025-05-21,PJ,Equiparação Salarial,30390.37,Sim,Procedente,12.7,Não
+213,97,2023-10-11,PJ,Vínculo Empregatício,9109.89,Não,Arquivada (acordo),9.0,Não
+214,60,2023-10-18,PJ,Horas Extras,12905.17,Sim,Arquivada (acordo),11.2,Não
+215,47,2024-11-12,CLT,Assédio Moral,26383.09,Sim,Improcedente,11.5,Sim
+216,60,2023-08-06,CLT,Horas Extras,57406.66,Sim,Procedente,0.7,Sim
+217,82,2025-05-23,Estágio,Assédio Sexual,14512.49,Sim,Procedente,11.1,Não
+218,25,2024-05-01,CLT,Horas Extras,35474.91,Sim,Procedente,7.0,Sim
+219,7,2024-05-25,PJ,Acidente de Trabalho,46583.1,Não,Improcedente,1.0,Sim
+220,69,2024-04-06,PJ,Acidente de Trabalho,48622.11,Sim,Improcedente,14.3,Sim
+221,57,2024-05-24,Estágio,Assédio Sexual,39623.43,Sim,Arquivada (acordo),9.5,Sim
+222,82,2024-12-24,PJ,Horas Extras,19133.3,Não,Parcialmente procedente,7.2,Sim
+223,14,2024-07-23,PJ,Horas Extras,53091.42,Não,Procedente,13.3,Não
+224,81,2024-05-14,Estágio,Verbas Rescisórias,24886.51,Sim,Procedente,1.8,Não
+225,31,2025-03-19,CLT,Horas Extras,79876.84,Sim,Procedente,6.9,Não
+226,63,2024-10-12,CLT,Horas Extras,29513.62,Não,Improcedente,2.0,Sim
+227,99,2025-07-18,CLT,Assédio Sexual,79938.81,Sim,Procedente,10.7,Sim
+228,72,2025-12-24,Terceirizado,Verbas Rescisórias,64407.16,Sim,Parcialmente procedente,13.4,Sim
+229,23,2025-06-29,CLT,Assédio Moral,40384.43,Sim,Arquivada (acordo),3.7,Sim
+230,86,2026-01-23,Terceirizado,Equiparação Salarial,44122.42,Sim,Procedente,2.5,Sim
+231,15,2025-11-26,Estágio,FGTS,21922.03,Não,Arquivada (acordo),6.4,Não
+232,87,2025-01-31,CLT,Horas Extras,23208.42,Sim,Improcedente,9.8,Sim
+233,86,2026-04-14,Terceirizado,FGTS,68001.97,Sim,Procedente,10.7,Não
+234,43,2026-03-21,Terceirizado,Horas Extras,74616.51,Sim,Arquivada (acordo),14.9,Não
+235,7,2023-09-29,CLT,Equiparação Salarial,19943.98,Sim,Parcialmente procedente,3.9,Sim
+236,34,2024-02-26,PJ,Horas Extras,72774.46,Sim,Arquivada (acordo),5.7,Sim
+237,83,2024-05-22,Estágio,Horas Extras,47198.39,Sim,Improcedente,5.0,Não
+238,44,2026-01-05,CLT,FGTS,30581.28,Sim,Arquivada (acordo),4.4,Não
+239,20,2024-04-13,CLT,Assédio Sexual,63209.7,Não,Arquivada (acordo),14.0,Sim
+240,67,2023-10-24,CLT,Assédio Moral,29334.66,Sim,Procedente,7.5,Não
+241,67,2023-12-25,Terceirizado,Vínculo Empregatício,70104.61,Não,Improcedente,3.3,Não
+242,90,2024-02-28,PJ,Horas Extras,72870.47,Sim,Arquivada (acordo),14.2,Sim
+243,3,2023-07-01,PJ,Acidente de Trabalho,31261.23,Sim,Improcedente,7.8,Não
+244,18,2024-06-23,PJ,Verbas Rescisórias,12593.59,Não,Procedente,1.2,Não
+245,25,2026-05-24,Estágio,Assédio Moral,78904.18,Sim,Procedente,12.8,Sim
+246,19,2026-02-24,PJ,Assédio Moral,19970.42,Sim,Arquivada (acordo),5.2,Não
+247,75,2025-04-14,CLT,Equiparação Salarial,17974.32,Não,Parcialmente procedente,3.2,Sim
+248,92,2024-08-13,CLT,Assédio Moral,68187.74,Não,Arquivada (acordo),1.5,Não
+249,35,2025-01-28,Terceirizado,FGTS,45364.77,Sim,Procedente,7.2,Não
+250,88,2024-09-03,CLT,Assédio Moral,19820.95,Sim,Arquivada (acordo),14.5,Não
+251,24,2025-11-13,CLT,Horas Extras,12614.34,Não,Procedente,2.2,Não
+252,60,2023-11-19,PJ,Acidente de Trabalho,64732.44,Sim,Parcialmente procedente,9.9,Não
+253,29,2023-10-20,PJ,Horas Extras,57361.83,Não,Arquivada (acordo),8.4,Não
+254,59,2024-07-19,CLT,Vínculo Empregatício,14680.69,Sim,Improcedente,7.8,Sim
+255,15,2025-12-29,CLT,Assédio Sexual,49126.54,Sim,Parcialmente procedente,4.8,Não
+256,22,2023-12-24,PJ,Assédio Moral,47030.43,Não,Improcedente,3.2,Sim
+257,96,2023-08-14,PJ,Assédio Sexual,38907.75,Não,Procedente,2.9,Sim
+258,72,2025-12-22,Terceirizado,Vínculo Empregatício,7507.9,Não,Improcedente,12.8,Não
+259,23,2024-04-10,Terceirizado,Verbas Rescisórias,73361.13,Sim,Parcialmente procedente,2.6,Sim
+260,81,2024-10-07,CLT,Horas Extras,64547.97,Sim,Arquivada (acordo),11.5,Sim
+261,81,2025-01-17,CLT,Assédio Moral,21011.79,Não,Arquivada (acordo),14.5,Não
+262,71,2025-07-12,Terceirizado,Assédio Moral,8905.87,Não,Parcialmente procedente,12.0,Sim
+263,69,2025-07-09,Estágio,Acidente de Trabalho,73875.15,Sim,Improcedente,13.5,Não
+264,20,2025-10-29,CLT,Vínculo Empregatício,54077.67,Não,Improcedente,7.0,Não
+265,47,2024-08-26,Terceirizado,Horas Extras,67600.1,Sim,Procedente,8.3,Não
+266,67,2023-08-07,Estágio,Assédio Moral,35665.49,Sim,Arquivada (acordo),8.5,Sim
+267,58,2023-06-12,Terceirizado,Assédio Moral,15467.51,Sim,Arquivada (acordo),10.0,Sim
+268,97,2023-09-15,PJ,Verbas Rescisórias,71509.0,Sim,Procedente,4.1,Sim
+269,42,2025-09-16,CLT,Assédio Sexual,71988.65,Sim,Parcialmente procedente,6.8,Não
+270,19,2023-07-13,Terceirizado,Assédio Moral,16678.38,Não,Arquivada (acordo),14.6,Sim
+271,71,2024-03-28,Terceirizado,Equiparação Salarial,69408.8,Sim,Procedente,1.0,Não
+272,70,2025-07-09,PJ,FGTS,48430.26,Sim,Arquivada (acordo),3.6,Sim
+273,15,2023-08-11,CLT,Assédio Sexual,20015.68,Sim,Parcialmente procedente,1.2,Não
+274,11,2023-10-31,CLT,Assédio Moral,50392.63,Não,Arquivada (acordo),4.6,Não
+275,82,2026-03-25,Estágio,Assédio Moral,45390.54,Sim,Procedente,14.7,Não
+276,53,2024-03-21,CLT,Assédio Moral,46638.86,Sim,Procedente,4.9,Não
+277,31,2025-04-08,PJ,Verbas Rescisórias,62987.36,Sim,Procedente,9.4,Sim
+278,4,2024-11-11,Terceirizado,Verbas Rescisórias,49200.07,Não,Arquivada (acordo),7.3,Não
+279,58,2024-01-28,Estágio,Assédio Sexual,56583.13,Não,Improcedente,11.6,Não
+280,67,2025-08-06,PJ,Verbas Rescisórias,51626.74,Sim,Improcedente,0.8,Não
+281,90,2024-04-12,Estágio,Acidente de Trabalho,73359.57,Não,Improcedente,3.5,Não
+282,2,2024-10-27,Estágio,FGTS,14909.13,Sim,Improcedente,11.2,Sim
+283,20,2025-12-08,Terceirizado,Assédio Sexual,62186.29,Sim,Improcedente,11.4,Sim
+284,32,2025-07-22,CLT,Assédio Moral,29576.92,Sim,Improcedente,1.3,Sim
+285,1,2025-11-20,PJ,Assédio Sexual,43547.51,Não,Improcedente,9.6,Sim
+286,38,2023-12-02,Estágio,Horas Extras,23045.27,Sim,Procedente,7.9,Não
+287,84,2025-09-20,Terceirizado,Acidente de Trabalho,43930.62,Não,Parcialmente procedente,8.9,Sim
+288,4,2024-03-05,Estágio,Horas Extras,39592.07,Não,Improcedente,12.5,Sim
+289,65,2023-07-08,Estágio,FGTS,41203.46,Sim,Procedente,5.4,Não
+290,57,2025-07-13,Estágio,Assédio Moral,35469.66,Não,Improcedente,1.7,Não
+291,19,2024-09-24,CLT,Assédio Moral,51433.85,Não,Procedente,2.7,Não
+292,84,2026-03-03,Estágio,Horas Extras,61715.48,Não,Improcedente,11.3,Sim
+293,84,2025-11-17,Estágio,Horas Extras,40735.09,Sim,Procedente,14.1,Não
+294,74,2025-02-23,CLT,Assédio Moral,9554.41,Sim,Improcedente,3.6,Não
+295,42,2025-03-31,Terceirizado,FGTS,24867.59,Sim,Improcedente,7.0,Sim
+296,33,2025-03-30,Terceirizado,Acidente de Trabalho,36100.36,Não,Improcedente,14.1,Não
+297,75,2025-03-18,PJ,Vínculo Empregatício,18932.83,Sim,Procedente,9.4,Sim
+298,12,2025-05-30,Terceirizado,Verbas Rescisórias,49294.2,Sim,Arquivada (acordo),3.8,Não
+299,72,2025-01-13,Estágio,Vínculo Empregatício,26466.83,Sim,Arquivada (acordo),13.6,Não
+300,91,2026-01-28,Estágio,Assédio Moral,16676.96,Sim,Arquivada (acordo),2.2,Sim
+301,58,2024-06-28,PJ,Verbas Rescisórias,65530.34,Sim,Arquivada (acordo),7.5,Não
+302,5,2023-10-30,PJ,Acidente de Trabalho,6046.87,Não,Improcedente,7.8,Sim
+303,39,2025-07-09,Estágio,Vínculo Empregatício,40589.47,Sim,Procedente,12.5,Não
+304,97,2026-01-19,Terceirizado,Assédio Sexual,62133.35,Sim,Arquivada (acordo),9.4,Não
+305,73,2025-02-18,CLT,Assédio Moral,14742.24,Sim,Improcedente,4.8,Sim
+306,82,2024-06-01,Terceirizado,Vínculo Empregatício,35776.21,Sim,Parcialmente procedente,8.3,Sim
+307,12,2024-02-07,Estágio,Equiparação Salarial,37693.62,Sim,Parcialmente procedente,1.3,Sim
+308,4,2026-02-01,Terceirizado,Horas Extras,62336.39,Não,Arquivada (acordo),3.7,Não
+309,83,2024-11-12,CLT,Assédio Moral,17836.89,Sim,Procedente,13.1,Não
+310,15,2025-10-03,CLT,Vínculo Empregatício,11682.0,Sim,Parcialmente procedente,4.2,Não
+311,98,2025-02-20,Terceirizado,Assédio Sexual,20344.12,Sim,Arquivada (acordo),7.4,Não
+312,40,2026-04-01,CLT,FGTS,39845.63,Sim,Arquivada (acordo),5.4,Sim
+313,71,2023-08-12,CLT,Assédio Moral,6230.29,Não,Procedente,13.6,Não
+314,37,2025-05-05,CLT,Horas Extras,30386.76,Sim,Parcialmente procedente,7.5,Sim
+315,68,2025-11-28,Estágio,Acidente de Trabalho,57605.43,Não,Arquivada (acordo),12.7,Não
+316,88,2025-11-10,Estágio,Assédio Sexual,12779.61,Sim,Arquivada (acordo),7.2,Não
+317,30,2024-06-25,CLT,Assédio Sexual,42667.11,Sim,Parcialmente procedente,6.3,Não
+318,8,2024-07-14,PJ,Vínculo Empregatício,54655.88,Sim,Procedente,10.0,Não
+319,34,2026-04-22,CLT,FGTS,55491.48,Sim,Arquivada (acordo),13.8,Sim
+320,84,2023-06-25,CLT,Acidente de Trabalho,11088.63,Sim,Procedente,7.8,Não
+321,78,2024-03-12,PJ,Assédio Moral,38498.65,Sim,Arquivada (acordo),3.2,Sim
+322,17,2026-04-30,PJ,Assédio Moral,59989.78,Não,Procedente,10.8,Não
+323,60,2024-06-24,Terceirizado,Assédio Moral,16635.79,Não,Procedente,4.7,Não
+324,69,2025-05-31,Estágio,Assédio Moral,75169.38,Não,Arquivada (acordo),11.8,Sim
+325,74,2024-05-11,Terceirizado,Assédio Moral,68780.01,Sim,Improcedente,3.8,Não
+326,71,2024-12-10,CLT,Assédio Moral,79382.5,Sim,Parcialmente procedente,3.8,Não
+327,24,2024-07-06,Estágio,Acidente de Trabalho,50395.58,Não,Improcedente,13.7,Não
+328,20,2024-04-03,PJ,Acidente de Trabalho,23259.95,Não,Procedente,14.3,Sim
+329,9,2026-01-30,CLT,Vínculo Empregatício,62823.53,Sim,Parcialmente procedente,9.7,Sim
+330,63,2024-06-11,Terceirizado,Vínculo Empregatício,73584.28,Sim,Improcedente,11.1,Sim
+331,69,2024-07-22,PJ,Horas Extras,8459.42,Sim,Arquivada (acordo),11.0,Não
+332,85,2025-01-26,PJ,Verbas Rescisórias,21174.67,Sim,Procedente,10.9,Sim
+333,26,2025-02-27,PJ,FGTS,34196.26,Sim,Procedente,5.7,Não
+334,42,2025-06-11,CLT,Assédio Moral,9493.58,Sim,Improcedente,9.7,Não
+335,79,2023-06-28,Estágio,Equiparação Salarial,65439.0,Sim,Parcialmente procedente,5.4,Não
+336,79,2024-08-29,CLT,Horas Extras,13839.33,Sim,Arquivada (acordo),8.4,Sim
+337,5,2025-09-24,CLT,Assédio Moral,42712.42,Sim,Procedente,11.4,Sim
+338,56,2026-04-23,Estágio,Assédio Moral,26755.34,Não,Procedente,14.0,Não
+339,65,2023-06-12,Terceirizado,Vínculo Empregatício,10246.95,Sim,Improcedente,9.6,Sim
+340,26,2024-03-27,Estágio,Assédio Moral,79362.87,Sim,Procedente,13.8,Não
+341,2,2025-04-15,Estágio,Assédio Moral,35383.39,Sim,Parcialmente procedente,3.9,Sim
+342,32,2024-03-31,Terceirizado,Verbas Rescisórias,12434.38,Sim,Improcedente,2.2,Sim
+343,35,2026-05-28,Estágio,Vínculo Empregatício,62941.87,Sim,Procedente,14.4,Não
+344,38,2023-12-22,PJ,Horas Extras,48187.72,Sim,Improcedente,13.1,Não
+345,30,2025-12-10,Terceirizado,FGTS,29372.3,Não,Improcedente,2.1,Não
+346,69,2026-03-10,Terceirizado,Verbas Rescisórias,79343.24,Sim,Improcedente,14.7,Sim
+347,90,2024-01-05,PJ,Vínculo Empregatício,67827.25,Sim,Procedente,6.1,Sim
+348,7,2025-09-06,PJ,Acidente de Trabalho,45368.32,Não,Improcedente,2.1,Sim
+349,41,2024-06-03,Terceirizado,FGTS,31454.5,Sim,Improcedente,12.6,Não
+350,15,2024-08-28,PJ,FGTS,41637.84,Não,Procedente,10.9,Não
+351,68,2023-11-16,PJ,Equiparação Salarial,64254.73,Sim,Arquivada (acordo),3.9,Não
+352,73,2024-03-14,CLT,Assédio Moral,33652.64,Sim,Procedente,12.4,Sim
+353,78,2024-11-22,Estágio,Assédio Moral,74210.51,Sim,Improcedente,14.1,Não
+354,62,2025-11-26,Estágio,Assédio Moral,8778.56,Sim,Arquivada (acordo),9.7,Não
+355,21,2025-08-19,CLT,Equiparação Salarial,31615.22,Sim,Improcedente,2.7,Não
+356,61,2023-10-23,CLT,Acidente de Trabalho,46888.12,Sim,Procedente,2.5,Não
+357,22,2024-09-25,Estágio,Assédio Moral,48674.85,Sim,Procedente,3.5,Sim
+358,70,2024-06-27,Estágio,FGTS,42021.02,Não,Procedente,4.3,Não
+359,40,2024-07-16,PJ,Horas Extras,6860.0,Sim,Improcedente,9.2,Não
+360,77,2025-04-20,PJ,Assédio Moral,78848.73,Não,Parcialmente procedente,13.3,Sim
+361,83,2024-02-14,PJ,Assédio Moral,51629.22,Sim,Parcialmente procedente,8.0,Sim
+362,40,2025-07-11,CLT,Acidente de Trabalho,12823.7,Sim,Procedente,7.8,Não
+363,81,2025-10-17,CLT,Equiparação Salarial,27393.03,Não,Parcialmente procedente,11.0,Sim
+364,13,2024-08-21,Terceirizado,Equiparação Salarial,74518.69,Não,Procedente,3.2,Não
+365,29,2024-01-13,Estágio,Horas Extras,57949.49,Sim,Improcedente,9.8,Não
+366,8,2023-09-05,PJ,Assédio Moral,45072.51,Sim,Arquivada (acordo),12.6,Sim
+367,99,2024-07-08,CLT,FGTS,13629.19,Não,Improcedente,9.4,Sim
+368,62,2024-07-01,PJ,Acidente de Trabalho,34183.04,Não,Improcedente,2.3,Sim
+369,84,2023-06-18,CLT,Acidente de Trabalho,15620.71,Sim,Improcedente,6.7,Sim
+370,67,2023-08-21,Estágio,Acidente de Trabalho,39800.57,Sim,Improcedente,14.1,Não
+371,78,2026-01-19,Terceirizado,Assédio Sexual,64852.86,Sim,Procedente,14.1,Sim
+372,96,2025-01-17,PJ,Assédio Moral,49256.59,Não,Arquivada (acordo),7.4,Sim
+373,80,2026-02-21,CLT,Assédio Moral,76279.86,Não,Parcialmente procedente,0.5,Sim
+374,37,2024-06-24,CLT,Horas Extras,53493.05,Sim,Arquivada (acordo),3.1,Sim
+375,89,2023-07-19,PJ,Assédio Moral,40793.51,Sim,Arquivada (acordo),10.0,Não
+376,55,2025-06-16,PJ,Assédio Moral,40854.99,Sim,Procedente,2.4,Não
+377,85,2026-02-25,Terceirizado,Assédio Moral,13615.1,Sim,Procedente,11.8,Não
+378,8,2025-02-11,CLT,Vínculo Empregatício,18226.93,Não,Improcedente,6.9,Sim
+379,22,2024-03-09,CLT,Assédio Sexual,60680.73,Sim,Improcedente,2.7,Não
+380,37,2026-04-25,PJ,Equiparação Salarial,74409.56,Não,Improcedente,8.9,Não
+381,38,2024-11-05,CLT,Acidente de Trabalho,66647.77,Sim,Arquivada (acordo),14.8,Sim
+382,38,2024-11-13,Terceirizado,Verbas Rescisórias,76301.87,Sim,Improcedente,13.1,Não
+383,99,2025-07-17,PJ,Assédio Sexual,49304.42,Sim,Arquivada (acordo),6.4,Não
+384,17,2024-06-03,Terceirizado,Horas Extras,45262.28,Não,Improcedente,12.6,Sim
+385,91,2024-04-08,CLT,Verbas Rescisórias,43670.44,Sim,Procedente,11.5,Sim
+386,36,2024-08-13,CLT,Assédio Sexual,54157.09,Sim,Parcialmente procedente,4.2,Sim
+387,84,2026-02-01,Terceirizado,Vínculo Empregatício,30426.91,Sim,Arquivada (acordo),8.4,Sim
+388,48,2024-01-26,PJ,Assédio Moral,11780.98,Não,Procedente,11.6,Não
+389,54,2024-07-20,PJ,Assédio Moral,51084.83,Sim,Procedente,3.7,Sim
+390,15,2024-01-22,CLT,Equiparação Salarial,75131.97,Sim,Parcialmente procedente,2.0,Sim
+391,42,2024-01-23,PJ,Assédio Sexual,24772.48,Sim,Procedente,7.6,Sim
+392,15,2025-04-30,PJ,Equiparação Salarial,40883.8,Sim,Improcedente,11.0,Sim
+393,68,2024-09-20,Terceirizado,Acidente de Trabalho,73064.28,Sim,Arquivada (acordo),8.0,Não
+394,38,2026-03-23,PJ,Acidente de Trabalho,78925.7,Sim,Improcedente,0.8,Sim
+395,2,2024-10-03,Terceirizado,FGTS,28205.56,Sim,Improcedente,6.9,Sim
+396,73,2025-11-27,Terceirizado,Assédio Moral,58911.61,Não,Procedente,12.3,Sim
+397,5,2024-02-12,CLT,Vínculo Empregatício,22335.27,Sim,Parcialmente procedente,10.4,Não
+398,50,2025-04-17,CLT,Assédio Moral,75366.58,Não,Improcedente,11.1,Sim
+399,96,2024-07-31,Estágio,Horas Extras,42751.37,Sim,Parcialmente procedente,10.4,Sim
+400,78,2025-08-26,Terceirizado,Assédio Sexual,51442.48,Sim,Procedente,14.1,Sim
+401,69,2025-09-11,Terceirizado,Acidente de Trabalho,30396.68,Sim,Procedente,14.5,Sim
+402,46,2025-12-31,PJ,Horas Extras,49399.77,Sim,Parcialmente procedente,7.5,Sim
+403,69,2025-02-07,PJ,Assédio Moral,19333.54,Não,Improcedente,11.1,Não
+404,54,2025-09-27,CLT,FGTS,76546.09,Sim,Improcedente,14.8,Sim
+405,24,2023-12-21,Estágio,Horas Extras,53015.37,Sim,Arquivada (acordo),10.5,Sim
+406,33,2025-04-20,Estágio,Assédio Moral,9099.43,Não,Improcedente,7.4,Não
+407,42,2024-04-03,PJ,Assédio Moral,49165.95,Sim,Improcedente,14.0,Sim
+408,65,2023-12-26,Estágio,Vínculo Empregatício,32830.35,Sim,Improcedente,9.7,Não
+409,69,2025-08-05,CLT,Acidente de Trabalho,17363.63,Sim,Arquivada (acordo),5.5,Sim
+410,73,2023-07-21,CLT,Assédio Moral,75361.01,Sim,Improcedente,1.2,Sim
+411,21,2026-05-25,PJ,Assédio Moral,49047.84,Sim,Procedente,2.7,Não
+412,28,2024-07-07,Terceirizado,FGTS,32604.29,Sim,Parcialmente procedente,9.5,Não
+413,3,2026-03-17,PJ,Verbas Rescisórias,37096.87,Não,Procedente,11.6,Sim
+414,68,2026-04-08,Terceirizado,FGTS,65442.58,Não,Arquivada (acordo),0.6,Não
+415,12,2024-11-28,PJ,Horas Extras,63266.31,Não,Parcialmente procedente,10.3,Não
+416,8,2023-07-15,Terceirizado,Verbas Rescisórias,50166.45,Sim,Improcedente,11.3,Sim
+417,5,2026-05-16,PJ,Equiparação Salarial,32445.45,Não,Improcedente,14.7,Sim
+418,6,2023-11-27,PJ,Assédio Moral,29530.77,Não,Improcedente,7.5,Sim
+419,41,2024-12-30,Estágio,Assédio Sexual,53826.35,Sim,Parcialmente procedente,14.1,Não
+420,33,2024-04-11,Estágio,Horas Extras,11714.41,Sim,Improcedente,10.1,Sim
+421,41,2023-11-24,Terceirizado,Assédio Sexual,11727.53,Sim,Procedente,10.9,Não
+422,93,2026-03-11,Terceirizado,Assédio Sexual,44306.33,Sim,Procedente,9.5,Sim
+423,82,2025-10-06,PJ,Verbas Rescisórias,65542.77,Sim,Parcialmente procedente,6.4,Sim
+424,56,2024-03-15,Terceirizado,Equiparação Salarial,66983.39,Não,Parcialmente procedente,3.3,Não
+425,64,2024-05-22,CLT,Assédio Moral,24415.52,Sim,Arquivada (acordo),6.3,Não
+426,67,2025-02-09,CLT,Verbas Rescisórias,31529.95,Não,Procedente,7.4,Sim
+427,1,2025-08-03,PJ,Verbas Rescisórias,57678.14,Sim,Improcedente,2.0,Sim
+428,20,2023-10-09,CLT,Assédio Sexual,28707.26,Sim,Improcedente,13.9,Sim
+429,90,2024-07-13,Terceirizado,Horas Extras,45596.73,Sim,Parcialmente procedente,4.4,Sim
+430,9,2024-06-24,CLT,FGTS,67796.48,Sim,Parcialmente procedente,14.1,Não
+431,31,2023-08-27,CLT,Equiparação Salarial,6027.33,Não,Improcedente,10.1,Sim
+432,46,2025-11-02,Estágio,Assédio Moral,13839.04,Sim,Arquivada (acordo),1.8,Sim
+433,4,2024-01-01,CLT,Assédio Moral,39454.21,Sim,Procedente,9.8,Não
+434,93,2024-05-25,CLT,Verbas Rescisórias,73245.79,Não,Arquivada (acordo),3.9,Não
+435,26,2023-12-11,CLT,Assédio Sexual,15205.91,Não,Procedente,7.8,Sim
+436,59,2025-05-02,Terceirizado,Verbas Rescisórias,39148.5,Sim,Improcedente,14.8,Não
+437,44,2024-12-29,CLT,Assédio Moral,38065.6,Não,Arquivada (acordo),6.7,Sim
+438,4,2025-12-15,CLT,Verbas Rescisórias,20322.49,Não,Arquivada (acordo),8.3,Sim
+439,81,2024-05-05,Terceirizado,Assédio Sexual,59973.07,Não,Parcialmente procedente,14.9,Sim
+440,21,2025-08-22,Terceirizado,Horas Extras,11909.04,Não,Improcedente,12.3,Sim
+441,65,2026-03-09,CLT,Assédio Moral,56813.07,Sim,Procedente,7.2,Não
+442,57,2025-01-29,Terceirizado,Acidente de Trabalho,72004.69,Não,Improcedente,12.0,Sim
+443,11,2023-12-01,CLT,Assédio Moral,49314.64,Sim,Improcedente,9.9,Não
+444,41,2025-05-02,Estágio,Assédio Moral,40874.52,Sim,Improcedente,7.8,Não
+445,37,2023-12-21,Terceirizado,Horas Extras,27040.69,Não,Procedente,6.0,Sim
+446,21,2023-08-16,CLT,Horas Extras,45907.48,Não,Procedente,7.5,Sim
+447,25,2026-05-19,PJ,Assédio Moral,78310.74,Não,Arquivada (acordo),8.5,Não
+448,100,2025-01-13,Estágio,Assédio Moral,11781.2,Sim,Improcedente,7.2,Sim
+449,28,2023-10-31,Estágio,Acidente de Trabalho,9487.87,Sim,Improcedente,10.3,Sim
+450,89,2026-02-15,Estágio,Assédio Sexual,72144.04,Não,Parcialmente procedente,13.5,Sim
+451,36,2026-01-16,Estágio,Assédio Moral,56806.22,Sim,Procedente,8.6,Não
+452,24,2023-08-22,Estágio,Horas Extras,25096.18,Não,Improcedente,0.6,Não
+453,97,2025-05-24,Terceirizado,Verbas Rescisórias,51286.66,Não,Parcialmente procedente,3.6,Não
+454,22,2025-10-01,Terceirizado,Assédio Sexual,5380.95,Não,Parcialmente procedente,2.0,Não
+455,50,2024-09-21,PJ,Assédio Sexual,18045.12,Não,Parcialmente procedente,10.0,Sim
+456,32,2026-01-21,PJ,Vínculo Empregatício,14349.74,Não,Improcedente,1.7,Não
+457,69,2025-08-30,Estágio,Acidente de Trabalho,74737.81,Sim,Procedente,2.6,Sim
+458,86,2024-10-30,Estágio,Horas Extras,66351.92,Não,Arquivada (acordo),4.9,Não
+459,13,2024-08-03,CLT,Acidente de Trabalho,32519.3,Não,Parcialmente procedente,11.6,Não
+460,14,2024-07-19,PJ,FGTS,32340.22,Sim,Improcedente,10.3,Não
+461,63,2025-12-07,PJ,Assédio Moral,20722.63,Não,Improcedente,4.9,Sim
+462,95,2023-10-01,CLT,Assédio Moral,73112.39,Não,Improcedente,10.6,Não
+463,66,2024-05-19,CLT,Horas Extras,13721.71,Não,Procedente,14.0,Não
+464,86,2026-01-03,Terceirizado,Vínculo Empregatício,75760.27,Não,Procedente,0.9,Não
+465,3,2024-10-28,Estágio,Acidente de Trabalho,64780.59,Não,Improcedente,4.5,Sim
+466,11,2024-09-29,PJ,Equiparação Salarial,19263.07,Sim,Arquivada (acordo),4.0,Sim
+467,77,2026-04-25,PJ,Acidente de Trabalho,59474.87,Sim,Procedente,9.0,Sim
+468,36,2024-11-08,Terceirizado,Acidente de Trabalho,24007.55,Não,Parcialmente procedente,6.2,Sim
+469,51,2025-04-12,CLT,Verbas Rescisórias,30050.38,Sim,Parcialmente procedente,13.4,Não
+470,49,2023-09-30,Estágio,FGTS,41421.45,Sim,Arquivada (acordo),14.5,Não
+471,38,2024-02-24,PJ,Vínculo Empregatício,44199.9,Sim,Improcedente,11.0,Não
+472,92,2023-12-21,PJ,Assédio Moral,40261.82,Sim,Parcialmente procedente,11.2,Sim
+473,29,2023-08-14,Estágio,Horas Extras,27656.35,Sim,Procedente,0.5,Sim
+474,63,2023-08-22,PJ,Equiparação Salarial,47097.52,Sim,Improcedente,13.3,Não
+475,22,2026-05-27,PJ,Assédio Moral,55448.92,Não,Parcialmente procedente,12.2,Não
+476,56,2025-07-05,CLT,Horas Extras,9360.54,Não,Arquivada (acordo),0.6,Sim
+477,41,2023-07-31,Terceirizado,Assédio Moral,15481.11,Sim,Parcialmente procedente,13.4,Não
+478,87,2026-01-19,Terceirizado,Verbas Rescisórias,25691.77,Não,Improcedente,11.1,Sim
+479,88,2023-07-14,PJ,FGTS,31918.99,Sim,Improcedente,9.8,Sim
+480,1,2024-05-03,Terceirizado,Assédio Sexual,74990.63,Sim,Parcialmente procedente,7.5,Sim
+481,72,2023-08-17,Terceirizado,Assédio Moral,8451.9,Sim,Procedente,1.3,Sim
+482,62,2023-10-17,Terceirizado,Assédio Moral,39203.03,Sim,Parcialmente procedente,3.6,Sim
+483,68,2023-09-29,Terceirizado,Verbas Rescisórias,24208.75,Sim,Arquivada (acordo),2.5,Não
+484,18,2023-11-03,Terceirizado,Horas Extras,68088.34,Não,Parcialmente procedente,6.2,Sim
+485,48,2023-12-27,PJ,Horas Extras,62733.85,Não,Procedente,13.1,Sim
+486,86,2025-12-26,Terceirizado,Assédio Sexual,22292.91,Sim,Procedente,4.8,Sim
+487,22,2025-03-26,PJ,Assédio Moral,64339.75,Sim,Procedente,10.7,Não
+488,20,2025-08-16,CLT,Assédio Moral,51695.55,Sim,Procedente,12.0,Não
+489,43,2025-12-01,CLT,Acidente de Trabalho,21031.22,Sim,Parcialmente procedente,4.4,Sim
+490,57,2025-05-13,Terceirizado,Horas Extras,25010.02,Sim,Arquivada (acordo),13.5,Sim
+491,63,2025-01-20,Terceirizado,Assédio Sexual,78708.7,Sim,Procedente,14.0,Não
+492,87,2023-08-12,Terceirizado,Equiparação Salarial,57919.74,Sim,Arquivada (acordo),4.8,Sim
+493,13,2026-04-16,Estágio,FGTS,10100.93,Não,Improcedente,4.1,Não
+494,28,2026-02-08,Terceirizado,Assédio Moral,74345.49,Sim,Improcedente,14.7,Não
+495,38,2023-09-01,Terceirizado,Acidente de Trabalho,18300.75,Não,Improcedente,8.7,Não
+496,46,2025-04-22,CLT,Equiparação Salarial,51269.77,Sim,Improcedente,12.2,Sim
+497,70,2025-02-14,CLT,Assédio Sexual,33182.21,Sim,Arquivada (acordo),14.2,Sim
+498,94,2023-07-28,CLT,FGTS,58141.46,Não,Procedente,6.9,Não
+499,10,2026-03-11,Terceirizado,Verbas Rescisórias,63780.32,Não,Arquivada (acordo),14.9,Sim
+500,82,2025-12-21,PJ,FGTS,37352.04,Sim,Arquivada (acordo),2.1,Não
+501,26,2024-10-04,Estágio,FGTS,10804.43,Sim,Procedente,9.9,Não
+502,96,2023-11-05,PJ,Assédio Moral,70020.2,Sim,Procedente,4.7,Sim
+503,13,2023-09-20,Estágio,Assédio Moral,33524.34,Sim,Parcialmente procedente,2.9,Sim
+504,83,2025-01-06,CLT,Assédio Sexual,55971.28,Não,Procedente,14.0,Não
+505,56,2023-09-17,Terceirizado,Horas Extras,19786.15,Sim,Parcialmente procedente,10.8,Sim
+506,52,2026-04-20,PJ,Acidente de Trabalho,42587.09,Sim,Parcialmente procedente,12.2,Não
+507,2,2025-08-29,CLT,Horas Extras,43532.15,Sim,Procedente,5.1,Não
+508,41,2023-06-04,Terceirizado,Assédio Moral,44707.11,Não,Procedente,1.0,Não
+509,85,2024-06-07,Terceirizado,Assédio Moral,68728.13,Sim,Parcialmente procedente,9.7,Sim
+510,62,2025-01-04,PJ,Assédio Sexual,22868.15,Sim,Improcedente,14.9,Não
+511,34,2023-10-16,Estágio,Assédio Sexual,19971.24,Não,Parcialmente procedente,11.2,Sim
+512,3,2026-01-21,PJ,Acidente de Trabalho,11677.92,Sim,Procedente,5.8,Sim
+513,90,2023-07-15,CLT,Assédio Moral,45805.33,Sim,Arquivada (acordo),5.1,Não
+514,46,2024-04-12,Estágio,FGTS,13051.65,Sim,Arquivada (acordo),3.0,Sim
+515,49,2023-09-15,Estágio,Horas Extras,52308.92,Sim,Procedente,7.9,Sim
+516,44,2025-03-19,Terceirizado,Assédio Sexual,5433.13,Não,Improcedente,8.5,Não
+517,55,2023-08-14,CLT,Assédio Moral,16565.92,Sim,Improcedente,3.5,Sim
+518,99,2025-11-14,CLT,Verbas Rescisórias,43973.58,Sim,Arquivada (acordo),2.9,Não
+519,88,2023-10-19,CLT,FGTS,55792.86,Sim,Improcedente,14.9,Não
+520,72,2024-11-22,Terceirizado,Assédio Sexual,6195.0,Sim,Parcialmente procedente,13.2,Sim
+521,78,2025-03-26,Terceirizado,Horas Extras,21320.57,Não,Procedente,7.9,Não
+522,24,2025-10-16,CLT,Vínculo Empregatício,29997.72,Sim,Parcialmente procedente,5.7,Não
+523,90,2023-08-09,CLT,Equiparação Salarial,51494.65,Sim,Arquivada (acordo),8.5,Sim
+524,28,2025-04-05,CLT,Equiparação Salarial,57010.81,Sim,Improcedente,14.7,Não
+525,4,2024-01-09,Terceirizado,Acidente de Trabalho,40564.9,Sim,Parcialmente procedente,7.6,Sim
+526,64,2023-07-30,CLT,Assédio Moral,18920.64,Não,Parcialmente procedente,6.2,Sim
+527,27,2023-09-30,PJ,Assédio Sexual,73090.76,Sim,Procedente,14.9,Não
+528,26,2025-05-29,PJ,Equiparação Salarial,5233.06,Sim,Parcialmente procedente,6.5,Não
+529,52,2023-10-27,PJ,Verbas Rescisórias,59947.1,Não,Improcedente,6.2,Sim
+530,94,2025-12-27,Estágio,Verbas Rescisórias,18284.9,Sim,Arquivada (acordo),3.4,Sim
+531,32,2024-09-07,Terceirizado,Horas Extras,58582.66,Não,Arquivada (acordo),3.5,Sim
+532,77,2024-04-05,PJ,Verbas Rescisórias,36705.66,Sim,Procedente,9.2,Não
+533,57,2025-10-21,CLT,Assédio Moral,58270.57,Sim,Procedente,12.7,Sim
+534,72,2023-11-02,CLT,Vínculo Empregatício,6607.15,Não,Improcedente,10.7,Não
+535,31,2025-08-23,CLT,Assédio Moral,71255.52,Não,Arquivada (acordo),7.2,Sim
+536,94,2025-04-22,PJ,Assédio Moral,33660.92,Sim,Parcialmente procedente,9.6,Não
+537,19,2025-10-03,CLT,Assédio Moral,61502.22,Sim,Procedente,10.8,Sim
+538,8,2025-04-28,Terceirizado,Assédio Sexual,20965.44,Não,Improcedente,4.7,Não
+539,3,2025-01-20,CLT,Acidente de Trabalho,18344.26,Não,Arquivada (acordo),8.2,Sim
+540,69,2025-04-14,PJ,Assédio Moral,10596.04,Não,Arquivada (acordo),4.7,Não
+541,40,2025-07-20,CLT,Assédio Sexual,6401.98,Não,Procedente,10.4,Sim
+542,1,2025-08-23,PJ,Vínculo Empregatício,10817.5,Sim,Arquivada (acordo),13.4,Sim
+543,40,2025-03-28,Terceirizado,Equiparação Salarial,52256.84,Sim,Parcialmente procedente,6.8,Não
+544,59,2023-10-25,Terceirizado,Acidente de Trabalho,49755.65,Sim,Improcedente,2.5,Sim
+545,73,2024-12-27,CLT,Acidente de Trabalho,70433.4,Não,Parcialmente procedente,5.4,Sim
+546,84,2023-06-26,PJ,Equiparação Salarial,60301.39,Não,Parcialmente procedente,10.7,Sim
+547,84,2025-03-10,CLT,Assédio Sexual,78693.35,Não,Arquivada (acordo),1.5,Sim
+548,9,2025-12-15,Estágio,Horas Extras,72498.83,Não,Procedente,12.5,Não
+549,56,2024-02-04,Estágio,Horas Extras,9870.21,Não,Improcedente,1.2,Não
+550,38,2023-09-22,Estágio,Acidente de Trabalho,72767.76,Sim,Parcialmente procedente,1.0,Não
+551,92,2023-08-08,CLT,Assédio Moral,57409.6,Sim,Arquivada (acordo),6.6,Não
+552,47,2025-05-06,PJ,Verbas Rescisórias,79367.01,Sim,Parcialmente procedente,9.8,Não
+553,43,2026-01-26,Terceirizado,Verbas Rescisórias,18242.69,Sim,Parcialmente procedente,7.4,Não
+554,31,2025-06-19,Estágio,Equiparação Salarial,74817.65,Sim,Procedente,7.8,Não
+555,23,2024-01-28,PJ,Horas Extras,15005.1,Sim,Arquivada (acordo),2.2,Sim
+556,64,2023-08-26,CLT,Assédio Moral,60553.43,Sim,Parcialmente procedente,12.9,Não
+557,98,2024-08-25,PJ,Verbas Rescisórias,19049.38,Sim,Parcialmente procedente,12.8,Sim
+558,67,2023-12-26,Terceirizado,Vínculo Empregatício,17501.99,Não,Procedente,12.1,Sim
+559,74,2025-03-30,PJ,Assédio Moral,28554.3,Sim,Arquivada (acordo),9.2,Sim
+560,33,2024-08-12,PJ,Assédio Sexual,47294.34,Sim,Arquivada (acordo),1.1,Sim
+561,59,2026-02-19,CLT,Equiparação Salarial,34600.5,Não,Improcedente,12.7,Sim
+562,70,2025-06-04,Terceirizado,Assédio Moral,44663.4,Sim,Arquivada (acordo),6.8,Não
+563,28,2024-07-22,CLT,Horas Extras,22101.1,Sim,Parcialmente procedente,5.5,Não
+564,43,2024-02-04,Terceirizado,Vínculo Empregatício,47273.06,Sim,Parcialmente procedente,3.0,Não
+565,96,2026-04-18,PJ,Assédio Sexual,33998.02,Não,Improcedente,2.0,Não
+566,26,2025-06-20,CLT,Vínculo Empregatício,60015.16,Sim,Procedente,3.2,Sim
+567,41,2024-10-09,CLT,Assédio Moral,39769.05,Não,Procedente,11.1,Não
+568,7,2025-12-15,Terceirizado,Verbas Rescisórias,75856.02,Sim,Parcialmente procedente,13.8,Não
+569,63,2025-10-24,Estágio,Verbas Rescisórias,42909.23,Não,Procedente,10.6,Não
+570,75,2023-09-13,Terceirizado,Acidente de Trabalho,74993.6,Não,Improcedente,8.5,Sim
+571,14,2023-10-19,CLT,Assédio Moral,67215.86,Sim,Parcialmente procedente,6.3,Sim
+572,59,2024-03-21,Estágio,Acidente de Trabalho,25002.89,Sim,Arquivada (acordo),6.6,Não
+573,31,2024-02-13,Terceirizado,FGTS,67630.11,Sim,Procedente,3.4,Sim
+574,44,2025-02-14,Terceirizado,Acidente de Trabalho,22129.84,Não,Improcedente,6.3,Sim
+575,35,2023-06-28,Terceirizado,Assédio Moral,27120.6,Sim,Arquivada (acordo),8.0,Não
+576,32,2023-07-31,CLT,Vínculo Empregatício,34881.24,Sim,Improcedente,2.5,Não
+577,19,2023-08-07,Estágio,Assédio Sexual,70758.37,Não,Procedente,12.6,Não
+578,39,2023-09-19,PJ,Horas Extras,18938.83,Sim,Parcialmente procedente,4.8,Não
+579,69,2026-05-24,PJ,Verbas Rescisórias,60869.53,Sim,Arquivada (acordo),14.1,Sim
+580,65,2025-04-23,Terceirizado,Assédio Moral,46791.37,Sim,Procedente,10.4,Sim
+581,26,2026-05-27,CLT,Assédio Sexual,43715.16,Sim,Arquivada (acordo),0.7,Não
+582,54,2025-05-26,CLT,Assédio Moral,8488.79,Sim,Arquivada (acordo),0.9,Sim
+583,60,2025-04-10,Estágio,Equiparação Salarial,5253.69,Sim,Improcedente,9.3,Sim
+584,92,2025-07-29,CLT,Horas Extras,62200.78,Sim,Arquivada (acordo),10.2,Não
+585,47,2026-04-28,Terceirizado,Assédio Moral,55235.31,Sim,Arquivada (acordo),2.9,Sim
+586,99,2025-10-03,CLT,Assédio Moral,21527.78,Não,Procedente,14.3,Sim
+587,93,2025-06-07,Terceirizado,Equiparação Salarial,8858.06,Sim,Improcedente,6.8,Sim
+588,54,2025-07-17,Estágio,Assédio Sexual,63759.51,Sim,Procedente,10.8,Sim
+589,26,2024-08-18,Terceirizado,Assédio Moral,36747.72,Sim,Parcialmente procedente,13.0,Não
+590,53,2024-05-21,PJ,Assédio Sexual,41750.85,Sim,Arquivada (acordo),14.4,Sim
+591,74,2025-03-11,PJ,Vínculo Empregatício,67442.64,Não,Parcialmente procedente,14.0,Não
+592,61,2026-02-09,PJ,FGTS,40408.49,Não,Procedente,7.5,Não
+593,58,2026-02-11,CLT,Horas Extras,39121.56,Sim,Improcedente,8.1,Não
+594,72,2024-02-02,PJ,Acidente de Trabalho,9505.34,Sim,Parcialmente procedente,5.4,Sim
+595,100,2026-03-03,Terceirizado,Vínculo Empregatício,77664.49,Sim,Parcialmente procedente,12.0,Não
+596,20,2024-12-30,Estágio,Vínculo Empregatício,46242.86,Sim,Arquivada (acordo),13.9,Sim
+597,25,2025-12-23,PJ,Acidente de Trabalho,76303.74,Sim,Procedente,8.7,Sim
+598,1,2024-06-29,Estágio,Acidente de Trabalho,5203.36,Sim,Arquivada (acordo),4.4,Sim
+599,11,2024-12-06,Terceirizado,Horas Extras,29230.44,Não,Arquivada (acordo),7.9,Não
+600,29,2025-06-06,PJ,Horas Extras,25820.48,Sim,Improcedente,2.3,Sim
+601,59,2024-09-10,Terceirizado,Equiparação Salarial,11378.81,Não,Improcedente,9.0,Não
+602,84,2024-10-23,CLT,Verbas Rescisórias,57104.81,Não,Improcedente,11.9,Não
+603,69,2024-10-08,CLT,Assédio Moral,39344.54,Sim,Improcedente,12.7,Sim
+604,89,2026-05-10,Terceirizado,Assédio Sexual,61608.69,Não,Arquivada (acordo),7.3,Não
+605,44,2024-12-14,Terceirizado,FGTS,78763.32,Sim,Arquivada (acordo),0.8,Não
+606,17,2025-02-01,PJ,Assédio Moral,6225.84,Não,Improcedente,2.8,Sim
+607,81,2024-04-07,Estágio,Assédio Sexual,52921.76,Sim,Improcedente,10.8,Sim
+608,51,2024-08-14,Terceirizado,Equiparação Salarial,41826.93,Não,Arquivada (acordo),14.9,Sim
+609,20,2025-10-30,CLT,Verbas Rescisórias,33834.75,Não,Parcialmente procedente,5.9,Sim
+610,30,2024-01-10,CLT,Acidente de Trabalho,45694.15,Sim,Parcialmente procedente,13.1,Sim
+611,11,2023-09-30,PJ,Horas Extras,21183.64,Não,Arquivada (acordo),7.9,Não
+612,89,2025-11-28,CLT,Equiparação Salarial,52537.6,Sim,Procedente,12.3,Sim
+613,62,2025-11-03,Terceirizado,Horas Extras,38933.28,Sim,Arquivada (acordo),1.3,Não
+614,19,2025-08-11,CLT,Assédio Moral,13437.04,Sim,Procedente,8.3,Sim
+615,92,2025-10-25,Estágio,Assédio Moral,13308.04,Sim,Improcedente,7.6,Não
+616,92,2023-10-24,CLT,Assédio Sexual,75321.19,Sim,Procedente,4.7,Sim
+617,22,2023-11-19,Terceirizado,Assédio Sexual,68691.16,Não,Parcialmente procedente,6.4,Não
+618,57,2025-01-09,CLT,FGTS,21518.5,Não,Parcialmente procedente,5.5,Não
+619,95,2023-12-14,PJ,Assédio Sexual,77875.57,Não,Procedente,14.3,Sim
+620,88,2025-09-27,Estágio,Horas Extras,19605.54,Sim,Procedente,11.6,Não
+621,52,2024-02-13,Estágio,Acidente de Trabalho,56501.89,Sim,Procedente,6.5,Não
+622,29,2025-03-23,CLT,Horas Extras,21882.79,Sim,Improcedente,11.0,Sim
+623,15,2025-02-09,Terceirizado,Vínculo Empregatício,13327.27,Sim,Procedente,12.1,Sim
+624,55,2025-02-18,Estágio,FGTS,73357.86,Sim,Procedente,9.5,Sim
+625,96,2025-07-12,CLT,FGTS,33839.59,Sim,Arquivada (acordo),9.9,Não
+626,63,2024-05-28,CLT,FGTS,40283.85,Sim,Parcialmente procedente,6.9,Não
+627,31,2025-04-02,Estágio,Assédio Moral,60860.4,Sim,Parcialmente procedente,14.8,Não
+628,68,2023-09-15,CLT,Assédio Moral,74737.24,Não,Procedente,8.9,Sim
+629,32,2025-10-24,PJ,FGTS,16486.19,Sim,Arquivada (acordo),9.7,Sim
+630,78,2023-09-16,Estágio,FGTS,36959.78,Sim,Procedente,4.8,Não
+631,42,2025-06-19,PJ,Assédio Sexual,67873.08,Não,Parcialmente procedente,11.1,Sim
+632,87,2025-09-12,Terceirizado,Verbas Rescisórias,47038.24,Não,Procedente,5.3,Não
+633,40,2025-02-12,Terceirizado,Acidente de Trabalho,74430.11,Sim,Procedente,4.0,Sim
+634,17,2025-03-09,Terceirizado,Horas Extras,61772.93,Sim,Procedente,6.0,Não
+635,35,2025-11-14,Terceirizado,Equiparação Salarial,51110.74,Sim,Procedente,9.8,Não
+636,97,2025-07-23,Estágio,FGTS,57371.3,Não,Arquivada (acordo),6.5,Sim
+637,39,2024-11-08,CLT,Equiparação Salarial,72814.41,Sim,Arquivada (acordo),1.5,Sim
+638,9,2023-08-24,Terceirizado,Assédio Moral,57553.5,Não,Procedente,8.7,Não
+639,55,2023-06-04,PJ,Vínculo Empregatício,30700.63,Sim,Parcialmente procedente,11.1,Não
+640,66,2024-06-21,PJ,Verbas Rescisórias,72607.65,Não,Arquivada (acordo),13.5,Sim
+641,5,2026-04-20,Estágio,Verbas Rescisórias,32286.87,Não,Improcedente,2.9,Sim
+642,76,2025-04-01,Terceirizado,Horas Extras,47533.63,Sim,Procedente,5.4,Sim
+643,24,2024-02-06,Estágio,Assédio Sexual,35195.15,Sim,Improcedente,4.7,Não
+644,20,2024-02-06,Estágio,Equiparação Salarial,34868.47,Não,Parcialmente procedente,1.7,Sim
+645,86,2025-11-17,Terceirizado,Horas Extras,70933.37,Sim,Procedente,14.4,Não
+646,35,2024-02-18,Terceirizado,Assédio Moral,73015.57,Sim,Procedente,10.5,Sim
+647,48,2024-11-07,CLT,Assédio Sexual,18457.28,Sim,Arquivada (acordo),5.8,Não
+648,91,2024-09-20,PJ,Acidente de Trabalho,72129.31,Sim,Parcialmente procedente,14.0,Sim
+649,53,2024-04-19,PJ,Assédio Moral,31055.57,Não,Arquivada (acordo),9.2,Sim
+650,5,2024-11-24,Terceirizado,Verbas Rescisórias,28119.55,Sim,Parcialmente procedente,5.9,Não
+651,64,2024-06-20,PJ,Assédio Sexual,47291.14,Sim,Improcedente,12.1,Não
+652,87,2024-08-04,Estágio,FGTS,18892.71,Sim,Arquivada (acordo),3.0,Sim
+653,51,2024-03-06,CLT,Horas Extras,17240.9,Não,Arquivada (acordo),1.3,Sim
+654,6,2026-03-02,Estágio,Assédio Moral,54023.53,Sim,Procedente,11.5,Não
+655,75,2023-08-03,PJ,Verbas Rescisórias,74762.95,Sim,Parcialmente procedente,2.4,Não
+656,47,2025-03-23,CLT,Assédio Sexual,63272.08,Não,Parcialmente procedente,8.4,Não
+657,81,2024-09-25,Terceirizado,Vínculo Empregatício,49187.45,Não,Procedente,3.7,Não
+658,31,2023-11-19,Estágio,Assédio Moral,18463.81,Sim,Procedente,5.3,Não
+659,88,2025-01-04,Estágio,Horas Extras,27203.12,Sim,Parcialmente procedente,0.6,Sim
+660,27,2025-05-22,CLT,Assédio Moral,36144.7,Sim,Procedente,4.0,Sim
+661,72,2024-07-19,Terceirizado,Verbas Rescisórias,66365.06,Sim,Parcialmente procedente,13.3,Não
+662,49,2026-01-26,Terceirizado,Vínculo Empregatício,21242.02,Sim,Arquivada (acordo),4.2,Sim
+663,27,2024-06-17,PJ,Vínculo Empregatício,68620.99,Sim,Procedente,9.6,Sim
+664,15,2024-01-05,CLT,Vínculo Empregatício,68768.1,Sim,Parcialmente procedente,6.8,Não
+665,70,2024-07-12,CLT,FGTS,63640.26,Não,Arquivada (acordo),13.9,Sim
+666,18,2023-09-19,Terceirizado,Acidente de Trabalho,78267.93,Não,Procedente,13.4,Não
+667,19,2025-09-19,PJ,Assédio Moral,20952.66,Sim,Improcedente,10.4,Sim
+668,39,2023-06-06,Estágio,Assédio Moral,52817.89,Sim,Arquivada (acordo),12.4,Sim
+669,65,2024-06-19,CLT,Vínculo Empregatício,35444.8,Sim,Procedente,8.0,Não
+670,77,2024-10-16,Terceirizado,FGTS,27062.25,Sim,Parcialmente procedente,9.7,Sim
+671,56,2024-12-18,Terceirizado,Horas Extras,19432.96,Não,Parcialmente procedente,5.6,Não
+672,43,2025-09-07,PJ,Horas Extras,14764.05,Sim,Arquivada (acordo),10.3,Sim
+673,85,2023-06-12,Estágio,Assédio Moral,61335.7,Não,Improcedente,6.0,Não
+674,11,2023-06-27,CLT,Horas Extras,71234.66,Não,Procedente,7.7,Sim
+675,61,2024-06-18,CLT,Acidente de Trabalho,10798.17,Não,Improcedente,3.5,Sim
+676,81,2025-11-16,Estágio,Vínculo Empregatício,11600.82,Não,Procedente,3.1,Não
+677,38,2023-08-31,PJ,Verbas Rescisórias,17823.85,Sim,Arquivada (acordo),3.2,Sim
+678,85,2024-05-18,Estágio,FGTS,6380.16,Não,Procedente,4.4,Sim
+679,98,2024-06-19,PJ,Verbas Rescisórias,57175.84,Não,Improcedente,4.9,Sim
+680,67,2024-07-23,CLT,Equiparação Salarial,54094.13,Sim,Procedente,13.3,Não
+681,44,2025-01-19,PJ,Acidente de Trabalho,26345.39,Não,Arquivada (acordo),0.9,Sim
+682,68,2024-03-07,Estágio,Assédio Moral,66900.56,Sim,Arquivada (acordo),1.9,Não
+683,22,2024-02-12,Terceirizado,Assédio Moral,46638.55,Sim,Improcedente,9.8,Sim
+684,53,2023-09-28,Estágio,Assédio Moral,62445.38,Sim,Arquivada (acordo),10.4,Não
+685,47,2025-09-02,Terceirizado,Assédio Moral,70446.64,Sim,Parcialmente procedente,8.9,Sim
+686,48,2024-11-16,PJ,Verbas Rescisórias,79896.64,Não,Procedente,8.3,Sim
+687,76,2026-03-05,PJ,Assédio Sexual,75276.81,Sim,Arquivada (acordo),2.8,Sim
+688,14,2025-11-24,Estágio,Horas Extras,6341.61,Não,Arquivada (acordo),4.1,Sim
+689,73,2024-10-27,CLT,Acidente de Trabalho,9131.06,Não,Arquivada (acordo),1.0,Sim
+690,63,2024-02-28,Estágio,Equiparação Salarial,45720.89,Sim,Parcialmente procedente,0.6,Sim
+691,75,2025-05-12,CLT,Horas Extras,17983.93,Sim,Improcedente,14.1,Não
+692,80,2025-09-10,CLT,Horas Extras,66315.35,Sim,Procedente,3.4,Sim
+693,73,2024-08-15,Estágio,Verbas Rescisórias,17968.99,Sim,Improcedente,13.9,Não
+694,75,2025-03-30,CLT,Horas Extras,78517.08,Sim,Parcialmente procedente,3.2,Não
+695,9,2025-09-16,Terceirizado,Equiparação Salarial,46537.39,Sim,Improcedente,10.3,Sim
+696,96,2024-03-12,Estágio,Verbas Rescisórias,71380.45,Não,Improcedente,8.8,Não
+697,93,2024-12-31,PJ,Verbas Rescisórias,33560.83,Sim,Improcedente,11.2,Sim
+698,80,2024-05-24,CLT,Equiparação Salarial,7884.12,Não,Procedente,5.5,Sim
+699,42,2023-09-14,CLT,Assédio Moral,51142.71,Sim,Arquivada (acordo),1.6,Não
+700,38,2024-06-10,CLT,Horas Extras,56095.87,Sim,Parcialmente procedente,11.5,Sim
+701,82,2024-06-26,Terceirizado,Verbas Rescisórias,50982.41,Sim,Parcialmente procedente,12.3,Não
+702,62,2026-05-24,Terceirizado,Acidente de Trabalho,33684.9,Não,Improcedente,12.5,Sim
+703,46,2023-07-26,CLT,Horas Extras,54510.59,Não,Procedente,14.9,Sim
+704,71,2024-02-14,PJ,FGTS,47998.22,Sim,Arquivada (acordo),3.9,Não
+705,19,2024-11-02,PJ,Assédio Moral,13278.76,Não,Arquivada (acordo),1.5,Não
+706,95,2026-01-02,Estágio,Horas Extras,61533.89,Sim,Parcialmente procedente,5.6,Sim
+707,72,2024-07-15,Terceirizado,Equiparação Salarial,48637.48,Sim,Parcialmente procedente,6.0,Não
+708,70,2023-07-13,CLT,Acidente de Trabalho,29126.73,Sim,Parcialmente procedente,7.3,Sim
+709,14,2025-09-11,PJ,Horas Extras,49965.04,Não,Arquivada (acordo),6.2,Não
+710,44,2023-12-10,Estágio,Assédio Sexual,16910.8,Sim,Procedente,10.3,Não
+711,76,2025-12-22,Terceirizado,Assédio Moral,35484.07,Sim,Procedente,3.9,Sim
+712,100,2024-06-30,Terceirizado,Acidente de Trabalho,11299.75,Sim,Procedente,7.3,Não
+713,81,2023-07-07,Terceirizado,Verbas Rescisórias,34168.58,Não,Arquivada (acordo),6.1,Sim
+714,17,2025-02-15,CLT,Assédio Moral,39181.17,Sim,Improcedente,4.4,Não
+715,36,2025-02-22,PJ,Verbas Rescisórias,28599.41,Sim,Parcialmente procedente,3.1,Não
+716,80,2025-03-02,PJ,Horas Extras,26198.29,Sim,Improcedente,9.5,Não
+717,24,2025-09-28,PJ,Horas Extras,24347.5,Sim,Parcialmente procedente,2.8,Não
+718,75,2026-03-26,PJ,Horas Extras,22469.67,Sim,Procedente,13.9,Sim
+719,91,2024-05-27,CLT,Acidente de Trabalho,22471.22,Não,Procedente,9.8,Não
+720,20,2025-05-26,PJ,Verbas Rescisórias,10900.27,Sim,Procedente,6.9,Não
+721,62,2024-01-25,Terceirizado,Acidente de Trabalho,18062.17,Sim,Procedente,6.0,Não
+722,91,2024-04-13,Terceirizado,Horas Extras,60501.51,Sim,Parcialmente procedente,1.1,Sim
+723,57,2025-08-13,PJ,Assédio Moral,79296.38,Sim,Procedente,5.1,Sim
+724,57,2025-06-24,Terceirizado,Assédio Moral,41026.64,Sim,Arquivada (acordo),1.0,Não
+725,40,2024-09-09,CLT,Vínculo Empregatício,47592.68,Sim,Arquivada (acordo),12.7,Não
+726,53,2023-07-25,CLT,Verbas Rescisórias,33208.68,Sim,Parcialmente procedente,4.4,Não
+727,92,2024-08-18,PJ,Equiparação Salarial,49628.04,Sim,Improcedente,7.3,Não
+728,48,2024-10-04,CLT,Assédio Moral,37258.45,Não,Improcedente,4.6,Não
+729,30,2025-03-12,Estágio,Assédio Moral,13660.55,Sim,Arquivada (acordo),13.4,Não
+730,78,2024-06-13,Estágio,Verbas Rescisórias,37042.13,Sim,Improcedente,12.3,Não
+731,55,2024-12-19,CLT,Acidente de Trabalho,45390.54,Sim,Procedente,1.7,Não
+732,62,2024-06-03,CLT,Assédio Moral,76614.47,Sim,Arquivada (acordo),5.7,Não
+733,7,2025-10-27,Terceirizado,Vínculo Empregatício,29175.11,Sim,Arquivada (acordo),4.1,Não
+734,65,2025-05-04,CLT,FGTS,6170.71,Não,Parcialmente procedente,8.1,Não
+735,93,2024-11-13,CLT,FGTS,11038.26,Não,Parcialmente procedente,1.3,Não
+736,87,2025-04-18,Estágio,Equiparação Salarial,77780.64,Sim,Parcialmente procedente,12.3,Sim
+737,24,2023-06-22,Terceirizado,Horas Extras,73788.25,Não,Procedente,8.0,Sim
+738,58,2023-07-31,CLT,Assédio Moral,60540.23,Sim,Improcedente,2.8,Não
+739,74,2025-03-04,PJ,Assédio Moral,29516.93,Não,Arquivada (acordo),11.9,Sim
+740,82,2026-03-14,PJ,Assédio Sexual,6814.49,Sim,Improcedente,9.0,Não
+741,5,2026-04-11,CLT,Assédio Moral,43384.94,Sim,Arquivada (acordo),8.8,Sim
+742,59,2023-07-17,PJ,Assédio Sexual,57645.43,Sim,Improcedente,6.9,Não
+743,76,2024-08-23,Terceirizado,Assédio Moral,59421.67,Não,Parcialmente procedente,8.0,Sim
+744,10,2025-09-24,Terceirizado,Vínculo Empregatício,76387.98,Sim,Arquivada (acordo),13.8,Sim
+745,59,2026-02-03,Terceirizado,Equiparação Salarial,58942.14,Sim,Arquivada (acordo),4.8,Não
+746,98,2024-12-19,CLT,Assédio Moral,48999.19,Sim,Improcedente,9.2,Sim
+747,66,2026-03-20,PJ,Horas Extras,58746.29,Sim,Arquivada (acordo),9.2,Sim
+748,87,2024-11-22,CLT,Assédio Moral,73494.31,Não,Improcedente,13.9,Não
+749,9,2023-06-19,PJ,Horas Extras,29180.11,Não,Improcedente,10.1,Não
+750,16,2025-09-05,Estágio,Assédio Moral,31015.73,Sim,Improcedente,8.1,Não
+751,35,2026-04-27,Estágio,Verbas Rescisórias,75406.96,Sim,Parcialmente procedente,9.9,Sim
+752,65,2024-10-18,PJ,Assédio Sexual,61612.15,Sim,Improcedente,14.4,Não
+753,9,2025-05-17,PJ,Vínculo Empregatício,59404.4,Sim,Arquivada (acordo),11.6,Não
+754,80,2026-01-29,PJ,Horas Extras,26128.49,Sim,Procedente,4.4,Sim
+755,28,2023-08-29,CLT,Acidente de Trabalho,23071.2,Não,Procedente,2.8,Sim
+756,85,2026-03-21,CLT,Assédio Moral,14255.57,Sim,Parcialmente procedente,9.5,Sim
+757,17,2024-11-06,Terceirizado,Equiparação Salarial,13231.81,Sim,Improcedente,14.6,Não
+758,35,2023-06-03,Terceirizado,Vínculo Empregatício,32848.42,Não,Arquivada (acordo),4.8,Não
+759,19,2023-08-01,PJ,Acidente de Trabalho,8014.38,Sim,Parcialmente procedente,9.7,Não
+760,56,2024-03-26,Estágio,Horas Extras,50102.5,Não,Procedente,4.5,Sim
+761,12,2024-06-18,PJ,Vínculo Empregatício,30004.13,Não,Improcedente,11.3,Sim
+762,51,2025-09-21,CLT,Horas Extras,66947.9,Sim,Procedente,8.9,Sim
+763,58,2025-08-30,PJ,Verbas Rescisórias,42649.54,Sim,Parcialmente procedente,2.8,Não
+764,62,2024-04-14,PJ,Verbas Rescisórias,12623.56,Sim,Procedente,1.2,Não
+765,57,2025-06-20,CLT,Assédio Sexual,17956.48,Não,Arquivada (acordo),8.3,Não
+766,65,2023-08-11,PJ,Verbas Rescisórias,64878.05,Sim,Improcedente,7.2,Sim
+767,26,2025-09-25,Estágio,Assédio Moral,46898.96,Sim,Improcedente,3.4,Sim
+768,97,2024-04-15,Estágio,Vínculo Empregatício,5795.94,Sim,Improcedente,1.8,Não
+769,20,2024-03-13,Estágio,Verbas Rescisórias,61073.77,Sim,Procedente,12.6,Sim
+770,10,2024-11-08,CLT,Horas Extras,21628.57,Não,Arquivada (acordo),3.9,Não
+771,54,2024-12-23,PJ,Assédio Moral,77254.57,Sim,Procedente,5.1,Sim
+772,60,2026-02-22,Terceirizado,Assédio Sexual,63918.81,Sim,Arquivada (acordo),12.9,Não
+773,78,2024-11-26,PJ,Horas Extras,9043.68,Não,Parcialmente procedente,8.3,Não
+774,72,2023-06-19,PJ,Assédio Moral,65223.98,Não,Parcialmente procedente,1.0,Não
+775,100,2024-09-20,CLT,Vínculo Empregatício,25367.15,Sim,Parcialmente procedente,6.9,Não
+776,45,2024-07-24,Estágio,FGTS,67180.22,Sim,Improcedente,1.6,Não
+777,72,2025-06-27,PJ,Acidente de Trabalho,58127.36,Sim,Procedente,13.6,Não
+778,73,2024-07-14,CLT,Assédio Moral,55962.92,Não,Arquivada (acordo),5.0,Não
+779,80,2024-05-28,CLT,Assédio Moral,43269.4,Sim,Procedente,7.2,Sim
+780,29,2024-01-10,Estágio,Assédio Moral,60654.01,Sim,Parcialmente procedente,0.6,Sim
+781,78,2025-09-12,CLT,Assédio Sexual,6248.87,Não,Parcialmente procedente,12.9,Não
+782,54,2025-09-22,Terceirizado,Verbas Rescisórias,48558.34,Sim,Arquivada (acordo),4.6,Sim
+783,92,2024-06-15,PJ,Assédio Moral,9842.43,Sim,Arquivada (acordo),2.9,Sim
+784,67,2026-01-06,Terceirizado,Assédio Moral,56549.13,Não,Improcedente,7.5,Não
+785,40,2024-06-04,Estágio,FGTS,46064.08,Sim,Arquivada (acordo),12.1,Sim
+786,68,2023-08-05,Estágio,Equiparação Salarial,79174.57,Não,Arquivada (acordo),12.2,Sim
+787,59,2025-11-08,CLT,Horas Extras,58393.24,Sim,Arquivada (acordo),11.5,Não
+788,63,2024-08-28,CLT,Assédio Moral,27959.01,Sim,Improcedente,13.2,Não
+789,91,2025-08-11,Estágio,FGTS,46285.55,Não,Arquivada (acordo),1.8,Não
+790,1,2023-07-16,Estágio,Vínculo Empregatício,52416.61,Sim,Parcialmente procedente,10.5,Sim
+791,47,2024-03-24,CLT,Assédio Sexual,41223.98,Sim,Parcialmente procedente,6.7,Sim
+792,90,2025-07-04,CLT,FGTS,67657.24,Não,Parcialmente procedente,8.6,Não
+793,47,2025-09-12,Estágio,Acidente de Trabalho,71956.25,Sim,Arquivada (acordo),3.1,Não
+794,34,2023-05-29,CLT,Assédio Moral,8426.13,Sim,Improcedente,13.5,Não
+795,62,2025-02-10,CLT,Assédio Sexual,70786.36,Sim,Improcedente,12.2,Sim
+796,67,2024-01-10,PJ,Verbas Rescisórias,58535.81,Sim,Improcedente,5.1,Não
+797,61,2025-08-22,Terceirizado,Assédio Moral,59944.16,Não,Arquivada (acordo),2.9,Sim
+798,64,2025-09-03,Estágio,Assédio Moral,78821.83,Sim,Arquivada (acordo),6.9,Sim
+799,52,2025-12-02,PJ,Vínculo Empregatício,36359.94,Sim,Procedente,3.3,Sim
+800,21,2023-09-19,CLT,Horas Extras,39767.8,Não,Improcedente,11.5,Não
+801,15,2025-04-15,Estágio,Vínculo Empregatício,53653.87,Sim,Procedente,3.5,Não
+802,85,2025-02-13,PJ,Assédio Moral,7108.58,Não,Improcedente,8.5,Não
+803,80,2026-05-19,Estágio,Equiparação Salarial,58246.84,Não,Improcedente,14.0,Sim
+804,60,2025-01-24,Terceirizado,Verbas Rescisórias,59363.26,Sim,Parcialmente procedente,0.6,Sim
+805,1,2025-10-15,Estágio,Assédio Moral,27533.14,Não,Procedente,14.1,Não
+806,44,2024-06-14,CLT,FGTS,54843.41,Não,Improcedente,6.5,Sim
+807,24,2024-09-18,Estágio,Assédio Moral,47735.98,Sim,Arquivada (acordo),6.2,Sim
+808,16,2025-05-11,Estágio,Assédio Sexual,50368.58,Sim,Parcialmente procedente,11.3,Não
+809,16,2024-03-19,PJ,Assédio Moral,37484.89,Não,Improcedente,3.5,Sim
+810,100,2024-05-28,CLT,Verbas Rescisórias,33715.26,Sim,Improcedente,14.6,Não
+811,79,2025-03-30,Terceirizado,Assédio Moral,19136.09,Sim,Arquivada (acordo),8.8,Sim
+812,46,2024-04-28,CLT,Acidente de Trabalho,49578.24,Não,Parcialmente procedente,9.7,Sim
+813,98,2025-09-13,PJ,Assédio Moral,68451.68,Sim,Procedente,4.4,Sim
+814,77,2024-09-06,CLT,Horas Extras,68224.21,Sim,Parcialmente procedente,0.8,Sim
+815,38,2025-10-13,CLT,Acidente de Trabalho,76945.88,Sim,Arquivada (acordo),7.8,Não
+816,84,2025-08-27,PJ,Verbas Rescisórias,14086.19,Sim,Arquivada (acordo),13.5,Não
+817,97,2024-10-20,Terceirizado,Equiparação Salarial,46587.66,Sim,Parcialmente procedente,8.0,Sim
+818,60,2025-01-05,Terceirizado,Assédio Moral,77423.06,Sim,Arquivada (acordo),9.9,Não
+819,9,2023-09-16,PJ,Equiparação Salarial,39245.92,Sim,Improcedente,11.6,Sim
+820,24,2024-06-06,Terceirizado,Verbas Rescisórias,14166.39,Não,Procedente,13.9,Sim
+821,26,2025-07-25,Estágio,Equiparação Salarial,49100.09,Não,Parcialmente procedente,7.4,Sim
+822,7,2025-10-24,Terceirizado,Vínculo Empregatício,78215.21,Não,Arquivada (acordo),12.0,Não
+823,16,2025-01-21,CLT,Acidente de Trabalho,50277.11,Sim,Improcedente,1.3,Sim
+824,52,2026-03-27,PJ,Verbas Rescisórias,13696.88,Não,Arquivada (acordo),1.9,Não
+825,92,2024-08-28,Terceirizado,Assédio Sexual,74506.17,Não,Improcedente,11.6,Não
+826,19,2026-03-01,PJ,Verbas Rescisórias,79009.73,Não,Parcialmente procedente,5.3,Não
+827,10,2024-08-31,CLT,Assédio Moral,59789.39,Sim,Improcedente,3.6,Não
+828,97,2025-07-09,PJ,Horas Extras,39680.4,Sim,Improcedente,14.7,Sim
+829,67,2024-01-20,Terceirizado,Acidente de Trabalho,40352.03,Sim,Procedente,6.3,Sim
+830,48,2024-07-18,Terceirizado,Assédio Moral,19280.76,Sim,Arquivada (acordo),7.7,Não
+831,63,2026-05-19,Estágio,Horas Extras,22730.28,Sim,Improcedente,11.4,Não
+832,49,2024-09-28,Estágio,Horas Extras,24260.91,Não,Improcedente,1.6,Sim
+833,51,2024-03-02,CLT,Horas Extras,18141.71,Sim,Arquivada (acordo),11.9,Não
+834,15,2023-08-26,PJ,Equiparação Salarial,12944.72,Sim,Improcedente,13.4,Não
+835,65,2024-12-08,Estágio,Equiparação Salarial,51422.94,Sim,Procedente,5.7,Não
+836,5,2023-12-27,Estágio,FGTS,8770.63,Sim,Improcedente,13.0,Não
+837,52,2025-10-31,Terceirizado,Assédio Sexual,49551.47,Sim,Parcialmente procedente,8.6,Não
+838,100,2025-01-19,Estágio,Assédio Moral,34222.46,Sim,Arquivada (acordo),3.8,Sim
+839,12,2026-03-11,CLT,FGTS,68535.5,Sim,Parcialmente procedente,9.9,Não
+840,57,2024-07-31,Terceirizado,Acidente de Trabalho,18878.25,Sim,Improcedente,6.1,Sim
+841,98,2024-05-04,CLT,Equiparação Salarial,12940.37,Não,Arquivada (acordo),11.9,Não
+842,9,2025-06-28,PJ,Vínculo Empregatício,61522.36,Sim,Arquivada (acordo),4.7,Sim
+843,99,2023-10-22,Estágio,Assédio Moral,57108.08,Sim,Improcedente,5.3,Sim
+844,24,2023-08-17,Estágio,Assédio Moral,19183.48,Sim,Procedente,11.3,Não
+845,10,2026-03-27,CLT,Assédio Moral,40208.86,Sim,Improcedente,8.0,Não
+846,80,2024-04-05,CLT,Assédio Moral,6776.49,Não,Improcedente,8.4,Não
+847,57,2023-07-22,Estágio,Assédio Sexual,22234.31,Sim,Parcialmente procedente,4.0,Não
+848,43,2024-03-05,PJ,Horas Extras,70083.97,Sim,Parcialmente procedente,12.1,Não
+849,91,2024-06-07,Terceirizado,Acidente de Trabalho,53792.31,Sim,Arquivada (acordo),4.8,Sim
+850,5,2025-11-01,CLT,Assédio Sexual,15431.7,Sim,Arquivada (acordo),1.9,Não
+851,81,2026-05-15,CLT,Vínculo Empregatício,22510.3,Sim,Procedente,11.8,Não
+852,70,2026-05-15,CLT,FGTS,79195.67,Não,Arquivada (acordo),4.0,Sim
+853,84,2024-03-28,Estágio,Acidente de Trabalho,60726.81,Sim,Procedente,13.2,Sim
+854,41,2024-01-24,Terceirizado,Assédio Sexual,16447.38,Não,Arquivada (acordo),1.8,Sim
+855,79,2025-01-04,CLT,Equiparação Salarial,11002.01,Sim,Parcialmente procedente,7.0,Sim
+856,42,2025-10-11,PJ,Vínculo Empregatício,42875.06,Sim,Improcedente,3.2,Sim
+857,95,2025-03-14,Terceirizado,Verbas Rescisórias,72068.23,Não,Parcialmente procedente,9.8,Não
+858,85,2025-04-28,Estágio,Vínculo Empregatício,38917.36,Sim,Arquivada (acordo),14.8,Não
+859,72,2026-02-24,Terceirizado,Equiparação Salarial,63214.22,Sim,Arquivada (acordo),6.3,Não
+860,90,2023-10-01,Estágio,Assédio Sexual,11341.88,Sim,Parcialmente procedente,9.4,Não
+861,58,2026-04-15,Estágio,Equiparação Salarial,77633.32,Não,Parcialmente procedente,4.8,Sim
+862,21,2023-08-06,PJ,Assédio Moral,8893.26,Não,Arquivada (acordo),6.1,Não
+863,51,2024-08-31,PJ,Equiparação Salarial,28568.04,Sim,Improcedente,8.0,Sim
+864,59,2024-06-24,Estágio,Horas Extras,40470.08,Sim,Arquivada (acordo),5.0,Sim
+865,59,2026-04-14,Estágio,Equiparação Salarial,72949.68,Sim,Parcialmente procedente,5.0,Sim
+866,34,2025-11-23,PJ,Verbas Rescisórias,43924.48,Sim,Arquivada (acordo),14.5,Sim
+867,19,2025-11-10,Estágio,Assédio Moral,12363.16,Sim,Parcialmente procedente,4.1,Sim
+868,85,2024-06-02,CLT,FGTS,55255.05,Sim,Parcialmente procedente,12.3,Não
+869,100,2024-06-07,PJ,FGTS,26627.72,Sim,Arquivada (acordo),7.5,Não
+870,81,2025-08-03,PJ,Acidente de Trabalho,65561.85,Sim,Parcialmente procedente,8.6,Não
+871,47,2025-06-09,Terceirizado,Verbas Rescisórias,56792.06,Sim,Procedente,4.9,Não
+872,26,2024-05-19,Estágio,Horas Extras,30759.07,Não,Arquivada (acordo),6.1,Sim
+873,39,2024-11-11,PJ,Assédio Sexual,52923.85,Sim,Parcialmente procedente,5.8,Não
+874,57,2024-03-08,PJ,Assédio Moral,62462.5,Não,Parcialmente procedente,2.9,Não
+875,91,2023-06-05,CLT,Acidente de Trabalho,53585.39,Sim,Procedente,3.1,Sim
+876,73,2024-04-12,CLT,Assédio Sexual,48110.11,Sim,Arquivada (acordo),1.5,Não
+877,99,2024-10-25,CLT,Equiparação Salarial,21295.16,Sim,Parcialmente procedente,11.2,Sim
+878,16,2025-10-12,PJ,Assédio Moral,6421.19,Sim,Parcialmente procedente,13.4,Sim
+879,4,2026-01-18,Estágio,Assédio Sexual,30792.73,Sim,Procedente,3.2,Sim
+880,82,2024-08-08,Terceirizado,Assédio Moral,11309.12,Não,Parcialmente procedente,3.8,Sim
+881,40,2025-05-02,PJ,Horas Extras,63310.73,Sim,Procedente,2.5,Não
+882,77,2025-07-29,PJ,Assédio Moral,21532.55,Sim,Procedente,13.0,Sim
+883,31,2025-08-19,Estágio,Verbas Rescisórias,39638.26,Sim,Improcedente,11.0,Não
+884,39,2023-11-21,PJ,Verbas Rescisórias,77824.32,Sim,Procedente,1.0,Sim
+885,100,2025-01-16,Terceirizado,Assédio Moral,57452.99,Sim,Procedente,5.0,Não
+886,2,2026-05-04,Estágio,Vínculo Empregatício,78895.72,Não,Improcedente,4.0,Sim
+887,78,2023-07-02,Terceirizado,Horas Extras,46329.5,Sim,Improcedente,1.0,Não
+888,41,2024-07-31,PJ,Assédio Sexual,36325.05,Não,Parcialmente procedente,3.2,Sim
+889,92,2025-07-25,Terceirizado,Assédio Sexual,60909.59,Sim,Improcedente,1.9,Não
+890,72,2025-03-26,PJ,Assédio Sexual,55760.16,Sim,Procedente,6.3,Sim
+891,93,2026-04-07,Estágio,Equiparação Salarial,46163.96,Sim,Procedente,2.7,Sim
+892,93,2025-07-10,Estágio,Assédio Moral,77216.69,Não,Improcedente,3.5,Não
+893,97,2025-07-23,PJ,Equiparação Salarial,13570.19,Não,Parcialmente procedente,9.9,Sim
+894,42,2025-08-10,PJ,Assédio Moral,37692.25,Sim,Arquivada (acordo),8.4,Não
+895,12,2025-03-01,Estágio,FGTS,28555.5,Não,Parcialmente procedente,12.5,Sim
+896,72,2024-04-15,Terceirizado,Assédio Sexual,12803.86,Sim,Arquivada (acordo),6.2,Sim
+897,42,2023-09-13,CLT,Equiparação Salarial,41469.46,Sim,Procedente,14.8,Sim
+898,66,2024-04-11,PJ,Assédio Moral,71903.95,Sim,Improcedente,12.1,Não
+899,8,2026-04-14,Estágio,FGTS,74105.37,Sim,Procedente,11.9,Sim
+900,53,2025-07-17,PJ,FGTS,39598.12,Sim,Arquivada (acordo),7.1,Não
+901,8,2026-03-10,CLT,Verbas Rescisórias,15356.29,Sim,Parcialmente procedente,0.5,Não
+902,30,2024-01-20,Terceirizado,Horas Extras,57828.52,Sim,Parcialmente procedente,6.9,Não
+903,58,2024-10-16,Estágio,Assédio Moral,25966.69,Não,Parcialmente procedente,8.9,Sim
+904,1,2026-05-27,CLT,Verbas Rescisórias,75595.15,Sim,Arquivada (acordo),7.8,Sim
+905,97,2025-12-19,CLT,Assédio Moral,74735.14,Sim,Procedente,5.6,Sim
+906,91,2026-01-09,CLT,Verbas Rescisórias,46245.41,Sim,Arquivada (acordo),11.1,Sim
+907,23,2024-11-14,CLT,Equiparação Salarial,7620.15,Sim,Arquivada (acordo),4.2,Sim
+908,73,2025-07-24,PJ,Assédio Sexual,51951.28,Sim,Parcialmente procedente,3.0,Não
+909,35,2026-01-25,PJ,Equiparação Salarial,26335.6,Sim,Arquivada (acordo),12.7,Não
+910,10,2024-03-21,CLT,Acidente de Trabalho,41940.0,Sim,Arquivada (acordo),13.8,Não
+911,10,2023-09-10,CLT,Assédio Moral,57472.2,Sim,Arquivada (acordo),0.7,Não
+912,13,2023-12-07,CLT,Assédio Moral,64663.61,Não,Procedente,12.0,Não
+913,89,2025-11-12,PJ,Equiparação Salarial,9536.53,Sim,Improcedente,2.9,Sim
+914,100,2025-02-10,Terceirizado,FGTS,64760.84,Não,Arquivada (acordo),9.9,Não
+915,100,2024-05-12,PJ,FGTS,78405.91,Não,Arquivada (acordo),12.3,Sim
+916,66,2025-10-07,Terceirizado,Vínculo Empregatício,34568.39,Não,Procedente,14.2,Sim
+917,62,2023-05-29,CLT,Acidente de Trabalho,30384.38,Não,Parcialmente procedente,4.8,Sim
+918,51,2026-05-05,Terceirizado,Assédio Sexual,46800.43,Sim,Parcialmente procedente,7.1,Sim
+919,100,2025-09-18,Terceirizado,FGTS,9970.64,Não,Arquivada (acordo),3.8,Não
+920,33,2026-03-05,PJ,FGTS,28510.09,Não,Procedente,3.0,Sim
+921,84,2024-11-24,Terceirizado,Horas Extras,69274.68,Não,Arquivada (acordo),10.8,Não
+922,41,2026-04-14,CLT,Assédio Moral,68488.36,Não,Improcedente,0.9,Sim
+923,9,2024-08-05,Estágio,Horas Extras,59657.85,Sim,Improcedente,13.8,Sim
+924,88,2024-07-18,Terceirizado,Horas Extras,45756.23,Não,Procedente,12.1,Não
+925,95,2023-12-29,Terceirizado,Assédio Moral,38064.51,Não,Procedente,11.8,Não
+926,72,2025-09-11,Estágio,Equiparação Salarial,51587.9,Sim,Arquivada (acordo),6.1,Sim
+927,54,2023-12-05,CLT,Assédio Moral,26258.74,Não,Procedente,3.7,Sim
+928,72,2023-08-30,CLT,Equiparação Salarial,41897.4,Não,Procedente,8.8,Não
+929,40,2023-12-13,PJ,Assédio Moral,13503.8,Não,Parcialmente procedente,7.2,Não
+930,65,2025-04-04,CLT,Acidente de Trabalho,43230.15,Sim,Procedente,11.9,Sim
+931,6,2026-01-23,PJ,Assédio Moral,22088.73,Não,Improcedente,5.2,Não
+932,74,2024-01-21,Terceirizado,FGTS,46733.43,Não,Procedente,1.9,Sim
+933,81,2024-07-11,PJ,FGTS,10358.48,Sim,Improcedente,11.0,Não
+934,86,2024-03-20,Estágio,Verbas Rescisórias,42076.32,Sim,Procedente,4.1,Sim
+935,70,2025-08-26,Estágio,Equiparação Salarial,18119.12,Não,Procedente,6.8,Não
+936,6,2024-01-14,PJ,FGTS,77954.03,Sim,Arquivada (acordo),12.5,Sim
+937,93,2025-06-06,PJ,Equiparação Salarial,17679.69,Sim,Arquivada (acordo),5.5,Não
+938,66,2025-01-13,Estágio,Acidente de Trabalho,66537.67,Sim,Procedente,6.2,Não
+939,33,2024-04-23,CLT,Assédio Sexual,21578.48,Sim,Parcialmente procedente,9.5,Não
+940,34,2024-07-15,PJ,FGTS,50540.21,Sim,Improcedente,5.7,Sim
+941,69,2024-10-12,PJ,Assédio Moral,74910.44,Sim,Improcedente,7.5,Sim
+942,10,2025-12-04,Terceirizado,Assédio Moral,16299.29,Sim,Procedente,12.5,Não
+943,31,2024-06-22,Terceirizado,Horas Extras,33500.51,Não,Improcedente,2.4,Sim
+944,93,2024-12-13,PJ,Assédio Sexual,49644.13,Sim,Improcedente,8.7,Sim
+945,85,2024-02-29,Terceirizado,Assédio Sexual,36297.75,Sim,Arquivada (acordo),7.0,Sim
+946,40,2025-05-06,CLT,Verbas Rescisórias,72028.23,Sim,Parcialmente procedente,12.3,Sim
+947,67,2025-12-24,Terceirizado,Assédio Sexual,71656.43,Sim,Procedente,5.4,Não
+948,57,2026-04-24,Terceirizado,Verbas Rescisórias,43323.52,Sim,Arquivada (acordo),5.5,Não
+949,3,2023-05-31,CLT,Horas Extras,13634.4,Não,Parcialmente procedente,8.3,Não
+950,35,2025-02-14,CLT,Assédio Moral,11353.42,Não,Parcialmente procedente,10.2,Sim
+951,2,2024-02-20,CLT,Assédio Moral,52723.3,Sim,Parcialmente procedente,6.8,Não
+952,43,2026-04-13,Terceirizado,Horas Extras,75727.98,Sim,Parcialmente procedente,6.3,Não
+953,66,2025-07-30,Estágio,FGTS,77897.14,Sim,Procedente,5.4,Não
+954,90,2024-02-26,PJ,Equiparação Salarial,79989.87,Sim,Parcialmente procedente,2.3,Não
+955,96,2024-09-02,PJ,Acidente de Trabalho,36827.35,Sim,Procedente,9.8,Não
+956,25,2024-08-27,Estágio,Equiparação Salarial,59339.97,Sim,Parcialmente procedente,0.6,Não
+957,14,2025-09-11,CLT,Assédio Moral,31195.22,Sim,Parcialmente procedente,13.6,Não
+958,38,2026-04-01,Terceirizado,Acidente de Trabalho,79521.49,Sim,Parcialmente procedente,7.6,Sim
+959,27,2023-07-14,Estágio,Vínculo Empregatício,30725.82,Sim,Procedente,8.5,Não
+960,5,2024-03-28,CLT,Assédio Moral,61167.72,Sim,Parcialmente procedente,12.5,Sim
+961,19,2024-05-07,Estágio,Assédio Sexual,68713.75,Sim,Improcedente,10.0,Não
+962,99,2023-10-17,Terceirizado,Assédio Sexual,69920.82,Sim,Procedente,9.8,Sim
+963,47,2024-03-01,Estágio,Assédio Moral,10257.86,Não,Parcialmente procedente,5.4,Sim
+964,72,2024-04-30,Terceirizado,Horas Extras,41362.29,Não,Arquivada (acordo),2.4,Não
+965,83,2024-04-29,Estágio,Assédio Moral,59378.46,Sim,Arquivada (acordo),4.1,Sim
+966,14,2024-08-11,Estágio,Horas Extras,57418.88,Sim,Procedente,14.8,Não
+967,18,2025-02-02,CLT,Verbas Rescisórias,32173.63,Sim,Arquivada (acordo),9.6,Sim
+968,74,2024-08-09,Estágio,Assédio Sexual,18577.68,Não,Arquivada (acordo),14.8,Sim
+969,65,2025-09-29,CLT,Verbas Rescisórias,12089.12,Sim,Procedente,2.3,Sim
+970,15,2023-08-26,Terceirizado,Assédio Sexual,35408.89,Não,Improcedente,1.4,Não
+971,34,2026-02-24,CLT,Assédio Moral,58607.71,Não,Procedente,4.7,Sim
+972,35,2026-03-20,CLT,Acidente de Trabalho,77712.99,Não,Arquivada (acordo),10.0,Não
+973,22,2025-07-05,Terceirizado,Assédio Moral,61511.13,Sim,Arquivada (acordo),2.2,Não
+974,70,2025-03-31,Estágio,Assédio Moral,73237.5,Sim,Improcedente,9.2,Sim
+975,14,2023-08-24,PJ,Verbas Rescisórias,66665.07,Não,Arquivada (acordo),10.7,Sim
+976,46,2025-02-07,Estágio,Vínculo Empregatício,77656.59,Não,Improcedente,11.2,Sim
+977,64,2023-06-11,Estágio,Verbas Rescisórias,59164.32,Sim,Improcedente,2.9,Não
+978,32,2023-10-27,Terceirizado,Acidente de Trabalho,16609.91,Sim,Procedente,10.2,Sim
+979,64,2024-11-23,Terceirizado,Acidente de Trabalho,40912.94,Não,Parcialmente procedente,5.5,Não
+980,99,2026-02-14,PJ,Assédio Sexual,62800.87,Não,Parcialmente procedente,3.7,Sim
+981,93,2025-04-03,PJ,FGTS,11691.01,Sim,Parcialmente procedente,6.1,Não
+982,90,2024-03-29,Terceirizado,Vínculo Empregatício,68816.82,Não,Arquivada (acordo),4.7,Sim
+983,81,2024-10-25,CLT,Vínculo Empregatício,65577.41,Não,Arquivada (acordo),9.7,Sim
+984,72,2024-12-20,Terceirizado,Acidente de Trabalho,46426.73,Não,Improcedente,3.6,Não
+985,97,2025-01-05,PJ,Equiparação Salarial,72341.12,Sim,Arquivada (acordo),5.5,Não
+986,71,2023-12-14,Terceirizado,Assédio Sexual,14383.08,Sim,Procedente,10.3,Não
+987,23,2025-10-11,CLT,Horas Extras,39688.81,Não,Improcedente,10.8,Sim
+988,24,2024-05-20,PJ,Vínculo Empregatício,61043.83,Sim,Parcialmente procedente,13.0,Sim
+989,42,2026-03-10,CLT,FGTS,66840.14,Sim,Procedente,3.9,Não
+990,31,2024-09-05,CLT,FGTS,52772.25,Sim,Arquivada (acordo),12.7,Sim
+991,70,2025-06-13,Estágio,Assédio Sexual,52140.71,Sim,Arquivada (acordo),1.6,Não
+992,88,2025-06-13,PJ,Verbas Rescisórias,63758.31,Não,Arquivada (acordo),2.7,Não
+993,45,2023-07-22,Terceirizado,Horas Extras,25656.84,Não,Parcialmente procedente,7.1,Sim
+994,95,2024-01-06,Terceirizado,Verbas Rescisórias,49878.45,Não,Procedente,4.0,Não
+995,56,2024-08-27,CLT,Horas Extras,16157.5,Não,Improcedente,8.0,Não
+996,88,2024-09-30,Estágio,Acidente de Trabalho,46423.19,Sim,Improcedente,4.3,Não
+997,55,2025-06-07,PJ,Assédio Moral,36497.69,Não,Procedente,7.3,Não
+998,41,2025-06-24,Terceirizado,Assédio Sexual,77281.05,Sim,Procedente,10.4,Não
+999,83,2024-04-16,CLT,Assédio Moral,34703.31,Não,Parcialmente procedente,6.9,Não
+1000,13,2023-11-24,Estágio,Verbas Rescisórias,45909.52,Sim,Parcialmente procedente,7.6,Sim
